@@ -5,6 +5,8 @@ title: Mind Design
 
 # Big questions
 
+## Take-home messages
+
 ## Overall structure
 
 * _Situate_ my story broadly in the materialist, Dennettian framework
