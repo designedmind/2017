@@ -7,6 +7,35 @@ title: Mind Design
 
 ## Take-home messages
 
+These are the main claims I will be expanding on the next few years:
+
+* Consciousness is _designed functionality_, like a heart is a designed
+  to work as a pump. The "designer" here is natural selection, not an
+  intelligent designer. The word "designed" emphasises that
+  consciousness serves a _function_, rather than being a spurious
+  side-effect of having a certain kind of brain, or exhibiting a certain
+  kind of behaviour. To put it another way, consciousness _is_ a certain
+  kind of behaviour.
+* One of the key functions of consciousness is to allow an evolved agent
+  to treat its own _perceptual judgements_ -- judgements which are not
+  themselves conscious -- as data. For example while any perceptual
+  agent can be a victim of a perceptual illusion, only a _conscious_
+  agent can be an _appreciator_ of such things. From an evolutionary
+  point of view it is sometimes useful to be able to distinguish between
+  _the way the world seems_ and the way we believe the world to be.
+* This represention of the way the world seems does not need to take the
+  form of an explicit internal image (cf. "finding out vs. filling in"
+  debate). But _it is nevertheless a representation of the way the world
+  seems_. It is simply a representation which is built on an as-needed
+  basis: when some behaviour about "the way the world seems" is needed,
+  the brain generates a judgement about the way the world seems -
+  perhaps by initiating an action, such as a visual saccade, to acquire
+  the needed information, or perhaps by retroactively constructing it by
+  analysing a lingering trace of some earlier perceptual process.
+  Functionally-speaking, this is equivalently to "eagerly" computing the
+  represention up front, but is much more computationally tractable.
+  This is essentially Dennett's "multiple drafts" theory of consciousness.
+
 ## Overall structure
 
 * _Situate_ my story broadly in the materialist, Dennettian framework
