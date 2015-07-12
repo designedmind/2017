@@ -46,3 +46,4 @@ These are the main claims I will be expanding on the next few years:
   the minute I'm speaking to you and describing what's it like to be me,
   we're back in the realm of things that are, by definition, fully
   explicable via a physical story.
+* Free-floating rationales.

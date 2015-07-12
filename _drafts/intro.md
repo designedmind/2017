@@ -6,20 +6,34 @@ title: Mind Design
 # The Virtual Cartesian Theatre
 
 Our everyday intuitions cleave the natural world into two realms: the
-material and the mental. The realm of _matter_ (and related things, like
-_fundamental forces_) is where all the stuff observable to science
-happens. The realm of _conscious minds_ seems inherently _private_: for
-example it may seem plausible that one could build a robot which behaved
-in every way like a person, but was not conscious. (This is sometimes
-called the _zombie hypothesis_.) Yet although matter and mind seem
-fundamentally distinct, they also seem to interact in interesting ways.
+material and the mental. The realm of _matter_ is where all the stuff
+observable to science happens. (We can lump _fundamental forces_,
+_energy_ and whatnot in with matter; whatever you take the physical
+world to be made of.) The realm of _conscious minds_ seems an inherently
+distinct domain. For example, to most people it seems quite plausible
+that if one could build a robot which behaved in every way like a
+person, it would be possible for that robot to lack an "inner life".
+(This is sometimes called the _zombie hypothesis_.) Yet although matter
+and mind seem fundamentally distinct, they also seem to interact in
+interesting ways.
 
-There seems to be rather large gap between the "scientific image", and
-our everyday intuitions (the "folk image"). As scientists we may believe
-it is matter doing the thinking. But as _people_ we find it hard to
-comprehend that there may be nothing more to us than matter.
+There seems to be rather large gap between this everyday intuition (the
+"folk image") and the scientific image. As scientists, it seems that the
+physical world is all there is. There doesn't seem to be a separate
+realm where minds reside. We may believe it is matter doing the
+thinking. But as _people_ we find it hard to comprehend that there may
+be nothing more to us than matter.
 
-[Dennett vs. Chalmers] "Explained away" vs. brand-new theory
+The gap between the folk image and the scientific image remains large,
+to some, unsurmountably so. It has lead some philosophers, notably David
+Chalmers, to argue that the scientific world-view needs to be extended
+to include consciousness as a new primitive. Others, such as Daniel
+Dennett, have argued that some aspects of the folk image -- in
+particular qualia, and the sense that our consciousness phenomenonology
+is "plenum", a rich sensory world-image something like a movie in the
+brain -- are confused or illusory.
+
+How can resolve this stand-off?
 
 I have a tentative answer to this question. I believe consciousness can
 be understood as a _Virtual Cartesian Theatre_, a mechanism designed by
