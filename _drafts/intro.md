@@ -3,30 +3,6 @@ layout: default
 title: Mind Design
 ---
 
-# Introduction
-
-This is an embryonic sketch of a theory of consciousness I call the
-_Virtual Cartesian Theatre_. Like Daniel Dennett, I believe
-consciousness can (with some effort) be understood as an elaborate form
-of behaviour. In particular, our everyday Cartesian _intuitions_ about
-the mind are
-
-Indeed, the _Virtual Cartesian Theatre_ builds substantially on the
-insights of Daniel Dennett. However, whereas Dennett explicitly rejects
-the language of qualia and "movies in the brain" as vestiges of
-Cartesian Dualism, in my account they are recast as robust _features of
-our behaviour_. Dennett resists the idea that there is a "coming
-together", a central . While it is sensible to reject a very literal
-view of a "coming together", I will argue that there is a _functional_
-coming together which is perhaps the essence of conscious experience.
-
-This fits them into a Dennettian, multiple-drafts-style view of
-consciousness. Dennett's approach, according to some critics, "explains
-away" consciousness, disregarding most of our non-materialist
-intuitions. The Virtual Cartesian Theatre construes our non-materialist
-intuitions as _features of_ consciousness, part of the phenomenon to be
-explained, rather than lingering confusion about it.
-
 # The Virtual Cartesian Theatre
 
 When we think about our own consciousness, there seems to be an
