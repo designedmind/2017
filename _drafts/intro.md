@@ -65,3 +65,7 @@ the story to understand, and a significant portion of this website will
 be devoted to trying to explain it. What I just said seems _obviously
 false_. And yet, with some effort, it seems to be possible to understand
 consciousness in this way.
+
+<a name="chalmers97"></a>Chalmers, D. (1997).
+[Moving Forward on the Problem of Consciousness](). In _Journal of
+Consciousness Studies_ 4, no. 1.
