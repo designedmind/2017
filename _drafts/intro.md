@@ -5,10 +5,10 @@ title: Mind Design
 
 # The Virtual Cartesian Theatre
 
-Everyday intuition about consciousness cleaves the natural world into
-two realms: the material and the mental. The material realm is where all
-the stuff about minds that is observable to science happens. Here we
-find brains, neurons, synapses and neurochemical pathways.
+When we think about our own consciousness, there seems to be an
+irreconcilable gap between the material world and the mental. In the
+material world we find all the mind-stuff that is observable to science:
+brains, neurons, synapses, neurochemical pathways.
 
 The realm of _conscious minds_ seems an inherently distinct domain. For
 example, to most people it seems quite plausible that if one could build

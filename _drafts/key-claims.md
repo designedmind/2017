@@ -1,5 +1,5 @@
 ---
-layout: default
+>layout: default
 title: Key claims
 ---
 
@@ -47,3 +47,4 @@ These are the main claims I will be expanding on the next few years:
   we're back in the realm of things that are, by definition, fully
   explicable via a physical story.
 * Free-floating rationales.
+* We are all "folk Cartesians".
