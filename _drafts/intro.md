@@ -5,9 +5,10 @@ title: Mind Design
 
 # The Virtual Cartesian Theatre
 
-Everyday intuition cleaves the natural world into two realms: the
-material and the mental. The material realm is where all the stuff
-observable to science happens. In the material world we find
+Everyday intuition about consciousness cleaves the natural world into
+two realms: the material and the mental. The material realm is where all
+the stuff about minds that is observable to science happens. Here we
+find brains, neurons, synapses and neurochemical pathways. There may
 
 The realm of _conscious minds_ seems an inherently distinct domain. For
 example, to most people it seems quite plausible that if one could build
