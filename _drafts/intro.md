@@ -8,29 +8,31 @@ title: Mind Design
 When we think about our own consciousness, there seems to be an
 irreconcilable gap between the material world and the mental. In the
 material world we find all the mind-stuff that is observable to science:
-brains, neurons, synapses, neurochemical pathways.
+brains, neurons, synapses, neurochemical pathways. Things in the
+material world are _public_ in the sense that if make some observation
+of it then in principle at any rate you could have made a similar
+observation and learned essentially the same thing.
 
-The realm of _conscious minds_ seems an inherently distinct domain. For
-example, to most people it seems quite plausible that if one could build
-a robot which behaved in every way like a person, it would be possible
-for that robot to lack an "inner life". (This is sometimes called the
-_zombie hypothesis_.) A related intution is that however much we
-understand about the mechanics or workings of the brain, it seems to be
-a mysterious additional fact that we also have "inner lives". Moreover
-facts about our inner lives seem to be _private_ in a way that facts
-about the material world are not. I can tell you what it is like to be
-me, but there is no shared part of the world I can point to say "that is
-what it is like to be me".
+The realm of _conscious minds_ seems to be something that exists _in
+addition_ to this. For example, to many people it seems quite plausible
+that even if one could build a robot which behaved in every way like a
+person, it would be possible for that robot to lack an "inner life".
+(This is sometimes called the _zombie hypothesis_.) A related intution
+is that however much we understand about the mechanics or workings of
+the brain, it seems to be a mysterious additional fact that we also have
+"inner lives". Moreover facts about our inner lives seem to be _private_
+in a way that facts about the material world are not. I can tell you
+what it is like to be me, but there is no shared part of the world I can
+point to say "that is what it is like to be me".
 
-This gap between this everyday intuition (the "folk image") and the
-scientific image remains large -- to some, unsurmountably so. It has
-lead some philosophers, notably David Chalmers, to argue that the
-scientific world-view needs to be extended to include consciousness as a
-new primitive. Others, such as Daniel Dennett, have argued that some
-aspects of the folk image -- in particular qualia, and the sense that
-our consciousness phenomenonology is "plenum", a rich sensory
-world-image something like a movie in the brain -- are confused or
-illusory.
+Following David Chalmers, I will call this the _further fact_ intuition.
+The further fact intution is compelling. It has lead some philosophers,
+notably David Chalmers, to argue that the scientific world-view needs to
+be extended to include consciousness as a new primitive ingredient.
+Others, such as Daniel Dennett, have argued that some aspects of the
+folk image -- in particular qualia, and the sense that our consciousness
+phenomenonology is "plenum", a rich sensory world-image something like a
+movie in the brain -- are confused or illusory.
 
 I have a tentative answer to this question. I believe consciousness can
 be understood as a _Virtual Cartesian Theatre_, a mechanism designed by
@@ -67,7 +69,7 @@ qualia and "movies in the brain" as vestiges of Cartesian Dualism, the
 Virtual Cartesian Theatre _recasts_ them as robust features of our
 behaviour, fitting them, ironically maybe, into a fully Dennettian
 world-view. Dennett's approach, according to some critics, "explains
-away" consciousness, disregarding most of our non-materialism
+away" consciousness, disregarding most of our non-materialist
 intuitions. I believe a complete scientific theory of consciousness
 requires construing our non-materialist intuitions as _features of_
 consciousness, part of the phenomenon to be explained, rather than
