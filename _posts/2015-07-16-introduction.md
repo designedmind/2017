@@ -14,19 +14,20 @@ the mind as _central features of_ consciousness, part of the phenomenon
 to be explained, rather than lingering confusion about it.
 
 The starting point of my account is Dennett's multiple-drafts theory of
-consciousness, as described in [Consciousness Explained](#dennett91a).
-The multiple-drafts model, with some effort, allows consciousness to be
-understood as an elaborate form of behaviour structured around an
-internal narrative. Dennett's theory is profound, but many find it
-extremely unsatisfying. The most common criticism is that rather than
-_explaining_ consciousness, Dennett "explains it away", somehow
-disregarding the very phenomenon that needs explaining.
+consciousness, as described in his 1991 book
+[Consciousness Explained](#dennett91a). The multiple-drafts model, with
+some effort, allows consciousness to be understood as an elaborate form
+of behaviour structured around an internal narrative. Dennett's theory
+is profound, but many find it extremely unsatisfying. The most common
+criticism is that rather than _explaining_ consciousness, Dennett
+"explains it away", somehow disregarding the very phenomenon that needs
+explaining.
 
-I am enthusiastic about the shift in perspective that Dennett introduced
-but agree that it falls short of an account of consciousness. The core
-of Dennett's problem is his (_prima facie_ reasonable) rejection of any
-idea of a "coming together", a Central Image for the mind's eye to
-inspect.
+I am enthusiastic about the shift in perspective that Dennett's book
+introduced. However, I agree that it falls short of an account of
+consciousness. The core of Dennett's problem is his (_prima facie_
+reasonable) rejection of any idea of a "coming together", a Central
+Image for the mind's eye to inspect.
 
 For example, in a [BBS commentary on Pylyshyn](#dennett02) Dennett
 suggests that
