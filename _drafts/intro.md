@@ -8,7 +8,7 @@ title: Mind Design
 Everyday intuition about consciousness cleaves the natural world into
 two realms: the material and the mental. The material realm is where all
 the stuff about minds that is observable to science happens. Here we
-find brains, neurons, synapses and neurochemical pathways. There may
+find brains, neurons, synapses and neurochemical pathways.
 
 The realm of _conscious minds_ seems an inherently distinct domain. For
 example, to most people it seems quite plausible that if one could build
@@ -23,16 +23,14 @@ me, but there is no shared part of the world I can point to say "that is
 what it is like to be me".
 
 This gap between this everyday intuition (the "folk image") and the
-scientific image is a large one. The gap between the folk image and the
-scientific image remains large, to some, unsurmountably so. It has lead
-some philosophers, notably David Chalmers, to argue that the scientific
-world-view needs to be extended to include consciousness as a new
-primitive. Others, such as Daniel Dennett, have argued that some aspects
-of the folk image -- in particular qualia, and the sense that our
-consciousness phenomenonology is "plenum", a rich sensory world-image
-something like a movie in the brain -- are confused or illusory.
-
-How can we resolve this stand-off?
+scientific image remains large -- to some, unsurmountably so. It has
+lead some philosophers, notably David Chalmers, to argue that the
+scientific world-view needs to be extended to include consciousness as a
+new primitive. Others, such as Daniel Dennett, have argued that some
+aspects of the folk image -- in particular qualia, and the sense that
+our consciousness phenomenonology is "plenum", a rich sensory
+world-image something like a movie in the brain -- are confused or
+illusory.
 
 I have a tentative answer to this question. I believe consciousness can
 be understood as a _Virtual Cartesian Theatre_, a mechanism designed by
@@ -75,6 +73,5 @@ requires construing our non-materialist intuitions as _features of_
 consciousness, part of the phenomenon to be explained, rather than
 lingering confusion about it.
 
-The paragraphs above are little more than a sketch, full of outlandish
-claims and impressionistic language. This document is my attempt to
-unpack them into something much more comprehensive.
+This document is my attempt to unpack the above sketch into something
+much more comprehensive.
