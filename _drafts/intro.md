@@ -3,6 +3,30 @@ layout: default
 title: Mind Design
 ---
 
+# Introduction
+
+This is an embryonic sketch of a theory of consciousness I call the
+_Virtual Cartesian Theatre_. Like Daniel Dennett, I believe
+consciousness can (with some effort) be understood as an elaborate form
+of behaviour. In particular, our everyday Cartesian _intuitions_ about
+the mind are
+
+Indeed, the _Virtual Cartesian Theatre_ builds substantially on the
+insights of Daniel Dennett. However, whereas Dennett explicitly rejects
+the language of qualia and "movies in the brain" as vestiges of
+Cartesian Dualism, in my account they are recast as robust _features of
+our behaviour_. Dennett resists the idea that there is a "coming
+together", a central . While it is sensible to reject a very literal
+view of a "coming together", I will argue that there is a _functional_
+coming together which is perhaps the essence of conscious experience.
+
+This fits them into a Dennettian, multiple-drafts-style view of
+consciousness. Dennett's approach, according to some critics, "explains
+away" consciousness, disregarding most of our non-materialist
+intuitions. The Virtual Cartesian Theatre construes our non-materialist
+intuitions as _features of_ consciousness, part of the phenomenon to be
+explained, rather than lingering confusion about it.
+
 # The Virtual Cartesian Theatre
 
 When we think about our own consciousness, there seems to be an
@@ -27,10 +51,13 @@ point to say "that is what it is like to be me".
 
 Following David Chalmers, I will call this the _further fact_ intuition.
 The further fact intution is compelling. It has lead some philosophers,
-notably David Chalmers, to argue that the scientific world-view needs to
-be extended to include consciousness as a new primitive ingredient.
-Others, such as Daniel Dennett, have argued that some aspects of the
-folk image -- in particular qualia, and the sense that our consciousness
+notably Chalmers, to argue that the scientific world-view needs to be
+extended to include consciousness as a new primitive ingredient. Others,
+such as Daniel Dennett, have argued that the further fact intuition is
+just a false intuition.
+
+some aspects of the folk image
+-- in particular qualia, and the sense that our consciousness
 phenomenonology is "plenum", a rich sensory world-image something like a
 movie in the brain -- are confused or illusory.
 
@@ -62,18 +89,3 @@ the story to understand, and a significant portion of this website will
 be devoted to trying to explain it. What I just said seems _obviously
 false_. And yet, with some effort, it seems to be possible to understand
 consciousness in this way.
-
-The _Virtual Cartesian Theatre_ builds substantially on the insights of
-Daniel Dennett. Whereas Dennett explicitly rejects the language of
-qualia and "movies in the brain" as vestiges of Cartesian Dualism, the
-Virtual Cartesian Theatre _recasts_ them as robust features of our
-behaviour, fitting them, ironically maybe, into a fully Dennettian
-world-view. Dennett's approach, according to some critics, "explains
-away" consciousness, disregarding most of our non-materialist
-intuitions. I believe a complete scientific theory of consciousness
-requires construing our non-materialist intuitions as _features of_
-consciousness, part of the phenomenon to be explained, rather than
-lingering confusion about it.
-
-This document is my attempt to unpack the above sketch into something
-much more comprehensive.
