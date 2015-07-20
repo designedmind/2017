@@ -9,4 +9,3 @@ layout: default
 * Get font-weight 300 working?
 * Tags
 * Multilevel navigation (see http://ermauliks.github.io/2014/04/21/multilevel-navigation-using-jekyll/)
-* RSS feed (http://joelglovier.com/writing/rss-for-jekyll/)
