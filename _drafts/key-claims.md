@@ -48,3 +48,5 @@ These are the main claims I will be expanding on the next few years:
   explicable via a physical story.
 * Free-floating rationales.
 * We are all "folk Cartesians".
+* "Neural correlates" is a bad meme
+* Tacit ontology of a behaviour
