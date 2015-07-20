@@ -5,10 +5,10 @@ title: Introduction
 
 # Introduction
 
-This website is an embryonic sketch of a theory of consciousness I call
-the _Virtual Cartesian Theatre_. Some aspects of the idea are new, but
-many are not. In particular it builds substantially on the insights of
-Daniel Dennett. A key difference, _vis à vis_ Dennett, is that the
+This web essay is an embryonic sketch of a theory of consciousness I
+call the _Virtual Cartesian Theatre_. Some aspects of the idea are new,
+but many are not. In particular it builds substantially on the insights
+of Daniel Dennett. A key difference, _vis à vis_ Dennett, is that the
 Virtual Cartesian Theatre construes our non-materialist intuitions about
 the mind as _central features of_ consciousness, part of the phenomenon
 to be explained, rather than lingering confusion about it.
