@@ -61,10 +61,10 @@ purpose of this blog.
 
 * * *
 
-<a name="dennett91a"></a>Dennett, D. (1991a).
+<a name="dennett91a"></a>Dennett, Daniel C. (1991).
 [Consciousness Explained](). Little, Brown.
 
-<a name="dennett02"></a>Dennett, D. (2002).
+<a name="dennett02"></a>Dennett, Daniel C. (2002).
 [Does your brain use the images in it, and if so, how?]() Commentary on
 Pylyshyn, _Behavioral and Brain Sciences_ 25, no. 2, April 2002, pp.
 189-190.

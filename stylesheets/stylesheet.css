@@ -46,7 +46,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Lato, sans-serif;
   color: #00e853;
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
@@ -82,7 +82,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Lato, sans-serif;
   color: #b5b8b3;
   letter-spacing: -0.03em;
 }
@@ -127,7 +127,7 @@ ul li {
 
 ul li:before {
   content: ">>";
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Lato, sans-serif;
   font-size: 13px;
   color: #b5e853;
   margin-left: -37px;
