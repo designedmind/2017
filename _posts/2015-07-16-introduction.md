@@ -15,7 +15,7 @@ part of the phenomenon to be explained, rather than lingering confusion
 about it.
 
 The starting point of my account is Dennett's multiple-drafts theory of
-consciousness. This is set out in detail in his 1991 book
+consciousness, as set out in his 1991 book
 [Consciousness Explained](#dennett91a). The multiple-drafts model
 positions consciousness as an elaborate form of _behaviour_ structured
 around an internal narrative. Dennett's theory is profound, but many
@@ -47,15 +47,16 @@ Examples that I will explore in detail over the coming months include
 the way we report visual illusions, entopic phenomena like
 [floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
 hallucinations induced by psychoactive drugs. These are all "behavioural
-outputs" of vision that are deeply imagistic.
+outputs" of vision that are profoundly imagistic.
 
-This is not to say that when someone is seeing one can peek into their
-brain and find image-like structures. It is just to say that our
+This is not to say that when someone is seeing, one could peek into
+their brain and find image-like structures. It is just to say that our
 self-narratives often have content that is _functionally_ image-like,
 and that the associated behaviours are similarly imagistic. In this
-important sense there _is_ an inner presentation. Indeed the functional
-role of the narrative in this situation is _precisely_ to serve as a
-kind of inner image.
+important, functional, sense there _is_ an inner presentation. Indeed
+the functional role of the narrative in this situation is _precisely_ to
+serve as a kind of inner image, _precisely_ so that we can exhibit
+"imagistic" behaviour.
 
 Such a functional coming-together is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
