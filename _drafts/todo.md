@@ -4,6 +4,8 @@ layout: default
 
 # Technical matters
 
+* Contact email
+* 'About' page
 * Hosted comments, e.g. Disqus
 * Bibtex database
 * Get font-weight 300 working?

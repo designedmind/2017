@@ -6,28 +6,30 @@ title: Introduction
 # Introduction
 
 This web essay is an embryonic sketch of a theory of consciousness I
-call the _Virtual Cartesian Theatre_. Some aspects of the idea are new,
-but many are not. In particular it builds substantially on the insights
-of Daniel Dennett. A key difference, _vis à vis_ Dennett, is that the
+call the _Virtual Cartesian Theatre_. Some aspects of the idea are new;
+others are not. In particular it builds substantially on the insights of
+Daniel Dennett. A key difference, _vis à vis_ Dennett, is that the
 Virtual Cartesian Theatre construes our non-materialist intuitions about
-the mind as _central features of_ consciousness, part of the phenomenon
-to be explained, rather than lingering confusion about it.
+the mind as _central features of_ consciousness. These intutions are
+part of the phenomenon to be explained, rather than lingering confusion
+about it.
 
 The starting point of my account is Dennett's multiple-drafts theory of
-consciousness, as described in his 1991 book
-[Consciousness Explained](#dennett91a). The multiple-drafts model, with
-some effort, allows consciousness to be understood as an elaborate form
-of behaviour structured around an internal narrative. Dennett's theory
-is profound, but many find it extremely unsatisfying. The most common
-criticism is that rather than _explaining_ consciousness, Dennett
-"explains it away", somehow disregarding the very phenomenon that needs
-explaining.
+consciousness. This is set out in detail in his 1991 book
+[Consciousness Explained](#dennett91a). The multiple-drafts model
+positions consciousness as an elaborate form of _behaviour_ structured
+around an internal narrative. Dennett's theory is profound, but many
+find it extremely unsatisfying. The most common criticism is that by
+arguing that function, or behaviour, is all that needs to be accounted
+for, Dennett's theory disregards the very things that needs explaining,
+namely the fact that _it is like something to be me_. Rather than
+_explaining_ consciousness, Dennett's story "explains it away".
 
 I am enthusiastic about the shift in perspective that Dennett's book
 introduced. However, I agree that it falls short of an account of
 consciousness. The core of Dennett's problem is his (_prima facie_
-reasonable) rejection of any idea of a "coming together", a Central
-Image for the mind's eye to inspect.
+reasonable) rejection of any idea of a "coming together", an internal
+image for the mind's eye to inspect.
 
 For example, in a [BBS commentary on Pylyshyn](#dennett02) Dennett
 suggests that
