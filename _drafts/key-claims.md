@@ -55,6 +55,7 @@ These are the main claims I will be expanding on the next few years:
   explicable via a physical story.
 * Free-floating rationales.
 * We are all "folk Cartesians".
+* https://www.psychologytoday.com/blog/the-imprinted-brain/201407/come-back-homunculus-all-is-forgiven
 * "Neural correlates" is a bad meme. A common intuition is that any
   representation which encodes information gives rise to a "phenomenal
   space". (Cf. neuronal workspace models, where information that is
