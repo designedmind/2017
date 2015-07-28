@@ -25,7 +25,7 @@ These are the main claims I will be expanding on the next few years:
   distinguish between _the way the world seems_ and the way we believe
   the world to be.) Other examples include conscious awareness of
   hallucinations induced by hallucinogenic drugs, and of optical effects
-  such as parallax.
+  such as parallax. [Relationship of this to HOT theories.]
 * This represention of the way the world seems does not need to take the
   form of an explicit internal image (cf. "finding out vs. filling in"
   debate). But it _is_ nevertheless a representation of the way the
@@ -59,9 +59,10 @@ These are the main claims I will be expanding on the next few years:
   representation which encodes information gives rise to a "phenomenal
   space". (Cf. neuronal workspace models, where information that is
   broadcast in a way that makes it widely available to many areas of
-  processing is "conscious".) Relatedly, the intuition behind inverted
-  or absent qualia is that phenomenal character is independent of
-  (parallel with) function.
+  processing is "conscious". Also Damasio's stuff. Also recent paper by
+  Friston on consciousness.) Relatedly, the intuition behind inverted or
+  absent qualia is that phenomenal character is independent of (parallel
+  with) function.
 * When we "recall" how something looked (or how pain felt) we are not
   _remembering the phenomenology_ of vision or pain. Rather, _the
   remembering is the phenomenology_, i.e. the "phenomenology" is the

@@ -10,7 +10,7 @@ call the _Virtual Cartesian Theatre_. Some aspects of the idea are new;
 others are not. In particular it builds substantially on the insights of
 Daniel Dennett. A key difference, _vis à vis_ Dennett, is that the
 Virtual Cartesian Theatre construes our non-materialist intuitions about
-the mind as _central features of_ consciousness. These intutions are
+the mind as _central features of_ consciousness. These intuitions are
 part of the phenomenon to be explained, rather than lingering confusion
 about it.
 
@@ -39,23 +39,26 @@ suggests that
 > of ancient memories, sexual arousal, ... and none of these is imagistic
 > in any sense...”
 
-Dennett's skepticism of a literal construal of imagery is understandable
-because of the obvious echos of the "classical" Cartesian theatre.
-Nevertheless, Dennett's description of vision here is simply inaccurate:
-in fact there are _many_ imagistic components of visual behaviour.
-Examples that I will explore in detail over the coming months include
-the way we report visual illusions, entopic phenomena like
+Dennett's skepticism regarding a literal construal of imagery is
+unsurprising, given his materialist pedigree and the obvious echos of
+the "classical" Cartesian theatre in the idea of an inner image. While
+his commitment to materialism is admirable, Dennett's description of
+vision here is simply inaccurate: in fact there are _many_ imagistic
+components of visual behaviour. Examples that I will explore in detail
+over the coming months include the way we report visual illusions,
+entopic phenomena like
 [floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
 hallucinations induced by psychoactive drugs. These are all "behavioural
 outputs" of vision that are profoundly imagistic.
 
-This is not to say that when someone is seeing, one could peek into
-their brain and find image-like structures. It is just to say that our
+This is not to say that if we were somehow able to peek into the brain
+of someone while they were seeing, that we should expect to find
+image-like patterns of neural activation. Rather, it is to say that our
 self-narratives often have content that is _functionally_ image-like,
 and that the associated behaviours are similarly imagistic. In this
 important, functional, sense there _is_ an inner presentation. Indeed
 the functional role of the narrative in this situation is _precisely_ to
-serve as a kind of inner image, _precisely_ so that we can exhibit
+serve as an inner image of sorts, _precisely_ to enable this kind of
 "imagistic" behaviour.
 
 Such a functional coming-together is what I mean by the Virtual
