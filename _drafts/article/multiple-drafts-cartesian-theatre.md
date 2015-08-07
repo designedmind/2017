@@ -8,35 +8,36 @@ According to [Pessoa et al](#pessoa98), for example,
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-Indeed, it seems we materialists have been agreeing that it is wrong for
-so long that we no longer seem to need much of a justification for doing
-so.
+It seems we materialists have been agreeing that anything that smacks of
+Cartesianism is wrong for so long that we no longer seem to need much of
+a justification for doing so. Methodologically, this entrenched dogma
+makes it difficult to discuss a cognitive architecture that even has the
+_flavour_ of Cartesian dualism without running this risk of its being
+miscontrued as a non-materialist proposal.
 
 The problem with the Cartesian Theatre as traditionally construed is not
-the rather obvious threat of an infinite series of ever-more-nested
-homunculi. As long as any posited inner sub-agent is strictly simpler
-than the agent which contains it -- as long as it is a _proper_
-sub-agent, as a mathematician might say -- such a regress can eventually
-terminate. Indeed, Dennett's theories, and similar positions such as
-Lycan's "homuncular functionalism" (Lycan, 1987), rely on the
-decomposition of the self into a number of smaller proto-selves.
-Instead, the problem seems to be with the very idea of some kind of
-“gateway” through which a perception, or a judgement, must “pass” in
-order for it to become conscious. Aside from its obviously Cartesian
-overtones, exactly why this is problematic is less clear. The thought is
-perhaps that in a fully materialistic theory, a “consciousness gateway”
-is redundant at best.
+simply the threat of an infinite series of ever-more-nested homunculi.
+As long as any posited inner sub-agent is strictly simpler than the
+agent which contains it -- as long as it is a _proper_ sub-agent, as a
+mathematician might say -- such a regress can eventually terminate.
+Indeed, Dennett's theories, and similar positions such as Lycan's
+"homuncular functionalism" ([Lycan, 1987]()), propose exactly such a
+decomposition of the self into a number of strictly smaller
+proto-selves. Instead, the problem with the Cartesian Theatre, at least
+for Dennett, seems to be with the very idea of some kind of "gateway"
+through which a perception, or a judgement, must "pass" in order for it
+to become conscious. But aside from the obviously Cartesian overtones,
+exactly why this is problematic is less clear. The thought is perhaps
+that in a fully materialistic theory, a "consciousness gateway" is
+redundant at best.
 
 What I shall now attempt to argue is that despite Dennett's best
 intentions, his Multiple Drafts Model of consciousness amounts to just
 such a theory of a functional gateway. I will then attempt to challenge
 the materialist intuition that such a gateway would be somehow
-redundant. There is not the space here to do this topic full justice, so
-I will only offer some empirical speculation on how such a gateway might
-have come about and the role it might play in the generation of
-behaviour. Finally, I will suggest that the real Cartesian myth we need
-to dispel is the idea that Descartes is to blame for any of this. There
-are deeper reasons that we all find Cartesian thinking very natural.
+redundant. In particular I will argue that such a functional gateway
+plays an essential role in generating certain kinds of behaviour that
+are canonical examples of conscious behaviour.
 
 So let's start with the Multiple Drafts Model. The very name of
 Dennett's theory invites the question: multiple drafts of what? If there
@@ -84,9 +85,12 @@ So if you are a materialist who takes the denial of any kind of
 Cartesian Theatre -- even a biologically plausible one -- as a given, I
 ask that you suspend your anti-Cartesian intuitions and grant the case
 for the functional gateway for the time being. The remaining task is to
-tackle the intuition that such a gateway would be somehow redundant. The
-lingering materialist suspicion is that the kinds of judgements we have
-been discussing – filling in judgements, inferences about temporal
+tackle the intuition that such a gateway would be somehow redundant.
+
+## What is consciousness _for_?
+
+The lingering materialist suspicion is that the kinds of judgements we
+have been discussing – filling in judgements, inferences about temporal
 ordering, and so forth – do not really amount to a presentation, a
 performance on some kind of phenomenal stage. Who is the imagined
 audience, after all? Even if I have made a convincing case that there is
@@ -110,16 +114,15 @@ My simple reply (only a loose sketch at this stage, to be fleshed out
 over the coming months) is fully grounded in materalism and is based on
 an empirical claim about how we behave. I suggest that the reason it
 makes sense to talk of a Virtual Cartesian Theatre is precisely that we
-behave like disembodied agents in control of a physical body, embedded
-in a three-dimensional world, yet able to cleanly separate how things
-seem (how they are presented to us) from how we believe them to be, so
-that we can make good choices about what perceptual data to trust and
-what not to trust. Things come together for us, as opposed to just
-coming together, because our high-level, goal-oriented agency is
-behaviourally separated, for good evolutionary reasons, from our
-low-level perceptual capacities, and because much of our high-level,
-goal-oriented behaviour is about the content of our low-level perceptual
-discriminations.
+_behave like disembodied agents_ in control of a physical body, able to
+cleanly separate how things seem (how they are presented to "us") from
+how we believe them to be, so that we can make good choices about what
+perceptual data to trust and what not to trust. Things _come together
+for us_ -- as opposed to merely coming together -- because our
+high-level, goal-oriented agency is behaviourally separated, for good
+evolutionary reasons, from our low-level perceptual capacities, and
+because much of our high-level, goal-oriented behaviour is _about the
+content_ of our low-level perceptual discriminations.
 
 The heterophenomenology that Dennett and others have tried to explain
 away as illusory, or ill-conceived, or the legacy of poor Cartesian
@@ -168,6 +171,9 @@ exactly how the brain builds a static representation that in the
 abstract includes all the Marilyns.
 
 - - -
+
+<a name="lycan87"></a>Lycan, W. [Consciousness.]() Bradford Books/MIT
+Press, 1987.
 
 <a name="pessoa98"></a>Pessoa, L., Thompson, E. and Noë, A.
 [Finding out about filling in: a guide to perceptual completion for visual science and the philosophy of perception.]()
