@@ -8,38 +8,41 @@ According to [Pessoa et al](#pessoa98), for example,
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-It seems we materialists have been agreeing that anything that smacks of
-Cartesianism is wrong for so long that we no longer seem to need much of
-a justification for doing so. Methodologically, this entrenched dogma
-makes it difficult to discuss a cognitive architecture that even has the
-_flavour_ of Cartesian dualism without running this risk of its being
-miscontrued as a non-materialist proposal.
+Indeed, the materialist mistrust of Cartesianism is so hardwired that
+materialist philosophers automatically shun anything with so much as an
+echo of dualism. Methodologically this entrenchment makes it difficult
+to discuss cognitive architectures that have a dualist flavour.
+Nevertheless this is what we shall attempt here -- without, however,
+giving up the broad materialist world-view.
 
 The problem with the Cartesian Theatre as traditionally construed is not
-simply the threat of an infinite series of ever-more-nested homunculi.
-As long as any posited inner sub-agent is strictly simpler than the
-agent which contains it -- as long as it is a _proper_ sub-agent, as a
-mathematician might say -- such a regress can eventually terminate.
-Indeed, Dennett's theories, and similar positions such as Lycan's
-"homuncular functionalism" ([Lycan, 1987]()), propose exactly such a
-decomposition of the self into a number of strictly smaller
-proto-selves. Instead, the problem with the Cartesian Theatre, at least
-for Dennett, seems to be with the very idea of some kind of "gateway"
-through which a perception, or a judgement, must "pass" in order for it
-to become conscious. But aside from the obviously Cartesian overtones,
-exactly why this is problematic is less clear. The thought is perhaps
-that in a fully materialistic theory, a "consciousness gateway" is
-redundant at best.
+simply the threat of an infinite series of nested homunculi. As long as
+any posited inner sub-agent is strictly simpler than the agent which
+contains it -- as long as it is a _proper_ sub-agent, as a mathematician
+might say -- such a regress can eventually terminate. Indeed, Dennett's
+theories, and similar positions such as Lycan's "homuncular
+functionalism" ([Lycan, 1987]()), propose exactly such a decomposition
+of the self into a number of strictly smaller proto-selves.
+
+Rather, the problem with the Cartesian Theatre, at least for Dennett,
+seems to be with the very idea of some kind of "gateway" through which a
+perception or other judgement must "pass" in order for it to become
+conscious. But aside from the obviously Cartesian overtones, exactly why
+this is problematic is less clear. The thought is perhaps that in a
+fully materialistic theory, a "consciousness gateway" is redundant at
+best.
 
 What I shall now attempt to argue is that despite Dennett's best
-intentions, his Multiple Drafts Model of consciousness amounts to just
+intentions, his Multiple Drafts model of consciousness amounts to just
 such a theory of a functional gateway. I will then attempt to challenge
 the materialist intuition that such a gateway would be somehow
 redundant. In particular I will argue that such a functional gateway
 plays an essential role in generating certain kinds of behaviour that
-are canonical examples of conscious behaviour.
+are canonically associated with consciousness.
 
-So let's start with the Multiple Drafts Model. The very name of
+## The Multiple Drafts model as a functional gateway
+
+Let's start by revisiting the Multiple Drafts model. The very name of
 Dennett's theory invites the question: multiple drafts of what? If there
 is indeed an unfolding narrative, at any point in time in the form of
 multiple “drafts” constantly being either woven into the “official”
@@ -67,7 +70,7 @@ indeterminacy, nor non-monotonicity, nor dependence on clever
 implementation techniques – is unique to conscious phenomena, and
 moreover, none of them has any bearing on the fact that at some level of
 description, there is something which behaviourally amounts to a
-consciousness gateway. The Multiple Drafts Model is thus not a theory of
+consciousness gateway. The Multiple Drafts model is thus not a theory of
 something which is “rather like a narrative” (Dennett and Kinsbourne,
 1992); it is a proposal, and an empirically well supported one at that,
 for one possible realisation of something which is a narrative,
@@ -85,7 +88,9 @@ So if you are a materialist who takes the denial of any kind of
 Cartesian Theatre -- even a biologically plausible one -- as a given, I
 ask that you suspend your anti-Cartesian intuitions and grant the case
 for the functional gateway for the time being. The remaining task is to
-tackle the intuition that such a gateway would be somehow redundant.
+tackle the intuition that such a gateway would be somehow redundant, to
+make the case that such a mind design actually does something important
+behaviourally.
 
 ## What is consciousness _for_?
 
