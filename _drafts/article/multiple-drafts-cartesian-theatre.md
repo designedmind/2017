@@ -3,26 +3,27 @@ layout: default
 title: Multiple Drafts and the Cartesian Theatre
 ---
 
-Materialist skepticism about the Cartesian Theatre is deeply entrenched.
-According to [Pessoa et al](#pessoa98), for example,
+Rejection of the Cartesian Theatre is a hallmark of materialist
+thinking. According to [Pessoa et al](#pessoa98), for example,
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-Indeed, materialist mistrust of Cartesianism is so hardwired that
-materialist philosophers automatically shun anything with so much as an
-echo of dualism. Methodologically, this makes it difficult to discuss
-cognitive architectures with a dualist flavour. Nevertheless this is
-what we shall attempt here -- without, however, proposing any kind of
+One must therefore tread with care when discussing cognitive
+architectures with a dualist flavour. This is what I shall attempt here
+-- to outline a biologically plausible architecture for consciousness in
+which a (functional) Cartesian Theatre plays a central role in the
+generation of behaviour, taking care not to appear to be proposing an
 immaterial basis for consciousness.
 
-The problem with the Cartesian Theatre as traditionally construed is not
-simply the threat of an infinite series of nested homunculi. As long as
-any posited inner sub-agent is strictly simpler than the agent which
-contains it -- as long as it is a _proper_ sub-agent, as a mathematician
-might say -- such a regress will eventually terminate. Indeed, Dennett's
-theories, and similar positions such as Lycan's "homuncular
-functionalism" ([Lycan, 1987]()), propose exactly such a decomposition
-of the self into strictly smaller proto-selves.
+Let us first revisit the problem with the Cartesian Theatre as
+traditionally construed. It is not simply the threat of infinite regress
+(explaining conscious agency requires positing an "inner" conscious
+agent, and so on _ad infinitum_). As long as any posited inner sub-agent
+is strictly simpler than the agent which contains it, such a regress
+will eventually terminate. Indeed, Dennett's theories, and similar
+positions such as Lycan's "homuncular functionalism" ([Lycan, 1987]()),
+propose exactly such a decomposition of the self into strictly smaller
+proto-selves.
 
 Rather, the problem with the Cartesian Theatre, at least for Dennett,
 seems to be with the idea of a _consciousness gateway_, a special
@@ -33,15 +34,20 @@ obviously Cartesian overtones, exactly why this is problematic is less
 clear. The thought is perhaps that in a fully materialistic theory, such
 a consciousness gateway would be redundant. The various judgements made
 by the brain need only influence behaviour in the right way; they do not
-need to additionally form some kind of inner presentation.
+need to additionally give rise to some kind of inner presentation.
 
-What I shall now attempt to argue is that despite Dennett's best
-intentions, his Multiple Drafts model of consciousness amounts to just
-such a theory of a functional gateway. I will then attempt to challenge
-the materialist intuition that such a gateway would be somehow
-redundant. In particular I will argue that such a functional gateway
-plays an essential role in generating the behaviours that are most
-typically associated with consciousness.
+What I shall now attempt to argue is that while the materialist
+intuition that a complete theory of consciousness need only account for
+behaviour is sound, understanding certain kinds of judgement made by the
+brain as constituting an "inner presentation" is not only compatible
+with this materialist intuition, but an essential part of understanding
+the behaviours that are most typically associated with consciousness.
+
+Moreover, and _contra_ the way Dennett presents his own theory,
+Dennett's Multiple Drafts model of consciousness is, in essence, a
+theory of how such a functional gateway or inner presentation might
+work. I will then attempt to challenge the materialist intuition that
+such a gateway would be somehow redundant.
 
 ## The Multiple Drafts model as a functional gateway
 
@@ -60,18 +66,18 @@ narrative.
 
 It may be true that the gate kind of disappears – is
 [systematically elusive](https://books.google.co.uk/books?id=YXN4AgAAQBAJ&pg=PA175&lpg=PA175&dq=systematic+elusiveness+of+i&source=bl&ots=wn5t5rARGJ&sig=xupjnl751KcfK9UzrQnznwLs1qI&hl=en&sa=X&ved=0CDQQ6AEwA2oVChMIw5b6koWYxwIVA4_bCh2W7Ap8#v=onepage&q=systematic%20elusiveness%20of%20i&f=false),
-one might say, to echo Ryle – as you get closer to the mechanisms that
-realise it. One will notice inputs that get processed but for some
-reason never have any effect on behaviour, or discriminations which get
-made by some part of the brain but which are vetoed or revised by some
-other process, and so on. And certainly there are no absolute and
-permanent facts as to whether some micro-discrimination lies before or
-beyond the gate, since "what I was conscious of at t" is a dispositional
-property of the self-narrative that is itself time-indexed and subject
-to occasional revision in the light of additional input. Indeed, the
-(functional) location of the gate – what we were conscious of – is often
-only fixed on demand, when a behavioural probe of some kind is
-instigated.
+one might say, to echo Ryle's evocative description of the self – as you
+get closer to the mechanisms that realise it. One will notice inputs
+that get processed but for some reason never have any effect on
+behaviour, or discriminations which get made by some part of the brain
+but which are vetoed or revised by some other process, and so on. And
+certainly there are no absolute and permanent facts as to whether some
+micro-discrimination lies before or beyond the gate, since "what I was
+conscious of at t" is a dispositional property of the self-narrative
+that is itself time-indexed and subject to occasional revision in the
+light of additional input. Indeed, the (functional) location of the gate
+– what we were conscious of – is often only fixed on demand, when a
+behavioural probe of some kind is instigated.
 
 At an important level of description, then -- roughly speaking, the
 level at which folk-psychological attibutions are useful -- there is
