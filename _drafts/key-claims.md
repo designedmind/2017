@@ -44,6 +44,8 @@ These are the main claims I will be expanding on the next few years:
   phenomenal experience comes first and is then etched down into memory;
   rather, phenomenal experience _is_ a kind of readily accessible
   perceptual memory.
+* Need to be aware of Block's distinction between "access" and
+  "phenomenal" consciousness.
 * We don't get to "observe that we're conscious". We can't, as Chalmers
   does, make the "public" claim that he's "obviously conscious" from his
   own point view and have that simultaneously be a claim that is somehow
