@@ -9,13 +9,14 @@ example,
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-One must therefore tread with care when discussing cognitive
-architectures with a dualist flavour. This is what I shall attempt here
--- to outline a biologically plausible architecture for consciousness in
-which a (functional) Cartesian Theatre plays a central role in the
-generation of behaviour. I shall not be proposing an immaterial basis
-for consciousness, but rather that there is a kind of "dualism" in how
-we function.
+One must therefore tread with care when discussing any cognitive
+architecture with even a hint of a Cartesian character. This is what I
+shall attempt here -- to outline a biologically plausible architecture
+for consciousness in which a (functional) Cartesian Theatre plays a
+central role in the generation of behaviour. I shall not be proposing an
+immaterial basis for consciousness, but rather that there is a kind of
+"dualism" in how we function, and that taking this aspect of our
+behaviour seriously is key to understanding the puzzle of consciousness.
 
 Let us first revisit the problem with the Cartesian Theatre as
 traditionally construed. It is not simply the threat of infinite regress

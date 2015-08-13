@@ -58,13 +58,13 @@ and space, perhaps even watching a "movie in the brain" [Damasio].
 
 Profoundly compelling though it is, I believe this intuition -- that
 there is more to consciousness than behaviour -- is also profoundly
-wrong. The sense that we are inside our own minds, looking out, perhaps
-"observers" of our own consciousness, _is itself nothing more than a
-complex feature of our behaviour_. This is by far the hardest part of
-the story to understand, and a significant portion of this website will
-be devoted to trying to explain it. What I just said seems _obviously
-false_. And yet, with some effort, it seems to be possible to understand
-consciousness in this way.
+wrong. Our convictions that we are inside our own minds, looking out,
+perhaps "observers" of our own consciousness, _is itself nothing more
+than a complex feature of our behaviour_. This is by far the hardest
+part of the story to understand, and a significant portion of this
+website will be devoted to trying to explain it. What I just said seems
+_obviously false_. And yet, with some effort, it seems to be possible to
+understand consciousness in this way.
 
 <a name="chalmers97"></a>Chalmers, D. (1997).
 [Moving Forward on the Problem of Consciousness](). In _Journal of
