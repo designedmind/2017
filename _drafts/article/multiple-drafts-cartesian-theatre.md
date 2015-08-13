@@ -3,8 +3,9 @@ layout: default
 title: Multiple Drafts and the Cartesian Theatre
 ---
 
-Rejection of the Cartesian Theatre is a hallmark of materialist
-thinking. According to [Pessoa et al](#pessoa98), for example,
+Rejection of the Cartesian Theatre is the hallmark of materialist
+thinking about the mind. According to [Pessoa et al](#pessoa98), for
+example,
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
@@ -12,42 +13,43 @@ One must therefore tread with care when discussing cognitive
 architectures with a dualist flavour. This is what I shall attempt here
 -- to outline a biologically plausible architecture for consciousness in
 which a (functional) Cartesian Theatre plays a central role in the
-generation of behaviour, taking care not to appear to be proposing an
-immaterial basis for consciousness.
+generation of behaviour. I shall not be proposing an immaterial basis
+for consciousness, but rather that there is a kind of "dualism" in how
+we function.
 
 Let us first revisit the problem with the Cartesian Theatre as
 traditionally construed. It is not simply the threat of infinite regress
 (explaining conscious agency requires positing an "inner" conscious
-agent, and so on _ad infinitum_). As long as any posited inner sub-agent
-is strictly simpler than the agent which contains it, such a regress
-will eventually terminate. Indeed, Dennett's theories, and similar
-positions such as Lycan's "homuncular functionalism" ([Lycan, 1987]()),
-propose exactly such a decomposition of the self into strictly smaller
-proto-selves.
+agent, and so on _ad infinitum_). As long as any posited inner agent is
+strictly simpler than the agent which contains it, such a regress will
+terminate. Indeed, Dennett's theories, and similar positions such as
+Lycan's "homuncular functionalism" ([Lycan, 1987]()), propose exactly
+such a decomposition of the self into strictly smaller proto-selves.
 
 Rather, the problem with the Cartesian Theatre, at least for Dennett,
 seems to be with the idea of a _consciousness gateway_, a special
 location through which a perception or other judgement must "pass" -- or
 perhaps a special status that it must achieve -- in order for that
 perception or judgement to become conscious. But aside from the
-obviously Cartesian overtones, exactly why this is problematic is less
-clear. The thought is perhaps that in a fully materialistic theory, such
-a consciousness gateway would be redundant. The various judgements made
-by the brain need only influence behaviour in the right way; they do not
-need to additionally give rise to some kind of inner presentation.
+obviously Cartesian overtones, why should this idea be problematic? The
+thought is perhaps that in a fully materialistic theory, such a
+consciousness gateway would be _functionally redundant_. The various
+judgements made by the brain need only influence behaviour in the right
+way; they do not need to additionally give rise to some kind of inner
+presentation.
 
-What I shall now attempt to argue is that while the materialist
-intuition that a complete theory of consciousness need only account for
-behaviour is sound, understanding certain kinds of judgement made by the
-brain as constituting an "inner presentation" is not only compatible
-with this materialist intuition, but an essential part of understanding
-the behaviours that are most typically associated with consciousness.
+The materialist intuition that a complete theory of consciousness need
+only account for behaviour is sound. But what I shall now attempt to
+argue is that understanding certain kinds of judgement made by the brain
+as constituting an "inner presentation" is not only _compatible_ with
+this materialist/functionalist intuition, but in fact _essential_ to
+understanding the features of the mind that we most typically associate
+with consciousness, such as qualia and introspection.
 
-Moreover, and _contra_ the way Dennett presents his own theory,
-Dennett's Multiple Drafts model of consciousness is, in essence, a
-theory of how such a functional gateway or inner presentation might
-work. I will then attempt to challenge the materialist intuition that
-such a gateway would be somehow redundant.
+Moreover, and _contra_ the way Dennett appears to understand his own
+theory, Dennett's Multiple Drafts model of consciousness is, in essence,
+a theory of how such a functional gateway or inner presentation might
+work.
 
 ## The Multiple Drafts model as a functional gateway
 
