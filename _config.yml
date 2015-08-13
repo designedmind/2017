@@ -1,3 +1,4 @@
-name:         Designed Mind
-description:  Exploring the Virtual Cartesian Theatre of the mind
-url:          http://designedmind.org
+name:          Designed Mind
+description:   Exploring the Virtual Cartesian Theatre of the mind
+url:           http://designedmind.org
+category-list: [code, editors, math, unix]
