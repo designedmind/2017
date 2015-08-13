@@ -30,5 +30,23 @@
   {% endif %}
   {% endfor %}
 </ul>
+<nav>
+  <ul>
+    {% for nav in site.data.nav %}
+        <li><a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a></li>
+
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.href }}">{{ subcategory.title }}</a></li>
+                <ul>
+                  {% for thirdlevel in subcategory.thirdlevel %}
+                    <li><a href="{{ site.url }}{{ thirdlevel.href }}">{{ thirdlevel.title }}</a></li>
+                  {% endfor %}
+                </ul>
+          {% endfor %}
+          </ul>
+    {% endfor %}
+  </ul>
+</nav>
   </body>
 </html>
