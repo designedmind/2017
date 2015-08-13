@@ -82,7 +82,7 @@ light of additional input. Indeed, the (functional) location of the gate
 behavioural probe of some kind is instigated.
 
 At an important level of description, then -- roughly speaking, the
-level at which folk-psychological attibutions are useful -- there is
+level at which folk-psychological attributions are useful -- there is
 something which behaviourally amounts to a consciousness gateway. The
 Multiple Drafts model explains how one can have something like an inner
 presentation without anything quite so baroque as a literal movie
@@ -115,7 +115,7 @@ performance on some kind of phenomenal stage. Who is the imagined
 audience, after all? Even if you buy the idea that there is a coming
 together – a functional, rather than physical one – then we might still
 legitimately ask, "isn't it enough just for there to be a coming
-together – why do we also need an audience for whom things come
+together – why do we also need an audience _for whom_ things come
 together?"
 
 This is a subtle question and one whose answer again runs strongly
