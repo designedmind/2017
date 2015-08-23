@@ -5,21 +5,20 @@ product: all
 platform: all
 version: all
 destination: ../doc_designers
-topnav_title: Designed Mind
+topnav_title: Designed Mind 0.1
 homepage_title: Designed Mind
 site_title: Designed Mind
 disqus_shortname: idrbwjekyll
 google_analytics: UA-66296557-1
 
 name:          Designed Mind
-description:   Exploring the Virtual Cartesian Theatre of the mind
 url:           http://designedmind.org
 category-list: [code, editors, math, unix]
 
 # variables
 
 # sidebar_tagline: minddesign
-sidebar_version: version 0.1
+# sidebar_version: version 0.1
 
 port: 4001
 
