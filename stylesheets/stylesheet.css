@@ -84,7 +84,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Lato, sans-serif;
-  color: #b5b8b3;
+  color: #919499;
   letter-spacing: -0.03em;
 }
 
@@ -221,7 +221,6 @@ hr {
 
 a {
   color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
