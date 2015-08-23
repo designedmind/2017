@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Multiple Drafts and the Cartesian Theatre
 tags: [publishing]
 keywords: themes, styles, colors, css

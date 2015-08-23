@@ -1,9 +1,8 @@
 ---
-layout: default
 title: Introduction
+last_updated: August 12, 2015
+summary: "TODO"
 ---
-
-# Introduction
 
 This web essay is an embryonic sketch of a theory of consciousness I
 call the _Virtual Cartesian Theatre_. Some aspects of the idea are new;
