@@ -127,7 +127,6 @@ ul li {
 }
 
 ul li:before {
-  /* content: ">>"; */
   font-family: Lato, sans-serif;
   font-size: 13px;
   color: #b5e853;
@@ -208,11 +207,6 @@ hr {
   height: 16px;
   margin: 1px 8px 0 0;
   float: left;
-}
-
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
 /* Links
