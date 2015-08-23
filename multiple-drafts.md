@@ -1,7 +1,13 @@
 ---
 layout: default
 title: Multiple Drafts and the Cartesian Theatre
+tags: [publishing]
+keywords: themes, styles, colors, css
+last_updated: August 12, 2015
+summary: "Summary here."
 ---
+
+{% include linkrefs.html %}
 
 Rejection of the Cartesian Theatre is the hallmark of materialist
 thinking about the mind. According to [Pessoa et al](#pessoa98), for

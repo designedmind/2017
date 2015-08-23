@@ -1,4 +1,5 @@
 #!/bin/bash
 
 # bundle exec jekyll serve &
-jekyll serve --config configs/config_designers.yml --watch
+jekyll build --config configs/config.yml
+jekyll serve --config configs/config.yml --watch
