@@ -1,10 +1,5 @@
 ---
-title: Introduction
-tags: [getting-started]
-type: first_page
+title: Designed Mind
 homepage: true
+last_updated: August 24, 2015
 ---
-{% if site.project == "doc" %}
-{% include custom/doc/doc_homepage.md %}
-{% endif %}
-
