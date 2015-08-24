@@ -1,6 +1,3 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
-# Sidebar
 entries:
 - title: Sidebar
   subcategories:
@@ -17,14 +14,21 @@ entries:
           product: all
           version: all
 
-    - title: Dennett on Multiple Drafts
+    - title: "Dennett's Multiple Drafts"
+      url: /multiple-drafts.html
       audience: designers
       platform: all
       product: all
       version: all
       items:
-        - title: Overview
-          url: /multiple-drafts.html
+        - title: Multiple Drafts Model
+          audience: designers
+          platform: all
+          product: all
+          version: all
+
+        - title: A Functional Coming Together
+          url: /functional-gateway.html
           audience: designers
           platform: all
           product: all
