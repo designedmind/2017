@@ -1,7 +1,7 @@
 ---
 title: Multiple Drafts and the Cartesian Theatre
 keywords: themes, styles, colors, css
-last_updated: August 12, 2015
+last_updated: August 24, 2015
 summary: "Summary here."
 ---
 

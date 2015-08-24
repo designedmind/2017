@@ -20,7 +20,7 @@ category-list: [code, editors, math, unix]
 # sidebar_tagline: minddesign
 # sidebar_version: version 0.1
 
-port: 4001
+port: 4000
 
 exclude:
   - doc_writer*
