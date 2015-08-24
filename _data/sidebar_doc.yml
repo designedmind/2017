@@ -9,7 +9,6 @@ entries:
       platform: all
       product: all
       version: all
-
       items:
         - title: Introduction
           url: /introduction.html
