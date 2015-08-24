@@ -21,14 +21,14 @@ entries:
       version: all
       items:
         - title: Overview
-          url: /multiple-drafts.html
+          url: /multiple-drafts/overview.html
           audience: designers
           platform: all
           product: all
           version: all
 
-        - title: Multiple Drafts model
-          url: /multiple-drafts.html
+        - title: Dennett on Multiple Drafts
+          url: /multiple-drafts/dennett.html
           audience: designers
           platform: all
           product: all
