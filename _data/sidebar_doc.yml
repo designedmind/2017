@@ -21,21 +21,21 @@ entries:
       version: all
       items:
         - title: Overview
-          url: /multiple-drafts/overview.html
+          url: /multiple-drafts-overview.html
           audience: designers
           platform: all
           product: all
           version: all
 
         - title: Dennett on Multiple Drafts
-          url: /multiple-drafts/dennett.html
+          url: /multiple-drafts-dennett.html
           audience: designers
           platform: all
           product: all
           version: all
 
         - title: A functional coming together
-          url: /functional-gateway.html
+          url: "/multiple-drafts-functional-gateway.html"
           audience: designers
           platform: all
           product: all
