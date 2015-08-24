@@ -15,19 +15,26 @@ entries:
           version: all
 
     - title: "Dennett's Multiple Drafts"
-      url: /multiple-drafts.html
       audience: designers
       platform: all
       product: all
       version: all
       items:
-        - title: Multiple Drafts Model
+        - title: Overview
+          url: /multiple-drafts.html
           audience: designers
           platform: all
           product: all
           version: all
 
-        - title: A Functional Coming Together
+        - title: Multiple Drafts model
+          url: /multiple-drafts.html
+          audience: designers
+          platform: all
+          product: all
+          version: all
+
+        - title: A functional coming together
           url: /functional-gateway.html
           audience: designers
           platform: all
@@ -40,7 +47,7 @@ entries:
       product: all
       version: all
       items:
-        - title: Functional Role of Consciousness
+        - title: Functional role of consciousness
           url: /role-of-consciousness.html
           audience: designers
           platform: all
