@@ -9,5 +9,4 @@ layout: default
 * Hosted comments, e.g. Disqus
 * Bibtex database
 * Tags
-* Navbar
 * Sort pages by custom key

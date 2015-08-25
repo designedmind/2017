@@ -27,19 +27,20 @@ entries:
           product: all
           version: all
 
-        - title: Dennett vs. the Cartesian Theatre
-          url: /multiple-drafts-dennett.html
-          audience: designers
-          platform: all
-          product: all
-          version: all
           thirdlevel:
-            - title: "Finding out vs. filling in"
-              url: /multiple-drafts-dennett-finding-out.html
+            - title: Dennett vs. the Cartesian Theatre
+              url: /multiple-drafts-dennett.html
               audience: designers
               platform: all
               product: all
               version: all
+              thirdlevelitems:
+                - title: "Finding out vs. filling in"
+                  url: /multiple-drafts-dennett-finding-out.html
+                  audience: designers
+                  platform: all
+                  product: all
+                  version: all
 
         - title: A functional coming together
           url: "/multiple-drafts-functional-gateway.html"
