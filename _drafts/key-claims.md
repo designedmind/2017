@@ -70,5 +70,15 @@ These are the main claims I will be expanding on the next few years:
   _remembering the phenomenology_ of vision or pain. Rather, _the
   remembering is the phenomenology_, i.e. the "phenomenology" is the
   content of the past narrative that informs our current behaviour.
+* Relatedly, consider the situation when we suddenly become aware of a
+  noise that has been present for sometime but we were previously
+  unaware of. Phenomenal awareness of the noise _is_ just the
+  (retroactive) acknowledgement of the percept. Now consider
+  non-conscious percepts where the subsequent registration of that
+  percept in the narrative never occurs. Such a percept never enters the
+  "phenomenal stage". Now imagine an organism where _all_ percepts are
+  of this nature. This is perception without consciousness.
 * Finding out is a kind of filling in
 * Zombies also have the hard problem to solve
+* What if you were a zombie until 1s ago? What if you were a zombie for
+  1s, then a non-zombie for 1s, and so on?
