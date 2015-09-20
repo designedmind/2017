@@ -1,5 +1,4 @@
 ---
-title: Dennett's Multiple Drafts/Overview
 keywords: themes, styles, colors, css
 last_updated: September 20, 2015
 summary: "Summary here."

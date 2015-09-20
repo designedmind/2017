@@ -1,10 +1,9 @@
 ---
 last_updated: August 24, 2015
 
-summary: "We claim that phenomenal consciousness has a clear functional
-role. Its function is to allow an agent to make decisions, justify
-actions and communicate beliefs in which perceptual content serves as
-data."
+summary: "Phenomenal consciousness has a clear functional role: to allow
+an agent to make decisions, justify actions and communicate beliefs in
+which perceptual content serves as data."
 
 ---
 
