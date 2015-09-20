@@ -1,19 +1,24 @@
 ---
 title: Designed Mind
 homepage: true
-last_updated: August 24, 2015
+last_updated: September 20, 2015
 ---
 
 > "Consciousness is a fascinating but elusive phenomenon: it is impossible
 > to specify specify what it is, what it does, or why it evolved." [[1]](#sutherland95), p.95
 
-The Designed Mind is my attempt to explain consciousness -- in all its
-first-person, qualia-infected, phenomenal glory -- as an evolved feature
-of human _behaviour_. I will try to say what conscious is, what it does,
-and why it evolved. My main source of inspiration will be Dennett's
-multiple-drafts model, but I push it further than Dennett, arguing that
-the multiple-drafts model is in essence an account of a "virtual"
-Cartesian theatre, where all our phenomenal life takes place.
+The Designed Mind is my attempt to understand consciousness — in all its
+first-person, qualia-infected, phenomenal glory — as an evolved feature
+of human behaviour. I think Sutherland was wrong: it indeed possible to
+say what conscious is, what it does, and why it evolved. My main source
+of inspiration is Dennett's so called
+[multiple drafts](multiple-drafts-overview.html) model, but I shall put
+a twist on it that I suspect Dennett would be reluctant to accept.
+Rather than seeing Dennett's theory as an _alternative to_ a naive
+Cartesian view of the mind, I will argue that the best way to see the
+multiple drafts model is as an _account of_ a Cartesian theatre — a
+"virtual" Cartesian theatre, implemented in wetware — where all our
+phenomenal life takes place.
 
 Many people feel strongly that an account of consciousness that
 considers only behaviour and function ignores the key mystery, namely
