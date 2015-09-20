@@ -1,5 +1,4 @@
 ---
-title: "&ldquo;Finding out&rdquo; vs. &ldquo;Filling in&rdquo;"
 last_updated: August 25, 2015
 
 summary: "The &ldquo;finding out vs. filling in” argument is perhaps

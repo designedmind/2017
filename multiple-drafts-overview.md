@@ -1,23 +1,23 @@
 ---
-title: Multiple Drafts and the Cartesian Theatre
+title: Dennett's Multiple Drafts/Overview
 keywords: themes, styles, colors, css
-last_updated: August 24, 2015
+last_updated: September 20, 2015
 summary: "Summary here."
 ---
 
 {% include linkrefs.html %}
 
-Rejection of the Cartesian Theatre is the hallmark of materialist
-thinking about the mind. According to [Pessoa et al](#pessoa98), for
-example,
+One must tread with care when proposing any cognitive architecture with
+even a hint of a Cartesian character. After all, as
+[Pessoa et al](#pessoa98) point out
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-One must therefore tread with care when discussing any cognitive
-architecture with even a hint of a Cartesian character. This is what I
-shall attempt here -- to outline a biologically plausible architecture
-for consciousness in which a (functional) Cartesian Theatre plays a
-central role in the generation of behaviour. I shall not be proposing an
+This "consensus" is problematic, because it hinders progress in a
+materialist understanding of consciousness. This is what I shall attempt
+here -- to outline a biologically plausible architecture for
+consciousness in which a (functional) Cartesian Theatre plays a central
+role in the generation of behaviour. I shall not be proposing an
 immaterial basis for consciousness, but rather that there is a kind of
 "dualism" in how we function, and that taking this aspect of our
 behaviour seriously is key to understanding the puzzle of consciousness.
