@@ -1,13 +1,13 @@
 ---
-last_updated: August 24, 2015
+last_updated: September 20, 2015
 
-summary: "I argue that Dennett's proposed narrative-building mechanisms
-provide a functional sense in which there is an inner presentation, of
-sorts. As well being able to perceive the world in a (non-conscious)
-sense, we also are able to behave systematically about the
-<i>content</i> of our percepts, for example rejecting them as
-non-veridical, or describing them to others. This higher-order
-behavioural capacity is the essence of phenomenal consciousness."
+summary: "Dennett's proposed narrative-building mechanisms provide a
+functional sense in which there is an inner presentation. As well being
+able to perceive the world in a (pre-conscious) sense, we also are able
+to behave systematically about the <i>content</i> of our percepts, for
+example rejecting them as non-veridical, or describing them to others.
+This higher-order behavioural capacity is the essence of phenomenal
+consciousness."
 
 ---
 

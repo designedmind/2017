@@ -1,5 +1,4 @@
 ---
-title: Introduction
 last_updated: September 20, 2015
 
 summary: "Dennett's theory is a breakthrough, but falls short of an
