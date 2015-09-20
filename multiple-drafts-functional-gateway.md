@@ -1,5 +1,4 @@
 ---
-title: The Multiple Drafts model as a functional gateway
 last_updated: August 24, 2015
 
 summary: "I argue that Dennett's proposed narrative-building mechanisms
