@@ -1,7 +1,10 @@
 ---
 title: Introduction
-last_updated: August 12, 2015
-summary: "TODO"
+last_updated: September 20, 2015
+
+summary: "Dennett's theory is a breakthrough, but falls short of an
+account of phenomenal consciousness."
+
 ---
 
 This web essay is an embryonic sketch of a theory of consciousness I
