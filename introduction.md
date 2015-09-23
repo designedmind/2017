@@ -29,43 +29,55 @@ little more than "explain it away".
 
 I am enthusiastic about the shift in perspective that Dennett's book
 introduced. I think it will one day be recognised as a watershed moment
-in our understanding of consciousness. Nevertheless, it still falls
-short of an account of consciousness. While many of the core ingredients
-are in place, Dennett is tripped up by a well-meaning but ultimately
-misguided wariness of anything that sounds remotely Cartesian. The core
-of Dennett's problem is his (_prima facie_ reasonable) rejection of any
-idea of a "coming together", an internal image for the mind's eye to
-inspect.
-
-For example, in a [BBS commentary on Pylyshyn](#dennett02) Dennett
-suggests that
+in our understanding of consciousness. Nevertheless, it falls short.
+While many of the core ingredients are in place, Dennett is tripped up
+by a well-meaning but ultimately misguided wariness of anything that
+smacks of the Cartesian theatre. On the subject of visual perception,
+for example, Dennett is unwavering in his rejection of any idea of a
+"coming together", an internal image for the mind's eye to inspect:
 
 > “The eventual “products” of vision are such things as guided hand and
 > finger motions, involuntary ducking, exclamations of surprise, triggering
 > of ancient memories, sexual arousal, ... and none of these is imagistic
-> in any sense...”
+> in any sense...” [(BBS commentary on Pylyshyn)](#dennett02)
 
-It is not hard to understand why Dennett is so adamant that the job of
-vision is not to produce an image. is unsurprising, given his
-materialist pedigree and the obvious echos of the dreaded Cartesian
-theatre in the idea of an inner image. While his commitment to
-materialism is admirable, Dennett's description of vision here is simply
-inaccurate: in fact there are _many_ imagistic components of visual
-behaviour. Examples that I will explore in detail over the coming months
-include the way we report visual illusions, entopic phenomena like
+It is not hard to understand why Dennett is so adamant that vision's job
+is not to produce an inner image. The idea of vision as an internal
+performance on a phenomenal stage -- the dreaded "Cartesian theatre"
+-- is almost the antithesis of the materalist world view. While his
+commitment to materialism is admirable, Dennett's description of vision
+here is inaccurate:
+
+As a taster of the key claim I will be making in this essay, let us
+start with the following observationq: there are in fact _many_
+imagistic aspects of visual behaviour.
+
+The key point is that _vision_ and _visual phenomenology_ are not the
+same thing. When the only _purpose_ of vision is to guide hand
+movements, induce duckings, and elicit sexual arousal, these are indeed
+the end products of vision. But when the requirements placed on our
+visual capabilities are extended to include elaborate verbal reports .
+It is because our vision these particular evolved functions that
+
+Examples that I will explore in detail over the coming months include
+the way we report visual illusions, entopic phenomena like
 [floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
 hallucinations induced by psychoactive drugs. These are all "behavioural
 outputs" of vision that are profoundly imagistic.
 
-This is not to say that if we were somehow able to peek into the brain
-of someone while they were seeing, that we should expect to find
-image-like patterns of neural activation. Rather, it is to say that our
-self-narratives often have content that is _functionally_ image-like,
-and that the associated behaviours are similarly imagistic. In this
-important, functional, sense there _is_ an inner presentation. Indeed
-the functional role of the narrative in this situation is _precisely_ to
-serve as an inner image of sorts, _precisely_ to enable this kind of
-"imagistic" behaviour.
+Does this mean that if we were somehow able to peek into the brain of
+someone while they were seeing, that we should expect to find image-like
+patterns of neural activation? No. Rather, it is to say that our
+self-narratives often have content that is _functionally image-like_,
+and that the associated behaviours are similarly imagistic. It is in
+this important, functional, sense that there an inner presentation.
+Indeed the functional role of the narrative in this situation is
+_precisely_ to serve as an inner image of sorts: the narrative has as
+its content the phenomenonal image. Of course the implementation
+technique may be quite clever, building the representation on demand and
+only instantiating as much internal structure as is required to meet the
+demands of the task at hand. But these are mere implementation detail,
+and our "selves" live on the outside of the abstraction.
 
 Such a functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
