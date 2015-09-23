@@ -16,9 +16,9 @@ part of the phenomenon to be explained, rather than lingering confusion
 about it.
 
 The starting point of my account is Dennett's so-called "multiple
-drafts" theory of consciousness, as set out in his 1991 book
+drafts" theory, as set out in his 1991 book
 [Consciousness Explained](#dennett91a). The multiple drafts model
-positions consciousness as an elaborate form of _behaviour_ driven by
+positions consciousness as an elaborate form of _behaviour_, driven by
 narrative-building mechanisms in the brain. Dennett's theory is
 profound, but many find it extremely unsatisfying. The most common
 criticism is that by assuming that function, or behaviour, is all that
@@ -28,10 +28,14 @@ me_. Indeed, far from _explaining_ consciousness, Dennett's story does
 little more than "explain it away".
 
 I am enthusiastic about the shift in perspective that Dennett's book
-introduced. However, I agree that it falls short of an account of
-consciousness. The core of Dennett's problem is his (_prima facie_
-reasonable) rejection of any idea of a "coming together", an internal
-image for the mind's eye to inspect.
+introduced. I think it will one day be recognised as a watershed moment
+in our understanding of consciousness. Nevertheless, it still falls
+short of an account of consciousness. While many of the core ingredients
+are in place, Dennett is tripped up by a well-meaning but ultimately
+misguided wariness of anything that sounds remotely Cartesian. The core
+of Dennett's problem is his (_prima facie_ reasonable) rejection of any
+idea of a "coming together", an internal image for the mind's eye to
+inspect.
 
 For example, in a [BBS commentary on Pylyshyn](#dennett02) Dennett
 suggests that
@@ -41,14 +45,14 @@ suggests that
 > of ancient memories, sexual arousal, ... and none of these is imagistic
 > in any sense...”
 
-Dennett's skepticism regarding a literal construal of inner imagery is
-unsurprising, given his materialist pedigree and the obvious echos of
-the "classical" Cartesian theatre in the idea of an inner image. While
-his commitment to materialism is admirable, Dennett's description of
-vision here is simply inaccurate: in fact there are _many_ imagistic
-components of visual behaviour. Examples that I will explore in detail
-over the coming months include the way we report visual illusions,
-entopic phenomena like
+It is not hard to understand why Dennett is so adamant that the job of
+vision is not to produce an image. is unsurprising, given his
+materialist pedigree and the obvious echos of the dreaded Cartesian
+theatre in the idea of an inner image. While his commitment to
+materialism is admirable, Dennett's description of vision here is simply
+inaccurate: in fact there are _many_ imagistic components of visual
+behaviour. Examples that I will explore in detail over the coming months
+include the way we report visual illusions, entopic phenomena like
 [floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
 hallucinations induced by psychoactive drugs. These are all "behavioural
 outputs" of vision that are profoundly imagistic.
@@ -63,9 +67,9 @@ the functional role of the narrative in this situation is _precisely_ to
 serve as an inner image of sorts, _precisely_ to enable this kind of
 "imagistic" behaviour.
 
-Such a functional coming-together is what I mean by the Virtual
+Such a functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
-purpose of this blog.
+purpose of this essay.
 
 * * *
 
