@@ -15,16 +15,17 @@ the mind as _central features of_ consciousness. These intuitions are
 part of the phenomenon to be explained, rather than lingering confusion
 about it.
 
-The starting point of my account is Dennett's multiple-drafts theory of
-consciousness, as set out in his 1991 book
-[Consciousness Explained](#dennett91a). The multiple-drafts model
-positions consciousness as an elaborate form of _behaviour_ structured
-around an internal narrative. Dennett's theory is profound, but many
-find it extremely unsatisfying. The most common criticism is that by
-arguing that function, or behaviour, is all that needs to be accounted
-for, Dennett's theory disregards the very things that needs explaining,
-namely the fact that _it is like something to be me_. Rather than
-_explaining_ consciousness, Dennett's story "explains it away".
+The starting point of my account is Dennett's so-called "multiple
+drafts" theory of consciousness, as set out in his 1991 book
+[Consciousness Explained](#dennett91a). The multiple drafts model
+positions consciousness as an elaborate form of _behaviour_ driven by
+narrative-building mechanisms in the brain. Dennett's theory is
+profound, but many find it extremely unsatisfying. The most common
+criticism is that by assuming that function, or behaviour, is all that
+needs to be accounted for, Dennett's theory disregards the very thing
+that needs explaining, namely the fact that _it is like something to be
+me_. Indeed, far from _explaining_ consciousness, Dennett's story does
+little more than "explain it away".
 
 I am enthusiastic about the shift in perspective that Dennett's book
 introduced. However, I agree that it falls short of an account of
@@ -40,7 +41,7 @@ suggests that
 > of ancient memories, sexual arousal, ... and none of these is imagistic
 > in any sense...”
 
-Dennett's skepticism regarding a literal construal of imagery is
+Dennett's skepticism regarding a literal construal of inner imagery is
 unsurprising, given his materialist pedigree and the obvious echos of
 the "classical" Cartesian theatre in the idea of an inner image. While
 his commitment to materialism is admirable, Dennett's description of
