@@ -48,11 +48,11 @@ no place in the brain where it all "comes together", there is no coming
 together of any kind -- we should see it as a sketch of how a
 _functional_ coming together might be implemented.
 
-Dennett himself seems unable to make this move because of his
-well-meaning but ultimately misguided wariness of Cartesian thinking. On
-the subject of visual perception, for example, Dennett is unhesitating
-in his rejection of a "coming together", of an internal image for the
-mind's eye to inspect:
+This move is unavailable to Dennett as long as he remains committed to a
+particular materialist dogma, namely that no aspect of perception can
+resemble an inner presentation. On the subject of visual perception, for
+example, Dennett is unhesitating in his rejection of a "coming
+together", of an internal image for the mind's eye to inspect:
 
 > “The eventual “products” of vision are such things as guided hand and
 > finger motions, involuntary ducking, exclamations of surprise, triggering
@@ -60,56 +60,55 @@ mind's eye to inspect:
 > in any sense...” [(BBS commentary on Pylyshyn)](#dennett02)
 
 It is not hard to understand why Dennett is so opposed to the idea that
-the job of vision is to produce an inner image. The idea of seeing as
-the observation of an internal performance on a phenomenal stage -- the
+vision might involve an inner image. The idea of seeing as the
+observation of an internal performance on a phenomenal stage -- the
 dreaded "Cartesian theatre" -- is antithetical to the standard
 materialist world view, and certainly invites a worry about infinite
-regress. While the commitment to materialism is admirable, Dennett's
-description of vision here is inaccurate:
+regress. While the commitment to materialism is admirable, the outright
+rejection of the Cartesian theatre unfortunately throws the baby out
+with the bathwater.
 
-As a taster of the key claim I will be making in this essay, start with
-the following observation: contrary to Dennett, there are in fact many
-imagistic aspects of visual behaviour. By this I mean that there are
-many respects in which we _behave_ as though our visual percepts are a
-kind of inner presentation -- in the sense that our "mind's eye" is able
-to freely roam over the percept itself. Examples that I will explore in
-detail over the coming months include the way we report visual
-illusions, entopic phenomena like
+If Dennett were less careful to avoid anything that suggests an inner
+presentation, he would find it easy to find (behavioural, functional)
+products of vision which are image-like. By this I mean many respects in
+which we _behave_ as though our visual percepts are a kind of inner
+presentation -- in the sense that our "mind's eye" is able to freely
+roam over the percept itself. Examples that I will explore in detail
+over the coming months include the way we report visual illusions,
+entopic phenomena like
 [floaters](https://en.wikipedia.org/wiki/Floater), optical effects like
 parallax, and hallucinations induced by psychoactive drugs. These are
 all "behavioural outputs" of vision that are profoundly imagistic.
 
 The emphasis on the word _behave_ in the previous paragraph is crucial.
 This aspect of human visual perception is not -- as philosophers such as
-Chalmers tend to presume -- a "further fact" about perception that
-exists beyond function or behaviour, a purely private phenomenon
-correlated with but somehow in addition to neural activity. Rather, it
-is an overt (and presumably useful in some evolutionary sense) aspect of
-our behaviour: a feature, not an epiphenomenon. We are able _not only_
-to use vision to "get by" in the world (identify mates, avoid predators)
-_but also_ to behave deeply and systematically about the content of
-visual percepts. These are two distinct visual capabilities -- a
-"first-order" capability that triggers hand movements, involuntary
-duckings, sexual arousal and whatnot, and a "second-order" capability
-that allows us to behave about vision itself. I believe that
-understanding this properly is the key to understanding phenomenal
-consciousness.
+Chalmers have presumed -- a "further fact" about perception, a purely
+private phenomenon correlated with but somehow in addition to neural
+mechanism and beahviour. Rather, it is an overt aspect of our behaviour:
+a feature, not an epiphenomenon. We are able _not only_ to use vision to
+"get by" in the world (identify mates, avoid predators) _but also_ to
+behave deeply and systematically about the content of visual percepts.
+These are two distinct visual capabilities -- a "first-order" capability
+that triggers hand movements, involuntary duckings, sexual arousal and
+whatnot, and a "second-order" capability that allows us to behave about
+vision itself. I believe that understanding this properly is the key to
+understanding phenomenal consciousness.
 
 If we were somehow able to peek into the brain of a seeing person, would
 we find patterns of neural activation that resemble images? No. Rather,
 my claim is that our self-narratives often have content that is
 _functionally_ image-like, regardless of how that behaviour is
-implemented or that content represented. It is in this important,
-functional, sense that there an inner presentation. Indeed it is the
-functional role of the narrative in these situations as an enabler of
-"behaviour about percepts" that warrants describing it as an inner
-image. The implementation technique may be quite clever, building the
+implemented or that content represented. It is only in this functional
+sense that there an inner presentation. Indeed it is the functional role
+of the content in these situations as an enabler of "behaviour about
+percepts" that warrants describing it as an inner image. The
+implementation technique may be quite clever, building the
 representation on demand and only instantiating as much structure as is
 required to meet the demands of the task at hand. But these are mere
 implementation detail. Our "selves" live on the outside of that clever
 abstraction.
 
-This a functional inner presentation is what I mean by the Virtual
+This functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
 purpose of this essay.
 
