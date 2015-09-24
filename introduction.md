@@ -64,12 +64,12 @@ together", of an internal image for the mind's eye to inspect:
 > in any sense...” [(BBS commentary on Pylyshyn)](#dennett02)
 
 To a materialist, Dennett's opposition to the idea that vision might
-involve an inner image may seem quite reasonable. After all, the idea of
+involve an inner image may seem reasonable. After all, the idea of
 seeing as the observation of an internal performance on a phenomenal
 stage -- the dreaded "Cartesian theatre" -- is quite antithetical to the
-standard materialist picture. Naïve substance dualism is
-(uncontroversially) wrong, and perhaps there is a materialist tendency
-to over-compensate, tarring anything resembling the Cartesian model with
+standard materialist picture. Since no-one takes _substance_ dualism
+seriously any more, perhaps there is a materialist tendency to
+over-compensate, tarring anything resembling the Cartesian model with
 the same brush. Unfortunately (and switching metaphors) this throws the
 baby out with the bathwater.
 
@@ -100,13 +100,13 @@ If we were able to peek into the brain of a seeing person, would we find
 patterns of neural activation that resemble images? No. Rather, my claim
 is that we would find perceptual content that is _functionally_
 image-like, in the sense that it enables "behaviour about percepts". It
-is only in this functional sense that there an inner presentation, and
-the claim remains neutral about how that behaviour is implemented or
-that content represented. The implementation techniques may be quite
-clever, building the representation on demand and only instantiating as
-much structure as is required to meet the demands of the task at hand.
-But these are mere implementation detail. Our "selves" live on the
-outside of that powerful abstraction.
+is only in this functional sense that there an inner presentation. The
+claim remains neutral about how that behaviour is implemented or that
+content represented. The implementation techniques may be quite clever,
+building the representation on demand and only instantiating as much
+structure as is required to meet the demands of the task at hand. But
+these are mere implementation detail. Our "selves" live on the outside
+of that powerful abstraction.
 
 This functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
