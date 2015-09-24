@@ -5,7 +5,7 @@ product: all
 platform: all
 version: all
 destination: /tmp/designedmind
-topnav_title: Designed Mind 0.1
+topnav_title: Designed Mind 0.1.1
 homepage_title: Designed Mind
 site_title: Designed Mind
 disqus_shortname: idrbwjekyll
