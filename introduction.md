@@ -17,29 +17,33 @@ about it.
 
 The starting point of my account is Dennett's so-called "multiple
 drafts" theory, as set out in his 1991 book
-[Consciousness Explained](#dennett91a). The multiple drafts model
-positions consciousness as an elaborate form of _behaviour_, driven by
-narrative-building mechanisms in the brain. The "multiple drafts" refers
-to the fact that there is no unique global narrative that defines the
-content of my consciousness but rather there are various strands of
-narrative fighting for their opportunity to influence behaviour, any of
-them subject to revision in the light of further sensory input.
+[Consciousness Explained](#dennett91a). Dennett's theory treats
+consciousness as an elaborate form of _behaviour_, driven by
+narrative-building mechanisms in the brain. "Multiple" refers to the
+fact that there is no unique global narrative defining the content of my
+consciousness but rather distinct strands of narrative competing for an
+opportunity to influence behaviour. "Drafts" refers to the tentative
+nature of the content: the official story of "what it was like to be me
+at time _t_" may be revised over time in the light of further sensory
+input or processing.
 
 Dennett's theory is profound, but many find it extremely unsatisfying.
 The most common criticism is that by assuming that function, or
-behaviour, is all that needs to be accounted for, Dennett's theory
-disregards the very thing that needs explaining, namely the fact that
-_it is like something to be me_. Indeed, far from _explaining_
-consciousness, Dennett's story does little more than "explain it away".
+behaviour, is all that needs to be accounted for, the scope of Dennett's
+theory exclude the key phenomenon in need of explanation, namely the
+fact that _it is like something_ to be me. At best Dennett's theory is
+an account of the "observable" aspects of consciousness, such as our
+verbal reports, having little if anything to say about our inner,
+private lives.
 
 I am enthusiastic about the shift in perspective that Dennett's book
 introduced. I hope it will one day be recognised as a watershed moment
 in our understanding of consciousness. Nevertheless, it falls short.
 While many of the core ingredients are in place, Dennett is tripped up
 by a well-meaning but ultimately misguided wariness of Cartesian
-thinking. On the subject of visual perception, for example, Dennett
-unwaveringly rejects any idea of a "coming together", an internal image
-for the mind's eye to inspect:
+thinking. On the subject of visual perception, for example, Dennett is
+unhesitating in his rejection of a "coming together", of an internal
+image for the mind's eye to inspect:
 
 > “The eventual “products” of vision are such things as guided hand and
 > finger motions, involuntary ducking, exclamations of surprise, triggering
@@ -47,11 +51,12 @@ for the mind's eye to inspect:
 > in any sense...” [(BBS commentary on Pylyshyn)](#dennett02)
 
 It is not hard to understand why Dennett is so opposed to the idea that
-the job of vision is not to produce an inner image. The idea of seeing
-as the observation of an internal performance on a phenomenal stage --
-the dreaded "Cartesian theatre" -- is antithetical to the standard
-materialist world view. While the commitment to materialism is
-admirable, Dennett's description of vision here is inaccurate:
+the job of vision is to produce an inner image. The idea of seeing as
+the observation of an internal performance on a phenomenal stage -- the
+dreaded "Cartesian theatre" -- is antithetical to the standard
+materialist world view, and certainly invites a worry about infinite
+regress. While the commitment to materialism is admirable, Dennett's
+description of vision here is inaccurate:
 
 As a taster of the key claim I will be making in this essay, start with
 the following observation: contrary to Dennett, there are in fact many
