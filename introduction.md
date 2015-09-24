@@ -1,5 +1,5 @@
 ---
-last_updated: September 20, 2015
+last_updated: September 24, 2015
 
 summary: "Dennett's theory is a breakthrough, but falls short of an
 account of phenomenal consciousness."
@@ -48,9 +48,13 @@ performance on a phenomenal stage -- the dreaded "Cartesian theatre"
 commitment to materialism is admirable, Dennett's description of vision
 here is inaccurate:
 
-As a taster of the key claim I will be making in this essay, let us
-start with the following observationq: there are in fact _many_
-imagistic aspects of visual behaviour.
+As a taster of the key claim I will be making in this essay, start with
+the following observation: there are in fact _many_ imagistic aspects of
+visual behaviour. Examples that I will explore in detail over the coming
+months include the way we report visual illusions, entopic phenomena
+like [floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
+hallucinations induced by psychoactive drugs. These are all "behavioural
+outputs" of vision that are profoundly imagistic.
 
 The key point is that _vision_ and _visual phenomenology_ are not the
 same thing. When the only _purpose_ of vision is to guide hand
@@ -59,11 +63,6 @@ the end products of vision. But when the requirements placed on our
 visual capabilities are extended to include elaborate verbal reports .
 It is because our vision these particular evolved functions that
 
-Examples that I will explore in detail over the coming months include
-the way we report visual illusions, entopic phenomena like
-[floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
-hallucinations induced by psychoactive drugs. These are all "behavioural
-outputs" of vision that are profoundly imagistic.
 
 Does this mean that if we were somehow able to peek into the brain of
 someone while they were seeing, that we should expect to find image-like

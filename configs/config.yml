@@ -28,7 +28,7 @@ exclude:
 # same for all
 host: 127.0.0.1
 feedback_email: roly.perera@dynamicaspects.org
-sidebar_accordion: true
+sidebar_accordion: false
 markdown: redcarpet
 print: false
 theme_file: theme-blue.css

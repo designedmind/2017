@@ -9,7 +9,7 @@
                         // Initialize navgoco with default options
                         $("#mysidebar").navgoco({
                             caretHtml: '',
-                            accordion: {% if site.sidebar_accordion %}{{site.sidebar_accordion}}{% else %}true{% endif %},
+                            accordion: {{site.sidebar_accordion}},
                             openClass: 'active', // open
                             save: false, // leave false or nav highlighting doesn't work right
                             cookie: {
