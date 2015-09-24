@@ -32,8 +32,8 @@ is that by accounting only for mechanism and behaviour, the scope of
 Dennett's theory necessarily excludes the key phenomenon in need of
 explanation, namely the fact that _it is like something_ to be me. At
 best Dennett's theory may explain the "observable" aspects of
-consciousness, such as verbal reports, having little, if anything, to
-say about our inner, private lives.
+consciousness, such as verbal reports, but it has little, if anything,
+to say about our inner, private lives.
 
 I have a lot of sympathy with this objection. It does indeed seem that
 Dennett neglects the central mystery, namely how matter comes to have
@@ -42,15 +42,15 @@ core ingredients of Dennett's theory to explain this apparent mystery
 purely in terms of function and behaviour. To do so requires looking at
 Dennett's multiple drafts model in a new way.
 
-Rather than taking it as a "deconstruction" of the Cartesian theatre --
+Rather than taking it as a _deconstruction_ of the Cartesian theatre --
 an argument to the effect that, since there is no place in the brain
-where it all "comes together", there is no coming together of any kind
--- I shall argue that we should see the multiple drafts model as a
-"reconstruction" of a (virtual) Cartesian theatre, a sketch of how a
-_functional_ coming together might be implemented. This seems to hold
-the best prospects for reconciling the scientific image of mind as
-mechanism with the "manifest" image of ourselves as conscious agents
-with rich phenomenal lives.
+where "it all comes together", there is no coming together of any kind
+-- I think we should instead see the multiple drafts model as a
+(virtual) _reconstruction_ of the Cartesian theatre, a sketch of how a
+_functional_ coming together might be implemented with pure mechanism.
+This seems to hold the best prospects for reconciling the scientific
+image of mind as mechanism with the "manifest" image of ourselves as
+conscious agents with rich phenomenal lives.
 
 This move remains blocked to Dennett as long as he resists the idea that
 any aspect of perception can resemble an inner presentation. On this
@@ -94,19 +94,19 @@ These are two distinct visual capabilities -- a "first-order" capability
 that triggers hand movements, involuntary duckings, sexual arousal and
 whatnot, and a "second-order" capability that allows us to behave about
 vision itself. I believe that understanding this distinction properly is
-the crucial step in understanding phenomenal consciousness.
+the crucial step required to understand phenomenal consciousness.
 
 If we were able to peek into the brain of a seeing person, would we find
 patterns of neural activation that resemble images? No. Rather, my claim
 is that we would find perceptual content that is _functionally_
-image-like, in the sense that it enables "behaviour about percepts". It
-is only in this functional sense that there an inner presentation. The
-claim remains neutral about how that behaviour is implemented or that
-content represented. The implementation techniques may be quite clever,
-building the representation on demand and only instantiating as much
-structure as is required to meet the demands of the task at hand. But
-these are mere implementation detail. Our "selves" live on the outside
-of that powerful abstraction.
+image-like, in the sense that it enables "behaviour about percepts". In
+this functional sense, there an inner presentation. The claim remains
+neutral about how that behaviour is implemented or that content
+represented. The implementation techniques may be quite clever, building
+the representation on demand and only instantiating as much structure as
+is required to meet the demands of the task at hand. But these are mere
+implementation detail. Our "selves" live on the outside of that powerful
+abstraction.
 
 This functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
