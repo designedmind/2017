@@ -28,21 +28,20 @@ official story of "what it was like to be me at time _t_" may be revised
 over time in the light of further sensory input or processing.
 
 Dennett's theory is profound, but many find it extremely unsatisfying.
-The most common criticism is that by accounting only for function, or
-behaviour, the scope of Dennett's theory necessarily excludes the key
-phenomenon in need of explanation, namely the fact that _it is like
-something_ to be me. At best Dennett's theory may explain the
-"observable" aspects of consciousness, such as verbal reports, having
-little if anything to say about our inner, private lives.
+The most common criticism, articulated by David Chalmers among others,
+is that by accounting only for function, or behaviour, the scope of
+Dennett's theory necessarily excludes the key phenomenon in need of
+explanation, namely the fact that _it is like something_ to be me. At
+best Dennett's theory may explain the "observable" aspects of
+consciousness, such as verbal reports, having little if anything to say
+about our inner, private lives.
 
 I have a lot of sympathy with this objection. It does indeed seem that
 Dennett neglects the central mystery, namely how matter comes to have
 subjective experience. Nevertheless, I believe it is possible to use the
 core ingredients of Dennett's theory to explain this apparently mystery
-purely in terms of function and behaviour.
-
-To do so requires looking at Dennett's multiple drafts model in a new
-way.
+purely in terms of function and behaviour. To do so requires looking at
+Dennett's multiple drafts model in a new way.
 
 Dennett himself seems unable to make this move because of his
 well-meaning but ultimately misguided wariness of Cartesian thinking. On
@@ -66,46 +65,41 @@ description of vision here is inaccurate:
 As a taster of the key claim I will be making in this essay, start with
 the following observation: contrary to Dennett, there are in fact many
 imagistic aspects of visual behaviour. By this I mean that there are
-many respects in which we _behave as though_ our visual percepts were
-"presented" -- in such a way that our "mind's eye" is able to freely
-roam over the percept itself. I emphasised the word "behave" here
-because this aspect of visual perception in humans is not -- as some
-philosophers might have it -- a "further fact" about perception that
-exists beyond function or behaviour, but is part of our overt (and
-presumably evolved) organismic function. The ability _not only_ to use
-vision to "get by" in the world (identify mates, avoid predators) _but
-also_ to behave deeply and systematically about the content of our
-percepts is part of our phenotype. I believe that to understand this
-properly is to understand phenomenal consciousness.
+many respects in which we _behave as though_ our visual percepts are a
+kind of inner presentation -- in the sense that our "mind's eye" is able
+to freely roam over the percept itself. The emphasis on the word
+"behave" here is crucial: this aspect of human visual perception is not
+-- as some philosophers might have it -- a "further fact" about
+perception that exists beyond function or behaviour, but is an overt
+overt (and presumably "useful" in some evolutionary sense) aspect of our
+organismic function. The ability _not only_ to use vision to "get by" in
+the world (identify mates, avoid predators) _but also_ to behave deeply
+and systematically about the content of our percepts. This shearing of
+vision into two components -- a "first-order" component that guides hand
+movements, cause duckings, or elicits sexual arousal, and a
+"second-order" component that allows us to behave about vision itself --
+is part of our phenotype. I believe that understanding this properly is
+the key to understanding phenomenal consciousness.
 
-Examples that I will explore in
-detail over the coming months include the way we report visual
-illusions, entopic phenomena like
+Examples that I will explore in detail over the coming months include
+the way we report visual illusions, entopic phenomena like
 [floaters](https://en.wikipedia.org/wiki/Floater), parallax, and
 hallucinations induced by psychoactive drugs. These are all "behavioural
 outputs" of vision that are profoundly imagistic.
 
-The key point is that _vision_ and _visual phenomenology_ are not the
-same thing. When the only _purpose_ of vision is to guide hand
-movements, cause duckings, or elicit sexual arousal, these are indeed
-the end products of vision. But when the requirements placed on our
-visual capabilities are extended to include the production of verbal
-reports,. It is because our vision these particular evolved functions
-that
-
-Does this mean that if we were somehow able to peek into the brain of a
-seeing person, we would patterns of neural activation that resemble
-images? No. Rather, it is to say that our self-narratives often have
-content that is _functionally image-like_, and that the associated
-behaviours are similarly imagistic. It is in this important, functional,
-sense that there an inner presentation. Indeed the functional role of
-the narrative in this situation is _precisely_ to serve as an inner
-image of sorts: the narrative has as its content the phenomenonal image.
-Of course the implementation technique may be quite clever, building the
-representation on demand and only instantiating as much internal
-structure as is required to meet the demands of the task at hand. But
-these are mere implementation detail, and our "selves" live on the
-outside of the abstraction.
+If we were somehow able to peek into the brain of a seeing person, would
+we find patterns of neural activation that resemble images? No. Rather,
+my claim is that our self-narratives often have content that is
+_functionally_ image-like, and that the associated behaviours are
+similarly imagistic. It is in this important, functional, sense that
+there an inner presentation. Indeed the functional role of the narrative
+in this situation is _precisely_ to serve as an inner image of sorts:
+the narrative has as its content the phenomenonal image. The
+implementation technique may be quite clever, building the
+representation on demand and only instantiating as much structure as is
+required to meet the demands of the task at hand. But these are mere
+implementation detail, and our "selves" live on the outside of the
+abstraction.
 
 Such a functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
