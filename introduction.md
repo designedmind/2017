@@ -90,16 +90,16 @@ outputs" of vision that are profoundly imagistic.
 If we were somehow able to peek into the brain of a seeing person, would
 we find patterns of neural activation that resemble images? No. Rather,
 my claim is that our self-narratives often have content that is
-_functionally_ image-like, and that the associated behaviours are
-similarly imagistic. It is in this important, functional, sense that
-there an inner presentation. Indeed the functional role of the narrative
-in this situation is _precisely_ to serve as an inner image of sorts:
-the narrative has as its content the phenomenonal image. The
-implementation technique may be quite clever, building the
-representation on demand and only instantiating as much structure as is
-required to meet the demands of the task at hand. But these are mere
-implementation detail, and our "selves" live on the outside of the
-abstraction.
+_functionally_ image-like, regardless of how that behaviour is
+implemented or that content represented. It is in this important,
+functional, sense that there an inner presentation. Indeed the
+functional role of the narrative in this situation is _precisely_ to
+serve as an inner image of sorts: the narrative has as its content the
+phenomenonal image. The implementation technique may be quite clever,
+building the representation on demand and only instantiating as much
+structure as is required to meet the demands of the task at hand. But
+these are mere implementation detail. Our "selves" live on the outside
+of that particular abstraction.
 
 Such a functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
