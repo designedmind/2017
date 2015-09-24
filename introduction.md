@@ -70,8 +70,8 @@ stage -- the dreaded "Cartesian theatre" -- is quite antithetical to the
 standard materialist picture. Since _substance_ dualism is so
 "obviously" wrong, perhaps there is a materialist tendency to
 over-compensate, tarring anything resembling the Cartesian model with
-the same brush. Unfortunately (and switching metaphors) this throws the
-baby out with the bathwater.
+the same brush. Unfortunately (and switching metaphors) the baby goes
+out with the bathwater.
 
 Indeed, one does not have to look far to find (behavioural, functional)
 products of vision which very much resemble an inner presentation -- in
