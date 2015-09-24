@@ -45,14 +45,19 @@ Dennett's multiple drafts model in a new way.
 Rather than taking the multiple drafts model as a "deconstruction" of
 the Cartesian theatre -- an argument to the effect that, since there is
 no place in the brain where it all "comes together", there is no coming
-together of any kind -- we should see it as a sketch of how a
-_functional_ coming together might be implemented.
+together of any kind -- we should see it as a "reconstruction" of a
+(virtual) Cartesian theatre, a sketch of how a _functional_ coming
+together might be implemented. This seems to hold the best prospects for
+reconciling the scientific image of the mind as mechanism, with the
+"manifest" image of ourselves as conscious agents with rich phenomenal
+lives.
 
-This move is unavailable to Dennett as long as he remains committed to a
-particular materialist dogma, namely that no aspect of perception can
-resemble an inner presentation. On the subject of visual perception, for
-example, Dennett is unhesitating in his rejection of a "coming
-together", of an internal image for the mind's eye to inspect:
+This move is blocked to Dennett as long as he remains resistant to the
+idea that any aspect of perception can resemble an inner presentation.
+On this particular question, Dennett is adamant. On the subject of
+visual perception, for example, Dennett is unhesitating in his rejection
+of a "coming together", of an internal image for the mind's eye to
+inspect:
 
 > “The eventual “products” of vision are such things as guided hand and
 > finger motions, involuntary ducking, exclamations of surprise, triggering
@@ -63,22 +68,20 @@ It is not hard to understand why Dennett is so opposed to the idea that
 vision might involve an inner image. The idea of seeing as the
 observation of an internal performance on a phenomenal stage -- the
 dreaded "Cartesian theatre" -- is antithetical to the standard
-materialist world view, and certainly invites a worry about infinite
-regress. While the commitment to materialism is admirable, the outright
-rejection of the Cartesian theatre unfortunately throws the baby out
-with the bathwater.
+materialist world view. Na\"ive substance dualism is obviously wrong,
+and anything that resembles the Cartesian model seems wrong by
+association. While the commitment to materialism is admirable, the
+outright rejection of the Cartesian theatre unfortunately throws the
+baby out with the bathwater.
 
-If Dennett were less careful to avoid anything that suggests an inner
-presentation, he would find it easy to find (behavioural, functional)
-products of vision which are image-like. By this I mean many respects in
-which we _behave_ as though our visual percepts are a kind of inner
-presentation -- in the sense that our "mind's eye" is able to freely
-roam over the percept itself. Examples that I will explore in detail
-over the coming months include the way we report visual illusions,
-entopic phenomena like
-[floaters](https://en.wikipedia.org/wiki/Floater), optical effects like
-parallax, and hallucinations induced by psychoactive drugs. These are
-all "behavioural outputs" of vision that are profoundly imagistic.
+Indeed, one does not have to look far to find (behavioural, functional)
+products of vision which very much resemble a kind of inner presentation
+-- in the sense that our "mind's eye" is able to freely roam over the
+percept itself. Examples that I will explore in detail over the coming
+months include the way we report visual illusions, entopic phenomena
+like [floaters](https://en.wikipedia.org/wiki/Floater), optical effects
+like parallax, and hallucinations induced by psychoactive drugs. These
+are all "behavioural outputs" of vision that are profoundly imagistic.
 
 The emphasis on the word _behave_ in the previous paragraph is crucial.
 This aspect of human visual perception is not -- as philosophers such as
