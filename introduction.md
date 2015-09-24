@@ -42,10 +42,10 @@ core ingredients of Dennett's theory to explain this apparent mystery
 purely in terms of function and behaviour. To do so requires looking at
 Dennett's multiple drafts model in a new way.
 
-Rather than taking the multiple drafts model as a "deconstruction" of
-the Cartesian theatre -- an argument to the effect that, since there is
-no place in the brain where it all "comes together", there is no coming
-together of any kind -- I shall argue that we should see it as a
+Rather than taking it as a "deconstruction" of the Cartesian theatre --
+an argument to the effect that, since there is no place in the brain
+where it all "comes together", there is no coming together of any kind
+-- I shall argue that we should see the multiple drafts model as a
 "reconstruction" of a (virtual) Cartesian theatre, a sketch of how a
 _functional_ coming together might be implemented. This seems to hold
 the best prospects for reconciling the scientific image of mind as
