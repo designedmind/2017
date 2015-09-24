@@ -67,8 +67,8 @@ To a materialist, Dennett's opposition to the idea that vision might
 involve an inner image may seem reasonable. After all, the idea of
 seeing as the observation of an internal performance on a phenomenal
 stage -- the dreaded "Cartesian theatre" -- is quite antithetical to the
-standard materialist picture. Since no-one takes _substance_ dualism
-seriously any more, perhaps there is a materialist tendency to
+standard materialist picture. Since _substance_ dualism is so
+"obviously" wrong, perhaps there is a materialist tendency to
 over-compensate, tarring anything resembling the Cartesian model with
 the same brush. Unfortunately (and switching metaphors) this throws the
 baby out with the bathwater.
