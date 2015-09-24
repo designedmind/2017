@@ -17,33 +17,38 @@ about it.
 
 The starting point of my account is Dennett's so-called "multiple
 drafts" theory, as set out in his 1991 book
-[Consciousness Explained](#dennett91a). Dennett's theory treats
-consciousness as an elaborate form of _behaviour_, driven by
-narrative-building mechanisms in the brain. "Multiple" refers to the
-fact that there is no unique global narrative defining the content of my
-consciousness but rather distinct strands of narrative competing for an
-opportunity to influence behaviour. "Drafts" refers to the tentative
-nature of the content: the official story of "what it was like to be me
-at time _t_" may be revised over time in the light of further sensory
-input or processing.
+[Consciousness Explained](#dennett91a). Dennett's theory proposes that
+we understand consciousness as an elaborate form of _behaviour_, driven
+by narrative-building mechanisms in the brain. The "multiple" in
+multiple drafts refers to the fact that there is no unique global
+narrative defining the content of my consciousness, but rather distinct
+strands of narrative competing for an opportunity to influence
+behaviour. "Drafts" refers to the tentative nature of the content: the
+official story of "what it was like to be me at time _t_" may be revised
+over time in the light of further sensory input or processing.
 
 Dennett's theory is profound, but many find it extremely unsatisfying.
-The most common criticism is that by assuming that function, or
-behaviour, is all that needs to be accounted for, the scope of Dennett's
-theory exclude the key phenomenon in need of explanation, namely the
-fact that _it is like something_ to be me. At best Dennett's theory is
-an account of the "observable" aspects of consciousness, such as our
-verbal reports, having little if anything to say about our inner,
-private lives.
+The most common criticism is that by accounting only for function, or
+behaviour, the scope of Dennett's theory necessarily excludes the key
+phenomenon in need of explanation, namely the fact that _it is like
+something_ to be me. At best Dennett's theory may explain the
+"observable" aspects of consciousness, such as verbal reports, having
+little if anything to say about our inner, private lives.
 
-I am enthusiastic about the shift in perspective that Dennett's book
-introduced. I hope it will one day be recognised as a watershed moment
-in our understanding of consciousness. Nevertheless, it falls short.
-While many of the core ingredients are in place, Dennett is tripped up
-by a well-meaning but ultimately misguided wariness of Cartesian
-thinking. On the subject of visual perception, for example, Dennett is
-unhesitating in his rejection of a "coming together", of an internal
-image for the mind's eye to inspect:
+I have a lot of sympathy with this objection. It does indeed seem that
+Dennett neglects the central mystery, namely how matter comes to have
+subjective experience. Nevertheless, I believe it is possible to use the
+core ingredients of Dennett's theory to explain this apparently mystery
+purely in terms of function and behaviour.
+
+To do so requires looking at Dennett's multiple drafts model in a new
+way.
+
+Dennett himself seems unable to make this move because of his
+well-meaning but ultimately misguided wariness of Cartesian thinking. On
+the subject of visual perception, for example, Dennett is unhesitating
+in his rejection of a "coming together", of an internal image for the
+mind's eye to inspect:
 
 > “The eventual “products” of vision are such things as guided hand and
 > finger motions, involuntary ducking, exclamations of surprise, triggering
@@ -67,11 +72,11 @@ roam over the percept itself. I emphasised the word "behave" here
 because this aspect of visual perception in humans is not -- as some
 philosophers might have it -- a "further fact" about perception that
 exists beyond function or behaviour, but is part of our overt (and
-presumably evolved) "functionality" as organisms. The ability to _not
-only_ use vision to "get by" in the world (identify mates, avoid
-predators) _but also_ to behave deeply and systematically about the
-content of our percepts is part of our phenotype. I believe that to
-understand this properly is to understand phenomenal consciousness.
+presumably evolved) organismic function. The ability _not only_ to use
+vision to "get by" in the world (identify mates, avoid predators) _but
+also_ to behave deeply and systematically about the content of our
+percepts is part of our phenotype. I believe that to understand this
+properly is to understand phenomenal consciousness.
 
 Examples that I will explore in
 detail over the coming months include the way we report visual
@@ -82,24 +87,25 @@ outputs" of vision that are profoundly imagistic.
 
 The key point is that _vision_ and _visual phenomenology_ are not the
 same thing. When the only _purpose_ of vision is to guide hand
-movements, induce duckings, and elicit sexual arousal, these are indeed
+movements, cause duckings, or elicit sexual arousal, these are indeed
 the end products of vision. But when the requirements placed on our
-visual capabilities are extended to include elaborate verbal reports .
-It is because our vision these particular evolved functions that
+visual capabilities are extended to include the production of verbal
+reports,. It is because our vision these particular evolved functions
+that
 
-Does this mean that if we were somehow able to peek into the brain of
-someone while they were seeing, that we should expect to find image-like
-patterns of neural activation? No. Rather, it is to say that our
-self-narratives often have content that is _functionally image-like_,
-and that the associated behaviours are similarly imagistic. It is in
-this important, functional, sense that there an inner presentation.
-Indeed the functional role of the narrative in this situation is
-_precisely_ to serve as an inner image of sorts: the narrative has as
-its content the phenomenonal image. Of course the implementation
-technique may be quite clever, building the representation on demand and
-only instantiating as much internal structure as is required to meet the
-demands of the task at hand. But these are mere implementation detail,
-and our "selves" live on the outside of the abstraction.
+Does this mean that if we were somehow able to peek into the brain of a
+seeing person, we would patterns of neural activation that resemble
+images? No. Rather, it is to say that our self-narratives often have
+content that is _functionally image-like_, and that the associated
+behaviours are similarly imagistic. It is in this important, functional,
+sense that there an inner presentation. Indeed the functional role of
+the narrative in this situation is _precisely_ to serve as an inner
+image of sorts: the narrative has as its content the phenomenonal image.
+Of course the implementation technique may be quite clever, building the
+representation on demand and only instantiating as much internal
+structure as is required to meet the demands of the task at hand. But
+these are mere implementation detail, and our "selves" live on the
+outside of the abstraction.
 
 Such a functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
