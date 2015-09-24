@@ -48,68 +48,66 @@ no place in the brain where it all "comes together", there is no coming
 together of any kind -- we should see it as a "reconstruction" of a
 (virtual) Cartesian theatre, a sketch of how a _functional_ coming
 together might be implemented. This seems to hold the best prospects for
-reconciling the scientific image of the mind as mechanism, with the
+reconciling the scientific image of mind as mechanism with the
 "manifest" image of ourselves as conscious agents with rich phenomenal
 lives.
 
 This move is blocked to Dennett as long as he remains resistant to the
 idea that any aspect of perception can resemble an inner presentation.
-On this particular question, Dennett is adamant. On the subject of
-visual perception, for example, Dennett is unhesitating in his rejection
-of a "coming together", of an internal image for the mind's eye to
-inspect:
+On this particular question, Dennett is adamant. Regarding visual
+perception, for example, Dennett is unhesitating in his rejection of a
+"coming together", of an internal image for the mind's eye to inspect:
 
 > “The eventual “products” of vision are such things as guided hand and
 > finger motions, involuntary ducking, exclamations of surprise, triggering
 > of ancient memories, sexual arousal, ... and none of these is imagistic
 > in any sense...” [(BBS commentary on Pylyshyn)](#dennett02)
 
-It is not hard to understand why Dennett is so opposed to the idea that
-vision might involve an inner image. The idea of seeing as the
-observation of an internal performance on a phenomenal stage -- the
-dreaded "Cartesian theatre" -- is antithetical to the standard
-materialist world view. Na\"ive substance dualism is obviously wrong,
-and anything that resembles the Cartesian model seems wrong by
-association. While the commitment to materialism is admirable, the
-outright rejection of the Cartesian theatre unfortunately throws the
+Dennett's opposition to the idea that vision might involve an inner
+image is hardly controversial amongst materialists. Indeed the idea of
+seeing as the observation of an internal performance on a phenomenal
+stage -- the dreaded "Cartesian theatre" -- is antithetical to the
+standard materialist picture. Naïve substance dualism is
+(uncontroversially) wrong, and perhaps there is a materialist tendency
+to over-compensate, tarring anything resembling the Cartesian model with
+the same brush. Unfortunately (and switching metaphors) this throws the
 baby out with the bathwater.
 
 Indeed, one does not have to look far to find (behavioural, functional)
-products of vision which very much resemble a kind of inner presentation
--- in the sense that our "mind's eye" is able to freely roam over the
-percept itself. Examples that I will explore in detail over the coming
-months include the way we report visual illusions, entopic phenomena
-like [floaters](https://en.wikipedia.org/wiki/Floater), optical effects
-like parallax, and hallucinations induced by psychoactive drugs. These
-are all "behavioural outputs" of vision that are profoundly imagistic.
+products of vision which very much resemble an inner presentation -- in
+the sense that our "mind's eye" is able to freely roam over the percept
+itself. Examples that I will explore in detail over the coming months
+include the way we report visual illusions, entopic phenomena like
+[floaters](https://en.wikipedia.org/wiki/Floater), optical effects like
+parallax, and hallucinations induced by psychoactive drugs. These are
+all "behavioural outputs" of vision that are profoundly imagistic.
 
 The emphasis on the word _behave_ in the previous paragraph is crucial.
-This aspect of human visual perception is not -- as philosophers such as
-Chalmers have presumed -- a "further fact" about perception, a purely
-private phenomenon correlated with but somehow in addition to neural
-mechanism and beahviour. Rather, it is an overt aspect of our behaviour:
-a feature, not an epiphenomenon. We are able _not only_ to use vision to
-"get by" in the world (identify mates, avoid predators) _but also_ to
-behave deeply and systematically about the content of visual percepts.
-These are two distinct visual capabilities -- a "first-order" capability
-that triggers hand movements, involuntary duckings, sexual arousal and
-whatnot, and a "second-order" capability that allows us to behave about
-vision itself. I believe that understanding this properly is the key to
-understanding phenomenal consciousness.
+Visual phenomenology is not -- as philosophers such as Chalmers have
+presumed -- a "further fact" about perception, a purely private
+phenomenon correlated with but somehow supplementary to neural mechanism
+and behaviour. Rather, phenomenology is an overt feature of our
+behaviour: functional, not epiphenomenal. We are able _not only_ to use
+vision to "get by" in the world (identify mates, avoid predators) _but
+also_ to behave deeply and systematically about the content of visual
+percepts. These are two distinct visual capabilities -- a "first-order"
+capability that triggers hand movements, involuntary duckings, sexual
+arousal and whatnot, and a "second-order" capability that allows us to
+behave about vision itself. I believe that understanding this
+distinction properly is the crucial step in understanding phenomenal
+consciousness.
 
-If we were somehow able to peek into the brain of a seeing person, would
-we find patterns of neural activation that resemble images? No. Rather,
-my claim is that our self-narratives often have content that is
-_functionally_ image-like, regardless of how that behaviour is
-implemented or that content represented. It is only in this functional
-sense that there an inner presentation. Indeed it is the functional role
-of the content in these situations as an enabler of "behaviour about
-percepts" that warrants describing it as an inner image. The
-implementation technique may be quite clever, building the
-representation on demand and only instantiating as much structure as is
-required to meet the demands of the task at hand. But these are mere
-implementation detail. Our "selves" live on the outside of that clever
-abstraction.
+If we were able to peek into the brain of a seeing person, would we find
+patterns of neural activation that resemble images? No. Rather, my claim
+is that we would find perceptual content that is _functionally_
+image-like, in the sense that it enables "behaviour about percepts". It
+is only in this functional sense that there an inner presentation, and
+the claim remains neutral about how that behaviour is implemented or
+that content represented. The implementation techniques may be quite
+clever, building the representation on demand and only instantiating as
+much structure as is required to meet the demands of the task at hand.
+But these are mere implementation detail. Our "selves" live on the
+outside of that powerful abstraction.
 
 This functional inner presentation is what I mean by the Virtual
 Cartesian Theatre. Putting some flesh on the bones of this idea is the
