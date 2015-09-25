@@ -78,7 +78,9 @@ These are the main claims I will be expanding on the next few years:
   percept in the narrative never occurs. Such a percept never enters the
   "phenomenal stage". Now imagine an organism where _all_ percepts are
   of this nature. This is perception without consciousness.
-* Finding out is a kind of filling in
+* Finding out is a kind of (means of implementing) filling in
 * Zombies also have the hard problem to solve
 * What if you were a zombie until 1s ago? What if you were a zombie for
   1s, then a non-zombie for 1s, and so on?
+* Sloman on virtual machines, "How could evolution get ghosts into
+  machines?"
