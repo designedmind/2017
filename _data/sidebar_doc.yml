@@ -1,26 +1,26 @@
 entries:
 - title: Sidebar
   subcategories:
-    - title: The Designed Mind
+    - title: 0. The Designed Mind
       audience: designers
       platform: all
       product: all
       version: all
       items:
-        - title: Introduction
+        - title: 0.1 Introduction
           url: /introduction.html
           audience: designers
           platform: all
           product: all
           version: all
 
-    - title: "Dennett's Multiple Drafts"
+    - title: "1. Dennett's Multiple Drafts"
       audience: designers
       platform: all
       product: all
       version: all
       items:
-        - title: Overview
+        - title: "1.1. Overview"
           url: /multiple-drafts-overview.html
           audience: designers
           platform: all
@@ -42,20 +42,20 @@ entries:
                   product: all
                   version: all
 
-        - title: A functional coming together
+        - title: "1.2 A functional coming together"
           url: "/multiple-drafts-functional-gateway.html"
           audience: designers
           platform: all
           product: all
           version: all
 
-    - title: Consciousness as Functionality
+    - title: "2. Functional Consciousness"
       audience: designers
       platform: all
       product: all
       version: all
       items:
-        - title: Functional role of consciousness
+        - title: "2.1 What is consciousness for?"
           url: /role-of-consciousness.html
           audience: designers
           platform: all

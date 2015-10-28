@@ -7,10 +7,6 @@ which perceptual content serves as data."
 
 ---
 
-{% include linkrefs.html %}
-
-## What is consciousness _for_?
-
 The lingering materialist suspicion is that the kinds of judgements we
 have been discussing – filling in judgements, inferences about temporal
 ordering, and so forth – do not really amount to a presentation, a

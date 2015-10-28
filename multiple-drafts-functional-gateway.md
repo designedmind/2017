@@ -98,3 +98,9 @@ thing. Dennett himself asks ([1991a](#dennett91a), p. 360)
 
 This indeed is exactly how the brain builds a static representation that
 in the abstract includes all the Marilyns.
+
+In the [next chapter](role-of-consciousness.html) we turn the question
+of what consciousness is _for_. If phenomenal consciousness is an overt
+feature of behaviour -- roughly the ability to behave about percepts --
+then presumably that capability is a solution to a particular ecological
+problem.
