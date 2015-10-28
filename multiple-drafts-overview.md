@@ -48,27 +48,28 @@ of it in at least one importance sense, namely that one could equally
 well exhibit exactly the same observable behaviour without the inner
 presentation.
 
-Whatever the reasons for the reasons for the dogmatic opposition to an
-inner presentation, they are, as Pessoa et al point out, widely held. In
-the next section, I review three empirical features of consciousness
-offered by Dennett to reject any vestige of the Cartesian Theatre:
-spatio-temporal ambiguity; susceptibility to future revision; and that
-the brain prefers
+With this (_prima facia_ reasonable) rejection of Cartesian thinking
+made explicit from the outset, Dennett devotes much of _Consciousness
+Explained_ to purging the vestiges of the Cartesian Theatre from our
+fledgling scientific picture of the mind. He draws heavily on a number
+of important empirical findings from consciousness research. In the next
+section I consider three of these in detail: spatio-temporal ambiguity;
+susceptibility to future revision; and that the brain prefers
 [&lsquo;finding out&rsquo; to &lsquo;filling in&rsquo;](multiple-drafts-dennett-finding-out.html).
+
+
 While these are all important facts about consciousness, none of them
 count as evidence against a functional counterpart of the Cartesian
 Theatre. On the contrary, they reveal the clever implementation tricks
-required to implement precisely such an abstraction.
-
-In the [last section](multiple-drafts-functional-gateway.html) of this
-chapter, I make the case that Dennett's Multiple Drafts model of
-consciousness is, in essence, a theory of how such a functional gateway
-or inner presentation might work. I shall argue that there is a
-"dualism" in how we function, that is to say a kind of inner
-presentation which is _not_ functionally redundant, but which has an
-important functional role to play. Acknowledging the existence of this
-aspect of our behaviour is key to understanding the puzzle of
-consciousness.
+required to implement precisely such an abstraction. Indeed, in the
+[last section](multiple-drafts-functional-gateway.html) of this chapter,
+I make the case that Dennett's Multiple Drafts model of consciousness
+is, in essence, a theory of how such a functional gateway or inner
+presentation might work. I shall argue that there is a "dualism" in how
+we function, that is to say a kind of inner presentation which is _not_
+functionally redundant, but which has an important functional role to
+play. Acknowledging the existence of this aspect of our behaviour is key
+to understanding the puzzle of consciousness.
 
 - - -
 
