@@ -12,25 +12,17 @@ glimpse of the clever tricks used to implement a coming together."
 
 {% include linkrefs.html %}
 
-[Intro to MD]
-
-In the [last section](multiple-drafts-functional-gateway.html) of this
-chapter, I make the case that Dennett's Multiple Drafts model of
-consciousness is, in essence, a theory of how such a functional gateway
-or inner presentation might work. I shall argue that there is a kind of
-"dualism" in how we function, and that taking this aspect of our
-behaviour seriously is key to understanding the puzzle of consciousness.
-
 According to [Pessoa et al](#pessoa98),
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-This consensus is problematic, because it hinders progress in a
-materialist understanding of consciousness. This is the central
-compromise of Consciousness Explained: by steering so clear of anything
-Cartesian in flavour, it misses the key opportunity to complete
-Dennett's functionalist picture and produce a full account of the "core
-features" of phenomenal consciousness, such as qualia and introspection.
+This methodological consensus is problematic, because it hinders
+progress towards a materialist understanding of consciousness. This is
+the central problem with _Consciousness Explained_: by being so
+resistant to anything Cartesian in flavour, it misses a key opportunity
+to complete Dennett's functionalist picture and produce a full account
+of the "core features" of phenomenal consciousness, such as qualia and
+introspection.
 
 Let us first revisit the problem with the Cartesian Theatre as
 traditionally construed. It is not simply the threat of infinite regress
@@ -62,6 +54,17 @@ While these are all important facts about consciousness, none of them
 count as evidence against a functional counterpart of the Cartesian
 Theatre. On the contrary, they reveal the clever implementation tricks
 required to implement precisely such an abstraction.
+
+In the [last section](multiple-drafts-functional-gateway.html) of this
+chapter, I make the case that Dennett's Multiple Drafts model of
+consciousness is, in essence, a theory of how such a functional gateway
+or inner presentation might work. I shall argue that there is a
+"dualism" in how we function, that is to say a kind of inner
+presentation which is _not_ functionally redundant, but which has an
+important functional role to play. Acknowledging the existence of this
+aspect of our behaviour is key to understanding the puzzle of
+consciousness.
+
 - - -
 
 <a name="dennett91a"></a>Dennett, Daniel C. (1991).
