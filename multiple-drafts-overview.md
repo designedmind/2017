@@ -2,12 +2,14 @@
 keywords: themes, styles, colors, css
 last_updated: September 20, 2015
 
-summary: "Dennett's Multiple Drafts theory of consciousness is mostly a
-negative account, focusing on what consciousness could not possible be.
-Drawing on recent experimental evidence, Dennett argues that that there
-is nowhere in the brain where everything comes together. While the
-evidence that Dennett draws on reveals that our everyday intuitions
-about consciousness cannot be taken at face value, "
+summary: "Dennett's Multiple Drafts theory is primarily a negative
+account, focusing on what consciousness could not possible be. Drawing
+on recent experimental studies, Dennett argues convincingly that there
+is nowhere in the brain where everything comes together, and that there
+is therefore no coming together of any kind. I revisit Dennett's key
+arguments, and in each case suggest that the phenomena in question
+reveal the implementation techniques used to achieve a functional coming
+together."
 
 ---
 
