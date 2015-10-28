@@ -32,25 +32,26 @@ is that by accounting only for mechanism and behaviour, the scope of
 Dennett's theory necessarily excludes the key phenomenon in need of
 explanation, namely the fact that _it is like something_ to be me. At
 best Dennett's theory may explain the "observable" aspects of
-consciousness, such as verbal reports, but it has little, if anything,
-to say about our inner, private lives.
+consciousness, such as verbal reports and neural mechanisms, but it has
+little, if anything, to say about our inner, private lives.
 
-I have a lot of sympathy with this objection. It does indeed seem that
-Dennett neglects the central mystery, namely how matter comes to have
-subjective experience. Nevertheless, I believe it is possible to use the
-core ingredients of Dennett's theory to explain this apparent mystery
-purely in terms of function and behaviour. To do so requires looking at
+I sympathise with this objection. It does indeed seem that Dennett
+neglects the central mystery, namely how matter comes to have subjective
+experience. Nevertheless, I believe it is possible to use the core
+ingredients of Dennett's theory to explain this apparent mystery purely
+in terms of function and behaviour. To do so requires looking at
 Dennett's multiple drafts model in a new way.
 
 Rather than taking it as a _deconstruction_ of the Cartesian theatre --
 an argument to the effect that, since there is no place in the brain
 where "it all comes together", there is no coming together of any kind
 -- I think we should instead see the multiple drafts model as a
-(virtual) _reconstruction_ of the Cartesian theatre, a sketch of how a
-_functional_ coming together might be implemented with pure mechanism.
-This seems to hold the best prospects for reconciling the scientific
-image of mind as mechanism with the "manifest" image of ourselves as
-conscious agents with rich phenomenal lives.
+(virtual) _reconstruction_ of the Cartesian theatre: a sketch of how a
+_functional_ coming together might be implemented, using nothing but
+mindless mechanism. This seems to hold the best prospects for
+reconciling the scientific image of mind as mechanism with the
+"manifest" image of ourselves as conscious agents with rich phenomenal
+lives.
 
 This move remains blocked to Dennett as long as he resists the idea that
 any aspect of perception can resemble an inner presentation. On this
@@ -83,25 +84,25 @@ parallax, and hallucinations induced by psychoactive drugs. These are
 all "behavioural outputs" of vision that are profoundly imagistic.
 
 The emphasis on the word _behave_ in the previous paragraph is crucial.
-Visual phenomenology is not -- as philosophers such as Chalmers have
-presumed -- a "further fact" about perception, a purely private affair
-correlated with but somehow supplementary to neural mechanism and
-behaviour. Rather, phenomenology is an overt feature of behaviour:
-functional, not epiphenomenal. We are able _not only_ to use vision to
-"get by" in the world (identify mates, avoid predators) _but also_ to
-behave deeply and systematically about the content of visual percepts.
-These are two distinct visual capabilities -- a "first-order" capability
-that triggers hand movements, involuntary duckings, sexual arousal and
-whatnot, and a "second-order" capability that allows us to behave about
-vision itself. I believe that understanding this distinction properly is
-the crucial step required to understand phenomenal consciousness.
+Visual phenomenology is not -- as Chalmers and others have presumed -- a
+"further fact" about perception, a purely private affair correlated with
+but somehow supplementary to neural mechanism and behaviour. Rather,
+phenomenology is an overt feature of behaviour: functional, not
+epiphenomenal. We are able _not only_ to use vision to "get by" in the
+world (identify mates, avoid predators) _but also_ to behave deeply and
+systematically about the content of visual percepts. These are two
+distinct visual capabilities -- a "first-order" capability that triggers
+hand movements, involuntary duckings, sexual arousal and whatnot, and a
+"second-order" capability that allows us to behave about vision itself.
+I believe that understanding this distinction properly is the crucial
+step required to understand phenomenal consciousness.
 
 If we were able to peek into the brain of a seeing person, would we find
 patterns of neural activation that resemble images? No. Rather, my claim
 is that we would find perceptual content that is _functionally_
 image-like, in the sense that it enables "behaviour about percepts". In
-this functional sense, there an inner presentation. The claim remains
-neutral about how that behaviour is implemented or that content
+this functional sense, there an inner presentation of sorts. The claim
+remains neutral about how that behaviour is implemented or that content
 represented. The implementation techniques may be quite clever, building
 the representation on demand and only instantiating as much structure as
 is required to meet the demands of the task at hand. But these are mere
