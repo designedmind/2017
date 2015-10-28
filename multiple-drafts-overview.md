@@ -4,8 +4,8 @@ last_updated: September 20, 2015
 
 summary: "Dennett's Multiple Drafts theory is primarily a negative
 account, focusing on what consciousness could not possibly be. I revisit
-Dennett's key arguments, and argue that in each case that the phenomena
-in question are not evidence against a coming together, but instead a
+Dennett's key arguments. In each case, I argue that the phenomenon in
+question is not evidence against a coming together, but instead a
 glimpse of the clever tricks used to implement a coming together."
 
 ---
@@ -18,34 +18,39 @@ According to [Pessoa et al](#pessoa98),
 
 This methodological consensus is problematic, because it hinders
 progress towards a materialist understanding of consciousness. This is
-the central problem with _Consciousness Explained_: by being so
+the central problem with _Consciousness Explained_; by being so
 resistant to anything Cartesian in flavour, it misses a key opportunity
 to complete Dennett's functionalist picture and produce a full account
 of the "core features" of phenomenal consciousness, such as qualia and
 introspection.
 
-Let us first revisit the problem with the Cartesian Theatre as
-traditionally construed. It is not simply the threat of infinite regress
-(explaining conscious agency requires positing an "inner" conscious
-agent, and so on _ad infinitum_). As long as any posited inner agent is
-strictly simpler than the agent which contains it, such a regress will
-terminate. Indeed, Dennett's theories, and similar positions such as
-Lycan's "homuncular functionalism" ([Lycan, 1987]()), propose exactly
-such a decomposition of the self into strictly smaller proto-selves.
+So what exactly is the materialist's problem with the Cartesian Theatre?
+It is not simply the threat of infinite regress (explaining conscious
+agency requires positing an "inner" conscious agent, and so on _ad
+infinitum_). As long as any posited inner agent is strictly simpler than
+the agent which contains it, such a regress will terminate. Indeed,
+Dennett's theories, and related positions such as Lycan's "homuncular
+functionalism" ([Lycan, 1987]()), propose exactly such a decomposition
+of the self into strictly smaller proto-selves.
 
 Rather, the problem with the Cartesian Theatre, at least for Dennett,
 seems to be with the idea of a _consciousness gateway_, a special
 location through which a perception or other judgement must "pass" -- or
 perhaps a special status that it must achieve -- in order for that
-perception or judgement to become conscious. But aside from the
-obviously Cartesian overtones, why should this idea be problematic? The
-thought is perhaps that in a fully materialistic theory, such a
-consciousness gateway would be _functionally redundant_. The various
-judgements made by the brain need only influence behaviour in the right
-way; they do not need to additionally give rise to some kind of inner
+perception or judgement to become conscious. The worry here is that, in
+a fully materialistic theory, such a consciousness gateway would be
+_functionally redundant_. The various judgements made by the brain need
+only influence behaviour in the right way; they do not need
+(functionally speaking) to additionally give rise to some kind of inner
+presentation. Any such presentation would be a mysterious "further fact"
+about consciousness, related to our behaviour, clearly, but independent
+of it in at least one importance sense, namely that one could equally
+well exhibit exactly the same observable behaviour without the inner
 presentation.
 
-In the next section, I review three empirical features of consciousness
+Whatever the reasons for the reasons for the dogmatic opposition to an
+inner presentation, they are, as Pessoa et al point out, widely held. In
+the next section, I review three empirical features of consciousness
 offered by Dennett to reject any vestige of the Cartesian Theatre:
 spatio-temporal ambiguity; susceptibility to future revision; and that
 the brain prefers
