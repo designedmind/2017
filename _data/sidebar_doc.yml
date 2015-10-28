@@ -41,7 +41,7 @@ entries:
               product: all
               version: all
 
-        - title: "1.2 A functional coming together"
+        - title: "1.3 A functional coming together"
           url: "/multiple-drafts-functional-gateway.html"
           audience: designers
           platform: all

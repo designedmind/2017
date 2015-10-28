@@ -3,7 +3,7 @@ keywords: themes, styles, colors, css
 last_updated: September 20, 2015
 
 summary: "Dennett's Multiple Drafts theory is primarily a negative
-account, focusing on what consciousness could not possible be. I revisit
+account, focusing on what consciousness could not possibly be. I revisit
 Dennett's key arguments, and argue that in each case that the phenomena
 in question are not evidence against a coming together, but instead a
 glimpse of the clever tricks used to implement a coming together."
