@@ -12,20 +12,25 @@ glimpse of the clever tricks used to implement a coming together."
 
 {% include linkrefs.html %}
 
-One must tread with care when proposing any cognitive architecture with
-even a hint of a Cartesian character. After all, as
-[Pessoa et al](#pessoa98) point out
+[Intro to MD]
+
+In the [last section](multiple-drafts-functional-gateway.html) of this
+chapter, I make the case that Dennett's Multiple Drafts model of
+consciousness is, in essence, a theory of how such a functional gateway
+or inner presentation might work. I shall argue that there is a kind of
+"dualism" in how we function, and that taking this aspect of our
+behaviour seriously is key to understanding the puzzle of consciousness.
+
+According to [Pessoa et al](#pessoa98),
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-This "consensus" is problematic, because it hinders progress in a
-materialist understanding of consciousness. This is what I shall attempt
-here -- to outline a biologically plausible architecture for
-consciousness in which a (functional) Cartesian Theatre plays a central
-role in the generation of behaviour. I shall not be proposing an
-immaterial basis for consciousness, but rather that there is a kind of
-"dualism" in how we function, and that taking this aspect of our
-behaviour seriously is key to understanding the puzzle of consciousness.
+This consensus is problematic, because it hinders progress in a
+materialist understanding of consciousness. This is the central
+compromise of Consciousness Explained: by steering so clear of anything
+Cartesian in flavour, it misses the key opportunity to complete
+Dennett's functionalist picture and produce a full account of the "core
+features" of phenomenal consciousness, such as qualia and introspection.
 
 Let us first revisit the problem with the Cartesian Theatre as
 traditionally construed. It is not simply the threat of infinite regress
@@ -48,18 +53,7 @@ judgements made by the brain need only influence behaviour in the right
 way; they do not need to additionally give rise to some kind of inner
 presentation.
 
-The materialist intuition that a complete theory of consciousness need
-only account for behaviour is sound. But what I shall now attempt to
-argue is that understanding certain kinds of judgement made by the brain
-as constituting an "inner presentation" is not only _compatible_ with
-this materialist/functionalist intuition, but in fact _essential_ to
-understanding the features of the mind that we most typically associate
-with consciousness, such as qualia and introspection.
-
-Moreover, and _contra_ the way Dennett appears to understand his own
-theory, Dennett's Multiple Drafts model of consciousness is, in essence,
-a theory of how such a functional gateway or inner presentation might
-work.
+[Basic form of Dennett's arguments]
 
 - - -
 
