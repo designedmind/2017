@@ -27,11 +27,10 @@ Cartesian in flavour, it misses the key trick required to complete
 Dennett's functionalist picture and produce a full account of the "core
 features" of phenomenal consciousness, such as qualia and introspection.
 
-The materialist worry about the Cartesian Theatre is understandable. As
-I mentioned in the [introduction](introduction.html), to some extent
-anything which recalls substance dualism becomes implausible by
-association. There is also the familiar threat of infinite regress (if
-explaining conscious agency requires positing an "inner" conscious
+The materialist worry about the Cartesian Theatre is understandable. To
+some extent anything which recalls substance dualism becomes implausible
+by association. There is also the familiar threat of infinite regress
+(if explaining conscious agency requires positing an "inner" conscious
 agent, and so on _ad infinitum_, then we have a problem). But as long as
 any posited inner agent is strictly simpler than the agent which
 contains it, infinite regress is avoided. Indeed Dennett's own theories,
@@ -48,10 +47,11 @@ materialistic theory, such a consciousness gateway would be
 _functionally redundant_. The various judgements made by the brain need
 only influence behaviour in the right way; they do not need
 (functionally speaking) to additionally give rise to some kind of inner
-presentation. Any such presentation would be a mysterious "further fact"
-about consciousness, related to our behaviour, clearly, but independent
-of it in at least one important sense, namely that one could equally
-well exhibit the relevant behaviour without the inner presentation.
+presentation. Any such presentation would therefore be a mysterious
+"further fact" about consciousness, related to our behaviour, clearly,
+but independent of it in at least one important sense, namely that one
+could equally well exhibit the relevant behaviour without the inner
+presentation.
 
 With this (_prima facia_ reasonable) rejection of Cartesian thinking on
 the table from the outset, Dennett devotes much of _Consciousness
@@ -72,9 +72,9 @@ uses to _implement_ an inner presentation, using nothing but pure
 mechanism.
 
 My [conclusion](multiple-drafts-functional-gateway.html) is that we
-should invert Dennett's interpretation of his own theory. The promise of
-Multiple Drafts is not a rejection of a "consciousness gateway" or inner
-presentation, but rather a sense of how such a thing _might actually
+should invert Dennett's interpretation of his own theory. Multiple
+Drafts is not a rejection of a "consciousness gateway" or inner
+presentation, but rather a story of how such a thing _might actually
 work_. Contra the materialist's intuition, the notion of inner
 presentation is not a functionally redundant vestige of poor Cartesian
 thinking, but a central functional component of human perceptual
