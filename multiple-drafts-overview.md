@@ -5,9 +5,8 @@ last_updated: October 29, 2015
 summary: "Dennett's Multiple Drafts theory is primarily a negative
 account, focusing on what consciousness could not possibly be. I revisit
 three of Dennett's key arguments. In each case, I argue that the
-phenomenon in question is not evidence against a coming together, but
-instead a glimpse of the clever tricks used to implement a coming
-together."
+phenomenon in question is not evidence against a coming together, but a
+glimpse of the clever tricks used to implement a coming together."
 
 ---
 
@@ -19,20 +18,23 @@ According to [Pessoa et al](#pessoa98),
 
 This methodological consensus is problematic, because it hinders
 progress towards a materialist understanding of consciousness. Indeed,
-it is the central problem with _Consciousness Explained_; by shunning
-anything remotely Cartesian in flavour, it misses the key trick required
-to complete Dennett's functionalist picture and produce a full account
-of the "core features" of phenomenal consciousness, such as qualia and
-introspection.
+it is the central problem with [_Consciousness Explained_](#dennett91a);
+by shunning anything remotely Cartesian in flavour, it misses the key
+trick required to complete Dennett's functionalist picture and produce a
+full account of the "core features" of phenomenal consciousness, such as
+qualia and introspection.
 
 So what exactly is the materialist's problem with the Cartesian Theatre?
-Well, there is the familiar threat of infinite regress (if explaining
-conscious agency requires positing an "inner" conscious agent, and so on
-_ad infinitum_, then we have a problem). But as long as any posited
-inner agent is strictly simpler than the agent which contains it,
-infinite regress is avoided. Indeed Dennett's own theories, and related
-positions such as Lycan's "homuncular functionalism" ([Lycan, 1987]()),
-propose exactly such a decomposition of the self into strictly smaller
+As I discussed in the [introduction](introduction.html), substance
+dualism is uncontroversially false, and to some extent anything which
+_feels_ like dualism gets tarred with the same brush. There is the
+familiar threat of infinite regress (if explaining conscious agency
+requires positing an "inner" conscious agent, and so on _ad infinitum_,
+then we have a problem). But as long as any posited inner agent is
+strictly simpler than the agent which contains it, infinite regress is
+avoided. Indeed Dennett's own theories, and related positions such as
+Lycan's "homuncular functionalism" ([Lycan, 1987](#lycan87)), propose
+exactly such a decomposition of the self into strictly smaller
 proto-selves.
 
 Rather, the problem with the Cartesian Theatre, at least for Dennett,
@@ -49,8 +51,8 @@ about consciousness, related to our behaviour, clearly, but independent
 of it in at least one important sense, namely that one could equally
 well exhibit the relevant behaviour without the inner presentation.
 
-With this (_prima facia_ reasonable) rejection of Cartesian thinking
-made explicit from the outset, Dennett devotes much of _Consciousness
+With this (_prima facia_ reasonable) rejection of Cartesian thinking on
+the table from the outset, Dennett devotes much of _Consciousness
 Explained_ attempting to purge the vestiges of the Cartesian Theatre
 from our fledgling scientific picture of the mind. He enlists a number
 of important empirical findings from consciousness research in support
@@ -61,21 +63,23 @@ the
 [susceptibility to future revision](multiple-drafts-dennett-non-monotonic.html)
 of narrative content; and that the brain prefers
 [&lsquo;finding out&rsquo; to &lsquo;filling in&rsquo;](multiple-drafts-dennett-finding-out.html).
+In each case, I will argue that although the phenomena in question does
+indeed reveal something profound about consciousness, it does not count
+as evidence against an "inner presentation", as Dennett's materialist
+commitments lead him to suggest. On the contrary, these phenomena reveal
+the clever implementation tricks the brain uses to _implement_ an inner
+presentation, using nothing but pure mechanism.
 
-These phenomena do indeed reveal something profound about consciousness,
-but none counts as evidence against an "inner presentation", as
-Dennett's materialist commitments lead him to suggest. On the contrary,
-they reveal the clever implementation tricks the brain uses to
-_implement_ an inner presentation, using nothing but pure mechanism.
-Indeed, in the [last section](multiple-drafts-functional-gateway.html)
-of this chapter, I make the case that we should invert Dennett's
-interpretation of his own Multiple Drafts theory, and see it precisely
-as an account of how a functional "consciousness gateway" or inner
-presentation _might actually work_. Contra the materialist's intuition,
-the notion of inner presentation is not a functionally redundant vestige
-of poor Cartesian thinking, but a central functional component of human
-perceptual behaviour. Acknowledging the existence of this aspect of our
-behaviour is the key step required to demystify consciousness.
+In the [last section](multiple-drafts-functional-gateway.html) of this
+chapter, I summarise this critique of Dennett's position. I argue that
+we should invert Dennett's interpretation of his own Multiple Drafts
+theory, and see it as an account of how a functional "consciousness
+gateway" or inner presentation _might actually work_. Contra the
+materialist's intuition, the notion of inner presentation is not a
+functionally redundant vestige of poor Cartesian thinking, but a central
+functional component of human perceptual behaviour. Acknowledging the
+existence of this aspect of our behaviour is the key step required to
+demystify consciousness.
 
 - - -
 
