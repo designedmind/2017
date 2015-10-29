@@ -56,6 +56,10 @@ These are the main claims I will be expanding on the next few years:
   we're back in the realm of things that are, by definition, fully
   explicable via a physical story.
 * Free-floating rationales.
+* The _behaviour_ of living things is "intentional", in the sense of
+  being _about_ something, or having a _subject matter_. Human visual
+  behaviour is special in that _percepts_ are part of its subject
+  matter. This is the essence of qualia.
 * We are all "folk Cartesians".
 * https://www.psychologytoday.com/blog/the-imprinted-brain/201407/come-back-homunculus-all-is-forgiven
 * "Neural correlates" is a bad meme. A common intuition is that any

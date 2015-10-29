@@ -18,11 +18,10 @@ According to [Pessoa et al](#pessoa98),
 
 This methodological consensus is problematic, because it hinders
 progress towards a materialist understanding of consciousness. This is
-the central problem with _Consciousness Explained_; by being so
-resistant to anything Cartesian in flavour, it misses a key opportunity
-to complete Dennett's functionalist picture and produce a full account
-of the "core features" of phenomenal consciousness, such as qualia and
-introspection.
+the central problem with _Consciousness Explained_; by resisting
+anything Cartesian in flavour, it misses a key opportunity to complete
+Dennett's functionalist picture and produce a full account of the "core
+features" of phenomenal consciousness, such as qualia and introspection.
 
 So what exactly is the materialist's problem with the Cartesian Theatre?
 It is not simply the threat of infinite regress (explaining conscious
@@ -44,32 +43,34 @@ only influence behaviour in the right way; they do not need
 (functionally speaking) to additionally give rise to some kind of inner
 presentation. Any such presentation would be a mysterious "further fact"
 about consciousness, related to our behaviour, clearly, but independent
-of it in at least one importance sense, namely that one could equally
-well exhibit exactly the same observable behaviour without the inner
-presentation.
+of it in at least one important sense, namely that one could equally
+well exhibit the observable behaviour without the inner presentation.
 
 With this (_prima facia_ reasonable) rejection of Cartesian thinking
 made explicit from the outset, Dennett devotes much of _Consciousness
 Explained_ to purging the vestiges of the Cartesian Theatre from our
 fledgling scientific picture of the mind. He draws heavily on a number
-of important empirical findings from consciousness research. In the next
-section I consider three of these in detail: spatio-temporal ambiguity;
-susceptibility to future revision; and that the brain prefers
+of important empirical findings from consciousness research in support
+of this project. In the next section I consider three of these in
+detail: spatio-temporal ambiguity; susceptibility to future revision;
+and that the brain prefers
 [&lsquo;finding out&rsquo; to &lsquo;filling in&rsquo;](multiple-drafts-dennett-finding-out.html).
 
 
-While these are all important facts about consciousness, none of them
-count as evidence against a functional counterpart of the Cartesian
-Theatre. On the contrary, they reveal the clever implementation tricks
-required to implement precisely such an abstraction. Indeed, in the
+While each these phenomena does indeed reveal something important about
+consciousness, none of them counts as evidence against a Cartesian
+"inner presentation" (of sorts), as Dennett's materialist commitments
+lead him to suggest. On the contrary, they reveal the clever
+implementation tricks required to implement precisely such an
+abstraction. Indeed, in the
 [last section](multiple-drafts-functional-gateway.html) of this chapter,
 I make the case that Dennett's Multiple Drafts model of consciousness
-is, in essence, a theory of how such a functional gateway or inner
-presentation might work. I shall argue that there is a "dualism" in how
-we function, that is to say a kind of inner presentation which is _not_
-functionally redundant, but which has an important functional role to
-play. Acknowledging the existence of this aspect of our behaviour is key
-to understanding the puzzle of consciousness.
+is, in essence, a theory of how a functional "consciousness gateway" or
+inner presentation might work. I shall argue that there is a "dualism"
+in how we function, that is to say a kind of inner presentation which is
+_not_ functionally redundant, but which has an important functional role
+to play. Acknowledging the existence of this aspect of our behaviour is
+key to understanding the puzzle of consciousness.
 
 - - -
 
