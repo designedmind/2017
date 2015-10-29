@@ -16,26 +16,28 @@ According to [Pessoa et al](#pessoa98),
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-This methodological consensus is problematic, because it hinders
-progress towards a materialist understanding of consciousness. Indeed,
-it is the central problem with [_Consciousness Explained_](#dennett91a);
-by shunning anything remotely Cartesian in flavour, it misses the key
-trick required to complete Dennett's functionalist picture and produce a
-full account of the "core features" of phenomenal consciousness, such as
-qualia and introspection.
+Methodological consensus is important in science, allowing the
+credibility of a theory to be assessed efficiently. Extraordinary claims
+require extraordinary evidence. Unfortunately, a particular belief held
+by many materialists -- that the Cartesian Theatre is "totally wrong" --
+is hindering progress towards a materialist understanding of
+consciousness. Indeed, it is the central problem with
+[_Consciousness Explained_](#dennett91a); by shunning anything remotely
+Cartesian in flavour, it misses the key trick required to complete
+Dennett's functionalist picture and produce a full account of the "core
+features" of phenomenal consciousness, such as qualia and introspection.
 
 So what exactly is the materialist's problem with the Cartesian Theatre?
-As I discussed in the [introduction](introduction.html), substance
-dualism is uncontroversially false, and to some extent anything which
-_feels_ like dualism gets tarred with the same brush. There is the
-familiar threat of infinite regress (if explaining conscious agency
-requires positing an "inner" conscious agent, and so on _ad infinitum_,
-then we have a problem). But as long as any posited inner agent is
-strictly simpler than the agent which contains it, infinite regress is
-avoided. Indeed Dennett's own theories, and related positions such as
-Lycan's "homuncular functionalism" ([Lycan, 1987](#lycan87)), propose
-exactly such a decomposition of the self into strictly smaller
-proto-selves.
+As I discussed in the [introduction](introduction.html), to some extent
+anything which _feels_ like substance dualism gets tarred with the same
+brush. There is also the familiar threat of infinite regress (if
+explaining conscious agency requires positing an "inner" conscious
+agent, and so on _ad infinitum_, then we have a problem). But as long as
+any posited inner agent is strictly simpler than the agent which
+contains it, infinite regress is avoided. Indeed Dennett's own theories,
+and related positions such as Lycan's "homuncular functionalism"
+([Lycan, 1987](#lycan87)), propose exactly such a decomposition of the
+self into strictly smaller proto-selves.
 
 Rather, the problem with the Cartesian Theatre, at least for Dennett,
 seems to be with the idea of a _consciousness gateway_, a special
