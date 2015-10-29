@@ -61,17 +61,17 @@ Each these phenomena does indeed reveal something profound about
 consciousness, but none of them counts as evidence against an "inner
 presentation", as Dennett's materialist commitments lead him to suggest.
 On the contrary, they reveal the clever implementation tricks required
-to implement something which amounts to an inner presentation, using
-nothing other than pure mechanism. Indeed, in the
+to _implement_ an inner presentation, using nothing other than pure
+mechanism. Indeed, in the
 [last section](multiple-drafts-functional-gateway.html) of this chapter,
-I make the case that Dennett's Multiple Drafts model of consciousness
-is, in essence, a theory of how a functional "consciousness gateway" or
-inner presentation _might actually work_. Contra the materialist's
-intuition, the notion of inner presentation is _not_ functionally
-redundant, but has an important functional role to play in the
-generation of evolutionarily useful behaviour. Acknowledging the
-existence of this aspect of our behaviour is key to understanding the
-puzzle of consciousness.
+I make the case that we should invert Dennett's interpretation of his
+own Multiple Drafts theory, and see it precisely as an account of how a
+functional "consciousness gateway" or inner presentation _might actually
+work_. Contra the materialist's intuition, the notion of inner
+presentation is not a functionally redundant vestige of poor Cartesian
+thinking, but a central functional component of human perceptual
+behaviour. Acknowledging the existence of this aspect of our behaviour
+is key to understanding the puzzle of consciousness.
 
 - - -
 
