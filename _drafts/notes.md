@@ -5,16 +5,6 @@ title: Article notes
 
 # Themes
 
-## Consciousness as _functionality_ (observable behavior)
-
-While it seems to us that consciousness is an inherently _private_
-affair, I believe this _notion_ of an inner, private life is
-fundamentally _public_. Being a conscious agent is _functionality_ that
-I implement. Natural selection "designed" us to be conscious agents by
-selecting for that observable behaviour. Consciousness is a designed
-feature in exactly the sense that a heart is designed to pump blood
-around the body.
-
 ## Burden tennis
 
 David Chalmers does an excellent job of spelling out the intuition that

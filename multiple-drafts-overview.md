@@ -57,12 +57,11 @@ and that the brain prefers
 [&lsquo;finding out&rsquo; to &lsquo;filling in&rsquo;](multiple-drafts-dennett-finding-out.html).
 
 
-Each these phenomena does indeed reveal something profound about
-consciousness, but none of them counts as evidence against an "inner
-presentation", as Dennett's materialist commitments lead him to suggest.
-On the contrary, they reveal the clever implementation tricks required
-to _implement_ an inner presentation, using nothing other than pure
-mechanism. Indeed, in the
+These phenomena all reveal something profound about consciousness, but
+none of them counts as evidence against an "inner presentation", as
+Dennett's materialist commitments lead him to suggest. On the contrary,
+they reveal the clever implementation tricks required to _implement_ an
+inner presentation, using nothing but pure mechanism. Indeed, in the
 [last section](multiple-drafts-functional-gateway.html) of this chapter,
 I make the case that we should invert Dennett's interpretation of his
 own Multiple Drafts theory, and see it precisely as an account of how a
@@ -71,7 +70,9 @@ work_. Contra the materialist's intuition, the notion of inner
 presentation is not a functionally redundant vestige of poor Cartesian
 thinking, but a central functional component of human perceptual
 behaviour. Acknowledging the existence of this aspect of our behaviour
-is key to understanding the puzzle of consciousness.
+is the key move the materialist has to make to start reconciling their
+position with the manifest image of ourself as agent with rich
+phenomenal lives.
 
 - - -
 

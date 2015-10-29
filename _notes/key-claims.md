@@ -3,8 +3,6 @@ layout: default
 title: Key claims
 ---
 
-These are the main claims I will be expanding on the next few years:
-
 * Consciousness as _designed functionality_. Like a heart is a designed
   to work as a pump, consciousness is designed to serve certain
   behavioural functions. The designer here is of course natural
@@ -13,9 +11,7 @@ These are the main claims I will be expanding on the next few years:
   than being a spurious side-effect of having a certain kind of brain,
   or exhibiting a certain kind of behaviour. Consciousness is neither an
   epiphenomon nor an unobservable, private affair; it is a particular
-  kind of behaviour carved out by natural selection. (Contra whoever it
-  was who said -- of consciousness -- "it is impossible to say what it
-  is, what it is for, or how it evolved." We absolutely can.)
+  kind of behaviour carved out by natural selection.
 * One of the key functions of consciousness is to allow an evolved agent
   to treat its own _perceptual judgements_ -- judgements which are not
   themselves conscious -- as data. Perceptual illusions are an excellent
