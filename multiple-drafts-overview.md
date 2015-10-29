@@ -19,20 +19,20 @@ According to [Pessoa et al](#pessoa98),
 
 This methodological consensus is problematic, because it hinders
 progress towards a materialist understanding of consciousness. Indeed,
-it is the central problem with _Consciousness Explained_; by being wary
-of anything Cartesian in flavour, it misses a key opportunity to
-complete Dennett's functionalist picture and produce a full account of
-the "core features" of phenomenal consciousness, such as qualia and
+it is the central problem with _Consciousness Explained_; by shunning
+anything remotely Cartesian in flavour, it misses the key trick required
+to complete Dennett's functionalist picture and produce a full account
+of the "core features" of phenomenal consciousness, such as qualia and
 introspection.
 
 So what exactly is the materialist's problem with the Cartesian Theatre?
-There is of course the immediate worry about infinite regress
-(explaining conscious agency requires positing an "inner" conscious
-agent, and so on _ad infinitum_). However, as long as any posited inner
-agent is strictly simpler than the agent which contains it, infinite
-regress is avoided. Indeed Dennett's own theories, and related positions
-such as Lycan's "homuncular functionalism" ([Lycan, 1987]()), propose
-exactly such a decomposition of the self into strictly smaller
+Well, there is the familiar threat of infinite regress (if explaining
+conscious agency requires positing an "inner" conscious agent, and so on
+_ad infinitum_, then we have a problem). But as long as any posited
+inner agent is strictly simpler than the agent which contains it,
+infinite regress is avoided. Indeed Dennett's own theories, and related
+positions such as Lycan's "homuncular functionalism" ([Lycan, 1987]()),
+propose exactly such a decomposition of the self into strictly smaller
 proto-selves.
 
 Rather, the problem with the Cartesian Theatre, at least for Dennett,
