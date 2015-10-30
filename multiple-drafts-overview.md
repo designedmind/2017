@@ -1,6 +1,5 @@
 ---
-keywords: themes, styles, colors, css
-last_updated: October 29, 2015
+last_updated: October 30, 2015
 
 summary: "Dennett's Multiple Drafts theory is primarily a negative
 account, focusing on what consciousness cannot possibly be. I revisit

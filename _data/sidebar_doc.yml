@@ -34,7 +34,19 @@ entries:
             product: all
             version: all
             thirdlevelitems:
-            - title: "1.2.1 Finding out vs. filling in"
+            - title: "1.2.1 Spatio-temporal smearing"
+              url: /multiple-drafts-dennett-spatio-temporal.html
+              audience: designers
+              platform: all
+              product: all
+              version: all
+            - title: "1.2.2 Non-monotonicity"
+              url: /multiple-drafts-dennett-non-monotonic.html
+              audience: designers
+              platform: all
+              product: all
+              version: all
+            - title: "1.2.3 Finding out vs. filling in"
               url: /multiple-drafts-dennett-finding-out.html
               audience: designers
               platform: all
