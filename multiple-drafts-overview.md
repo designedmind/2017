@@ -16,23 +16,37 @@ According to [Pessoa et al](#pessoa98),
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-Methodological consensus is important in science, allowing us to
-distinguish "ordinary" from extraordinary claims and requiring
+Methodological consensus is important in science, providing a basis for
+distinguishing "extraordinary" from ordinary claims and requiring
 extraordinary claims to be supported by extraordinary evidence.
 Unfortunately, a particular belief held by many materialists -- that the
 Cartesian Theatre is totally, irredeemably wrong -- is hindering
 progress towards a scientific understanding of consciousness. This
 methodological commitment is the central problem with
-[_Consciousness Explained_](#dennett91a): by shunning anything remotely
-Cartesian in flavour, it misses the key trick required to complete
-Dennett's functionalist picture and produce a full account of the "core
-features" of phenomenal consciousness, such as qualia and introspection.
+[_Consciousness Explained_](#dennett91a), forcing Dennett to miss the
+key trick required to complete his otherwise compelling functionalist
+picture and produce a full account of the "core features" of phenomenal
+consciousness, such as qualia and introspection.
 
-The materialist worry about the Cartesian Theatre is understandable.
-_Substance_ dualism -- the belief that the mental constitutes a realm
-separate from, but causally linked to, the physical -- is essentially
-incompatible with the modern scientific image. And to some extent this
-renders anything Cartesian in flavour off-limits by association.
+The basic materialist worry about the Cartesian Theatre is
+understandable. _Substance_ dualism -- the belief that the mental
+constitutes a realm separate from, but causally linked to, the physical
+-- is incompatible with the modern scientific image. It is possible to
+intuit that there is something strange and mysterious about
+consciousness, and yet place more faith in science than in that
+intuition. Those materialists that do so are happy to have a rejection
+of substance dualism as a methodological assumption. And to some extent
+this renders anything Cartesian in flavour off-limits by association.
+
+For example, Dennett is absolutely clear that his rejection of Cartesian
+thinking is broad enough to include even a functional notion of the
+Theater:
+
+> You may well suspect that under the cover of antidualism...I have
+> spirited away (quite literally) something Descartes was actually right
+> about: There is a functional place of some sort where the items of
+> phenomenology are...projected.
+> ([Dennett, 1991](#dennett91a), p. 127)
 
 There is also the familiar threat of infinite regress. If explaining
 conscious agency requires positing an "inner" conscious agent, and so on
