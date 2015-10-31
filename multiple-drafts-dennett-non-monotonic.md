@@ -162,39 +162,41 @@ affinity, or they reproduce but produce sterile offspring, or some other
 criterion is met which is considered sufficient for the existence of a
 separate species, then we could quite reasonably go back and
 retrospectively identify the original reproductive isolation as the
-beginning of a temporally extended speciation event.
+beginning of a temporally extended speciation event. If Dennett were to
+pursue his own line of reasoning here, he would be forced to conclude
+from the absence of irrevocable, perspective-independent facts about
+whether speciation events have occurred, to the absence of speciation
+events altogether. This is presumably a stronger conclusion than Dennett
+would want to draw here.
 
-If Dennett pursued his own line of reasoning in this example, he would
-be forced to conclude from the absence of objective, “canonical” facts
-about whether speciation events have occurred, to the absence of
-speciation events altogether. This is a fairly straightforward reductio
-ad absurdum of the argument from non-monotonicity against the Virtual
-Cartesian Theatre, but remember that one of our goals here was to
-understand what Dennett's arguments succeed at too. As with
-spatiotemporal ambiguity, non-monotonicity shows that conscious events
-simply cannot evolve in lock-step with brain events, at least not
-without events being able to travel backwards in time or other such
-tricks. This is perhaps the most important conclusion we should draw
-from the “multiple drafts” story: that there is no “final” narrative
-which is canonical – that represents the actual stream of consciousness
-of the subject. To put it another way, consciousness cannot at the level
-of micro-structure be the literal “leading edge of perceptual memory”
-(Lockwood, 1993) but must be a just-after-the-fact interpretation of
-what has happened thus far, an interpretation that is not immune to
-revision in the light of further evidence.
+One of our goals here was to understand what Dennett's arguments succeed
+at too. As with the
+[spatio-temporal ambiguity argument](multiple-drafts-dennett-spatio-temporal),
+non-monotonicity shows that conscious events simply cannot evolve in
+lock-step with brain events, since that would involve mental events
+being able to travel backwards in time or other such esoterica. This is
+perhaps the most important conclusion we should draw from the multiple
+drafts story: that there is no "irrefutable" narrative which is
+canonical – that represents the "actual" stream of consciousness of the
+subject. To put it another way, consciousness cannot at the level of
+micro-structure be the literal "leading edge of perceptual memory"
+([Lockwood, 1993](#lockwood93)) but must be a just-after-the-fact
+interpretation of what has happened thus far, an interpretation that is
+not immune to revision in the light of further evidence.
 
-So what does Dennett's clever insight about narrative revision actually
-reveal, if not the the non-existence of a functional Cartesian Theatre?
-Well, it shows that the content of phenomenonal consciousness is not a
-_correlate_ (in the sense of being in spatio-temporal lock-step with)
-the neural processing associated directly with perception (cf. Teller
-and Pugh, 1983). Such correspondence, if it exists, must be more
-topological or functional than topographical or spatial. This is an
-important lesson to come away with, given just how deep the “direct
-correspondence” intuition runs among scientists (see Chalmers, 1998, for
-a comprehensive list of some of “neural correlate” stories which have
-been told so far), but ipso facto has no relevance to the
-heterophenomenological case for the Virtual Cartesian Theatre.
+So what does Dennett's deep insight about narrative revision _actually_
+reveal, if it in fact supports, rather than refutes, a functional
+version of the Cartesian Theatre? One thing it shows is that the content
+of phenomenonal consciousness cannot be a direct _correlate_ (in the
+sense of being in spatio-temporal lock-step with) the neural processing
+associated directly with perception (cf. Teller and Pugh, 1983). Such
+correspondence, if it exists, must be more topological or functional
+than topographical or spatial. This is an important lesson to come away
+with, given just how deep the “direct correspondence” intuition runs
+among scientists (see Chalmers, 1998, for a comprehensive list of some
+of “neural correlate” stories which have been told so far), but ipso
+facto has no relevance to the heterophenomenological case for the
+Virtual Cartesian Theatre.
 
 - - -
 
@@ -211,3 +213,11 @@ Harvester. Hassocks, Sussex.
 <a name="kolers76"></a>Kolers, P. and von Grünau, M. (1976).
 [Shape and Colour in Apparent Motion.]() _Vision Research 16_, pp.
 329-335.
+
+<a name="lockwood93"></a>Lockwood, M. (1993). Dennett's Mind. _Inquiry
+36._
+
+<a name="teller83"></a>Teller, D. Y. and Pugh, E. N., Jr. (1983).
+[Linking Propositions in Colour Vision.]() In Mollon, J. D. and Sharpe,
+L. T. eds. _Colour Vision: Physiology and Psychophysics._ London:
+Academic Press.
