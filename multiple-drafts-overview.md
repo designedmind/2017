@@ -15,17 +15,17 @@ According to [Pessoa et al](#pessoa98),
 
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
-Methodological consensus is important in science, providing a basis for
-distinguishing "extraordinary" from ordinary claims and requiring
+Methodological consensus is important in science, providing a heuristic
+for distinguishing "extraordinary" from ordinary claims and requiring
 extraordinary claims to be supported by extraordinary evidence.
-Unfortunately, a particular belief held by many materialists -- that the
-Cartesian Theatre is totally, irredeemably wrong -- is hindering
-progress towards a scientific understanding of consciousness. This
-methodological commitment is the central problem with
-[_Consciousness Explained_](#dennett91a), forcing Dennett to miss the
-key trick required to complete his otherwise compelling functionalist
-picture and produce a full account of the "core features" of phenomenal
-consciousness, such as qualia and introspection.
+Unfortunately, a widely-held materialist assumption -- that the
+Cartesian Theatre is not just wrong in a literal sense but is totally,
+irredeemably wrong -- is hindering progress towards a scientific
+understanding of consciousness. This methodological commitment is the
+central problem with [_Consciousness Explained_](#dennett91a), forcing
+Dennett to miss the key trick required to complete his otherwise
+compelling functionalist picture and produce a full account of the "core
+features" of phenomenal consciousness, such as qualia and introspection.
 
 The basic materialist worry about the Cartesian Theatre is
 understandable. _Substance_ dualism -- the belief that the mental
