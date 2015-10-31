@@ -183,11 +183,12 @@ of micro-structure be the literal “leading edge of perceptual memory”
 what has happened thus far, an interpretation that is not immune to
 revision in the light of further evidence.
 
-Once again then Dennett's case is really nothing more than a convincing
-argument against psychophysical identity – or more generally against the
-thesis that there is neural structure in the brain which is in direct
-topographical correspondence with the structure of experience (e.g.
-Teller and Pugh, 1983). Such correspondence, if it exists, must be more
+So what does Dennett's clever insight about narrative revision actually
+reveal, if not the the non-existence of a functional Cartesian Theatre?
+Well, it shows that the content of phenomenonal consciousness is not a
+_correlate_ (in the sense of being in spatio-temporal lock-step with)
+the neural processing associated directly with perception (cf. Teller
+and Pugh, 1983). Such correspondence, if it exists, must be more
 topological or functional than topographical or spatial. This is an
 important lesson to come away with, given just how deep the “direct
 correspondence” intuition runs among scientists (see Chalmers, 1998, for
