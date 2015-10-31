@@ -51,14 +51,14 @@ moving spot, when does the colour change appear to occur?
 
 [Two diagrams to go here, similar to Wikipedia article]
 
-The interesting answer is that the spot seems to change colour
-mid-trajectory, at a spatial location roughly halfway between the last
-green spot and the first blue spot
-([Kolers and von Grünau, 1976](#kolers76)). What is initially surprising
-here is of course the fact that the stimulus that causes you to perceive
-the switch to blue has not yet occurred at the point in time at which –
-according to your subsequent verbal reports – you experienced the switch
-to blue!
+The interesting answer, as shown in the diagram on the right above, is
+that the spot seems to change colour mid-trajectory, at a spatial
+location roughly halfway between the last green spot and the first blue
+spot ([Kolers and von Grünau, 1976](#kolers76)). What is initially
+surprising here is of course the fact that the stimulus that causes you
+to perceive the switch to blue has not yet occurred at the point in time
+at which – according to your subsequent verbal reports – you experienced
+the switch to blue!
 
 Dennett does an excellent job of demystifying this apparent oddity (see
 for example [Dennett, 1991a](#dennett91a);
