@@ -21,103 +21,111 @@ Dennett's next assault on the Cartesian Theatre is based on another
 revealing phenomenon, the susceptibility of conscious content to
 _revision_ in the light of further input or processing. Dennett does a
 brilliant job of deconstructing the apparent oddity of these temporal
-tricks, showing how they can only be made sense of by understanding
-phenomenal consciousness as an _ex post facto_ interpretation of
-reality, rather than something happening in real time.
+tricks, showing how they can be made sense of by understanding
+consciousness as an _ex post facto_ interpretation of reality, rather
+than a real-time "phenomenal correlate" of perceptual processing.
 
-Dennett's argument is mainly based on the well-known
+The empirical component of Dennett's argument draws mainly on the
+so-called
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon) effect.
 The phi phenomenon is the illusion of apparent motion, familiar as the
 basis for film and television, caused by viewing a series of still
-images in rapid succession. A simple example is the apparent motion
-observed when a small spot of coloured light is flashed on a screen in
-one position, and then flashed again at a position translated slightly
-to the right, and so on at frequent intervals. If the time interval is
-small enough, then rather than seeing several successive flashes, the
-observer perceives the smooth movement of a single spot of light.
+images in rapid succession. Consider what happens if a small spot of
+light is flashed on a screen, and then displayed again at a position
+translated slightly to the right, and so on at frequent intervals. If
+the time interval is small enough, then rather than seeing several
+successive flashes, the observer perceives the smooth movement of a
+single spot of light.
 
 Colour phi is a variant of the phi effect, and was first studied in
 response to a question posed by Nelson Goodman ([1978](#goodman78)).
-Goodman wondered what would happen from the point of view of the
-observer if the colour of the successive spots of light were to change
-half-way through, say from green to blue. Specifically, Goodman wondered
-how the observer would perceive the _spatio-temporal locus_ of the
-change, given the apparent continuity of the movement.
+Goodman asked what the impact on the phenomenonology of phi would be if
+the colour of the successive spots of light were to change half-way
+through, say from green to blue. Specifically, Goodman wondered about
+the perceived _spatio-temporal locus_ of the change, given the apparent
+continuity of the movement.
 
 Consider the figure on the left below, which shows the transition
 between the green spots and the blue spots. (The last green spot and the
 first blue spot are shown.) Given that the viewer sees a continuously
-moving spot, when does the colour change appear to occur?
+moving spot, when does the colour change seem to occur?
 
 [Two diagrams to go here, similar to Wikipedia article]
 
-The interesting answer, as shown in the diagram on the right above, is
-that the spot seems to change colour mid-trajectory, at a spatial
+The diagram on the right above shows how the colour-change appears: the
+spot seems to change colour mid-trajectory, at a spatio-temporal
 location roughly halfway between the last green spot and the first blue
-spot ([Kolers and von Grünau, 1976](#kolers76)). What is initially
-surprising here is of course the fact that the stimulus that causes you
-to perceive the switch to blue has not yet occurred at the point in time
-at which – according to your subsequent verbal reports – you experienced
-the switch to blue!
+spot ([Kolers and von Grünau, 1976](#kolers76)). In a sense this is
+unsurprising, since it is consistent with the apparently continuous
+motion of the spot; but at the same time it seems rather odd, since the
+switch to blue has _not yet occurred_ at the point in time at which –
+according to your subsequent verbal reports – you _experienced_ the
+switch to blue.
 
-Dennett does an excellent job of demystifying this apparent oddity (see
-for example [Dennett, 1991a](#dennett91a);
-[Dennett and Kinsbourne, 1992](#dennett92);
-[Dennett, 1995](#dennett95)), by distinguishing the temporal content of
-a representation from the temporal properties of the representation
-itself. The key insight is that a judgement made by the brain can be
-antedated: given a earlier “postmark” which retroactively fits it into
-an unfolding account of what happened in such a way that the story being
-told is consistent with the total stimulus received thus far. Since, by
-Dennett's reckoning, this unfolding narrative is constitutive of the
-content of our consciousness, the effect observed through behavioural
-studies is that I appear to become conscious of the colour switch before
-the colour switch actually occurs. There is nothing paradoxical about
-this; “no sounds appear to issue from heads before lips move, nor do
-hands move before the brain events that purportedly cause them” (Dennett
-and Kinsbourne, 1992). Only in the subject's reported stream of
-consciousness do we find a putative anomaly, and Dennett's account of
-the narrative-building process explains these data quite comfortably.
+Dennett does an excellent job of demystifying this apparent oddity. To
+do so, he deploys a crucial (and typically Dennettian) distinction: that
+between the temporal _content_ of a representation, and the temporal
+properties of the representation itself. The key insight is that a
+judgement made by the brain can be antedated: its content given a
+earlier “postmark” which retroactively fits it into an unfolding account
+of what happened in such a way that the story being told is consistent
+with the total stimulus received thus far. More succinctly, a judgement
+made at time _t_ can be "about" how the world seemed at some _earlier_
+time _t'_. Since, by Dennett's reckoning, this unfolding narrative is
+constitutive of the content of our consciousness, the effect observed
+through behavioural studies is that I appear to become conscious of the
+colour switch before the colour switch actually occurs. There is nothing
+paradoxical about this:
+
+> “no sounds appear to issue from heads before lips move, nor do hands
+> move before the brain events that purportedly cause them”
+> ([Dennett and Kinsbourne, 1992](#dennett92)).
+
+Only when comparing the subject's reported stream of consciousness to
+the timing of external events do we find a putative anomaly, and
+Dennett's account of the narrative-building process explains these data
+quite comfortably. (For further discussion, see
+[Dennett, 1991a](#dennett91a) and [Dennett, 1995](#dennett95).)
 
 A useful short-hand for this susceptibility to future revision is
 _non-monotonicity_. A system of reasoning is _monotonic_ if additional
 data can never cause the retraction of any conclusions made thus far;
 consciousness is not monotonic, in that the acquisition of new
 information can force a change in inferences already made. Dennett's
-explanation of the colour phi in terms of narrative revision is a
-genuine breakthrough in the understanding of consciousness. However, he
-sees his narrative-building story as an account of the phenomena that
-side-steps any notion of inner presentation, even one purely functional
-in nature.
+explanation of the colour phi in terms of non-monotonic narrative
+construction and revision is a genuine breakthrough in the understanding
+of consciousness. However, he sees his narrative-building story as an
+account of the phenomena that side-steps any notion of inner
+presentation, even one purely functional in nature.
 
 The line roughly runs: since the brain can change its mind about what
 seemed to happen, there is simply no fact of the matter about what
-seemed to happen. “There is no finish line”, as Dennett puts it (1995).
-Unfortunately although non-monotonicity successfully dispenses with the
-notion of a canonical or objective finish line which is the ultimate
-authority on our conscious experience, it does not in any way preclude
-the possibility of something which behaviourally amounts to an
-“official” finish line, just one that is subject to occasional revision.
-Indeed, and perhaps ironically, Dennett's Multiple Drafts Model in
-general, and his account of colour phi in particular, amount to a theory
-of how just such a behavioural finish line might actually come about. It
-is all very well to talk of the efforts the brain goes to to pre-date
-various judgements in the colour phi experiments, but this immediately
-raises the question of why the brain even bothers to do this antedating.
-The natural explanation is that it does so in order to maximise the
-local integrity of the narrative precisely so that there is, at any
-point in time, a single official picture of “how it was to be me” at
-some earlier time. These kinds of editing efforts by the brain should
-therefore be interpreted as constructors of a virtual finish line, a
-functional, behavioural one, rather than a physical one. So where
-Dennett-the-anti-Cartesian wants to conclude, from non-monotonicity,
-that there is no fact of the matter as to how it was to be me (at t),
-Dennett-the-functionalist's reply would be to say that at any subsequent
-time t', there are indeed facts of the matter as to how it was to be me
-at t, and those facts are solely determined by the t-related content of
-the narrative at t'; it just so happens that at some other subsequent
-time t'', there may be a different facts of the matter about how it was
-to be me at t.
+seemed to happen. “There is no finish line”, as Dennett puts it
+([1995](#dennett95)). Unfortunately although non-monotonicity
+successfully dispenses with the notion of a canonical or objective
+finish line which is the ultimate authority on our conscious experience,
+it does not in any way preclude the possibility of something which
+behaviourally amounts to an “official” finish line, just one that is
+subject to occasional revision. Indeed, and perhaps ironically,
+Dennett's Multiple Drafts Model in general, and his account of colour
+phi in particular, amount to a theory of how just such a behavioural
+finish line might actually come about. It is all very well to talk of
+the efforts the brain goes to to pre-date various judgements in the
+colour phi experiments, but this immediately raises the question of why
+the brain even bothers to do this antedating. The natural explanation is
+that it does so in order to maximise the local integrity of the
+narrative precisely so that there is, at any point in time, a single
+official picture of “how it was to be me” at some earlier time. These
+kinds of editing efforts by the brain should therefore be interpreted as
+constructors of a virtual finish line, a functional, behavioural one,
+rather than a physical one. So where Dennett-the-anti-Cartesian wants to
+conclude, from non-monotonicity, that there is no fact of the matter as
+to how it was to be me (at t), Dennett-the-functionalist's reply would
+be to say that at any subsequent time t', there are indeed facts of the
+matter as to how it was to be me at t, and those facts are solely
+determined by the t-related content of the narrative at t'; it just so
+happens that at some other subsequent time t'', there may be a different
+facts of the matter about how it was to be me at t.
 
 This susceptibility to revision is hardly unique to mental events, after
 all. In formal systems, monotonicity is a often a desirable
