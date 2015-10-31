@@ -103,13 +103,13 @@ perceptual behaviour.
 <a name="dennett91a"></a>Dennett, Daniel C. (1991).
 [Consciousness Explained](). Little, Brown.
 
-<a name="dennett92"></a>Dennett, D. and Kinsbourne, M.
+<a name="dennett92"></a>Dennett, D. and Kinsbourne, M. (1992).
 [Time and the Observer: the Where and When of Consciousness in the Brain]().
-_Behavioral and Brain Sciences_, no. 15, 1992.
+_Behavioral and Brain Sciences 15_.
 
-<a name="lycan87"></a>Lycan, W. [Consciousness.]() Bradford Books/MIT
-Press, 1987.
+<a name="lycan87"></a>Lycan, W. (1987). [Consciousness.]() Bradford
+Books/MIT Press.
 
-<a name="pessoa98"></a>Pessoa, L., Thompson, E. and Noë, A.
+<a name="pessoa98"></a>Pessoa, L., Thompson, E. and Noë, A. (1998).
 [Finding out about filling in: a guide to perceptual completion for visual science and the philosophy of perception.]()
-_Behavioral and Brain Sciences_, no. 21, 1998.
+_Behavioral and Brain Sciences 21_.

@@ -1,15 +1,14 @@
 ---
 last_updated: October 30, 2015
 
-summary: "Colour phi and similar phenomena show how the brain often
-reinterprets the past in order to maximise local consistency of the
-self-narrative. Dennett concludes that there is no such thing as a
-finish line in the brain beyond which an event or percept is conscious.
-A better interpretation, more consistent with functionalism, is to see
-the narrative revision as a strategy for implementing a virtual finish
-line, a dynamically maintained interpretation of reality whose
-functional role is precisely to determine the content of our phenomenal
-world."
+summary: "Colour phi shows how the brain often reinterprets the past in
+order to maximise local consistency of the self-narrative. Dennett
+concludes that there is no such thing as a finish line in the brain
+beyond which a percept is conscious. A better interpretation, more
+consistent with functionalism, is to see narrative revision as a
+strategy for implementing a virtual finish line, a dynamically
+maintained interpretation of reality whose functional role is to
+determine the content of our phenomenal world."
 
 ---
 
@@ -17,31 +16,33 @@ world."
 
 So it would seem that
 [spatio-temporal smearing](multiple-drafts-dennett-spatio-temporal.html)
-presents no particular problem for the (virtual) Cartesian Theatre. The
-next argument Dennett constructs against the Cartesian Theatre is based
-on another revealing phenomenon, the susceptibility of conscious content
-to _revision_ in the light of further input or processing. Dennett does
-a brilliant job of deconstructing the apparent oddity of these temporal
-tricks, showing how they arise as a consequence of narrative-building
-mechanisms in the brain.
+presents no particular problem for the (virtual) Cartesian Theatre.
+Dennett's next assault on the Cartesian Theatre is based on another
+revealing phenomenon, the susceptibility of conscious content to
+_revision_ in the light of further input or processing. Dennett does a
+brilliant job of deconstructing the apparent oddity of these temporal
+tricks, showing how they can only be made sense of by understanding
+phenomenal consciousness as an _ex post facto_ interpretation of
+reality, rather than something happening in real time.
 
-Dennett's empirical case is mainly based on the well-known
+Dennett's argument is mainly based on the well-known
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon)
-experiment. The phi phenomenon the illusion of apparent motion, familiar
-to us as the basis for film and television, caused by viewing a series
-of still images in rapid succession. A simple example is the apparent
-motion observed when a small spot of coloured light is flashed on a
-screen in one position, and then flashed again at a position translated
-slightly to the right, and so on at frequent intervals. If the time
-interval is small enough, then rather than seeing a number of successive
-flashes, the observer perceives the smooth movement of a single spot of
-light.
+experiment. The phi phenomenon is the illusion of apparent motion,
+familiar as the basis for film and television, caused by viewing a
+series of still images in rapid succession. A simple example is the
+apparent motion observed when a small spot of coloured light is flashed
+on a screen in one position, and then flashed again at a position
+translated slightly to the right, and so on at frequent intervals. If
+the time interval is small enough, then rather than seeing several
+successive flashes, the observer perceives the smooth movement of a
+single spot of light.
 
-Colour phi is a variant of the phi effect first studied in response to a
-question posed by Nelson Goodman ([1978](#goodman78)). Goodman wondered
-what would happen if the colour of the successive spots of light were to
-change half-way through, say from green to blue. Specifically, Goodman
-wondered how the observer would perceive the _temporal locus_ of the
+Colour phi is a variant of the phi effect, and was first studied in
+response to a question posed by Nelson Goodman ([1978](#goodman78)).
+Goodman wondered what would happen from the point of view of the
+observer if the colour of the successive spots of light were to change
+half-way through, say from green to blue. Specifically, Goodman wondered
+how the observer would perceive the _spatio-temporal locus_ of the
 change, given the apparent continuity of the movement.
 
 Consider the figure on the left below, which shows the transition
@@ -58,23 +59,26 @@ green spot and the first blue spot
 here is of course the fact that the stimulus that causes you to perceive
 the switch to blue has not yet occurred at the point in time at which –
 according to your subsequent verbal reports – you experienced the switch
-to blue! Dennett does an excellent job of demystifying this apparent
-oddity (see for example Dennett, 1991a, 1992 and 1995), by
-distinguishing the temporal content of a representation from the
-temporal properties of the representation itself. His explanation is
-that a judgement made by the brain can be antedated: given a earlier
-“postmark” which retroactively fits it into an unfolding account of what
-happened in such a way that the story being told is consistent with the
-total stimulus received thus far. Since, by Dennett's reckoning, this
-unfolding narrative is constitutive of the content of our consciousness,
-the effect observed through behavioural studies is that I appear to
-become conscious of the colour switch before the colour switch actually
-occurs. There is nothing paradoxical about this; “no sounds appear to
-issue from heads before lips move, nor do hands move before the brain
-events that purportedly cause them” (Dennett and Kinsbourne, 1992). Only
-in the subject's reported stream of consciousness do we find a putative
-anomaly, and Dennett's account of the narrative-building process
-explains these data quite comfortably.
+to blue!
+
+Dennett does an excellent job of demystifying this apparent oddity (see
+for example [Dennett, 1991a](#dennett91a);
+[Dennett and Kinsbourne, 1992](#dennett92);
+[Dennett, 1995](#dennett95)), by distinguishing the temporal content of
+a representation from the temporal properties of the representation
+itself. The key insight is that a judgement made by the brain can be
+antedated: given a earlier “postmark” which retroactively fits it into
+an unfolding account of what happened in such a way that the story being
+told is consistent with the total stimulus received thus far. Since, by
+Dennett's reckoning, this unfolding narrative is constitutive of the
+content of our consciousness, the effect observed through behavioural
+studies is that I appear to become conscious of the colour switch before
+the colour switch actually occurs. There is nothing paradoxical about
+this; “no sounds appear to issue from heads before lips move, nor do
+hands move before the brain events that purportedly cause them” (Dennett
+and Kinsbourne, 1992). Only in the subject's reported stream of
+consciousness do we find a putative anomaly, and Dennett's account of
+the narrative-building process explains these data quite comfortably.
 
 Let me introduce some short-hand (well, shorter-hand) for this
 susceptibility-to-future-revision property: non-monotonicity. (A
@@ -184,9 +188,16 @@ heterophenomenological case for the Virtual Cartesian Theatre.
 
 - - -
 
+<a name="dennett91a"></a>Dennett, Daniel C. (1991).
+[Consciousness Explained](). Little, Brown.
+
+<a name="dennett92"></a>Dennett, D. and Kinsbourne, M. (1992).
+[Time and the Observer: the Where and When of Consciousness in the Brain]().
+_Behavioral and Brain Sciences 15_.
+
 <a name="goodman78"></a>Goodman, N. (1978). [Ways of Worldmaking.]()
 Harvester. Hassocks, Sussex.
 
 <a name="kolers76"></a>Kolers, P. and von Grünau, M. (1976).
-[Shape and Colour in Apparent Motion.]() Vision Research 16, pp.
+[Shape and Colour in Apparent Motion.]() _Vision Research 16_, pp.
 329-335.
