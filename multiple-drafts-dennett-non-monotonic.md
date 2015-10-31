@@ -79,34 +79,37 @@ and Kinsbourne, 1992). Only in the subject's reported stream of
 consciousness do we find a putative anomaly, and Dennett's account of
 the narrative-building process explains these data quite comfortably.
 
-A useful short-hand for this susceptibility-to-future-revision property
-is _non-monotonicity_. A system of reasoning is _monotonic_ if
-additional data can never cause the retraction of any conclusions made
-thus far; consciousness is not monotonic, in that the acquisition of new
-information can force a change in the inferences already made. Dennett's
-account becomes problematic when he tries to use the non-monotonicity of
-consciousness with respect to objective properties of the world to
-support his argument against the Cartesian Theatre. The line roughly
-runs: since the brain can change its mind about what seemed to happen,
-there is simply no fact of the matter about what seemed to happen.
-“There is no finish line”, as Dennett puts it (1995). Unfortunately
-although non-monotonicity successfully dispenses with the notion of a
-canonical or objective finish line which is the ultimate authority on
-our conscious experience, it does not in any way preclude the
-possibility of something which behaviourally amounts to an “official”
-finish line, just one that is subject to occasional revision. Indeed,
-and perhaps ironically, Dennett's Multiple Drafts Model in general, and
-his account of colour phi in particular, amount to a theory of how just
-such a behavioural finish line might actually come about. It is all very
-well to talk of the efforts the brain goes to to pre-date various
-judgements in the colour phi experiments, but this immediately raises
-the question of why the brain even bothers to do this antedating. The
-natural explanation is that it does so in order to maximise the local
-integrity of the narrative precisely so that there is, at any point in
-time, a single official picture of “how it was to be me” at some earlier
-time. These kinds of editing efforts by the brain should therefore be
-interpreted as constructors of a virtual finish line, a functional,
-behavioural one, rather than a physical one. So where
+A useful short-hand for this susceptibility to future revision is
+_non-monotonicity_. A system of reasoning is _monotonic_ if additional
+data can never cause the retraction of any conclusions made thus far;
+consciousness is not monotonic, in that the acquisition of new
+information can force a change in inferences already made. Dennett's
+explanation of the colour phi in terms of narrative revision is a
+genuine breakthrough in the understanding of consciousness. However, he
+sees his narrative-building story as an account of the phenomena that
+side-steps any notion of inner presentation, even one purely functional
+in nature.
+
+The line roughly runs: since the brain can change its mind about what
+seemed to happen, there is simply no fact of the matter about what
+seemed to happen. “There is no finish line”, as Dennett puts it (1995).
+Unfortunately although non-monotonicity successfully dispenses with the
+notion of a canonical or objective finish line which is the ultimate
+authority on our conscious experience, it does not in any way preclude
+the possibility of something which behaviourally amounts to an
+“official” finish line, just one that is subject to occasional revision.
+Indeed, and perhaps ironically, Dennett's Multiple Drafts Model in
+general, and his account of colour phi in particular, amount to a theory
+of how just such a behavioural finish line might actually come about. It
+is all very well to talk of the efforts the brain goes to to pre-date
+various judgements in the colour phi experiments, but this immediately
+raises the question of why the brain even bothers to do this antedating.
+The natural explanation is that it does so in order to maximise the
+local integrity of the narrative precisely so that there is, at any
+point in time, a single official picture of “how it was to be me” at
+some earlier time. These kinds of editing efforts by the brain should
+therefore be interpreted as constructors of a virtual finish line, a
+functional, behavioural one, rather than a physical one. So where
 Dennett-the-anti-Cartesian wants to conclude, from non-monotonicity,
 that there is no fact of the matter as to how it was to be me (at t),
 Dennett-the-functionalist's reply would be to say that at any subsequent
