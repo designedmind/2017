@@ -1,7 +1,14 @@
 ---
 last_updated: October 30, 2015
 
-summary: "TODO"
+summary: "Colour phi and similar phenomena show how the brain often
+reinterprets the past in order to maximise local consistency of the
+self-narrative. Dennett concludes that there is no such thing as a
+finish line in the brain beyond which an event or percept is conscious.
+A better interpretation of the revision process is as an incremental
+update to a virtual finish line, a dynamically maintained interpretation
+of reality whose functional role is to determine subsequent behaviour
+about the content of our percepts."
 
 ---
 
