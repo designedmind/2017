@@ -10,25 +10,27 @@ summary: "TODO"
 So it would seem that
 [spatio-temporal smearing](multiple-drafts-dennett-spatio-temporal.html)
 presents no particular problem for the (virtual) Cartesian Theatre. The
-next locus of Dennett's attention is another revealing characteristic of
-conscious events, their susceptibility to future revision in the light
-of further input. Dennett does a brilliant job of deconstructing the
+next locus of Dennett's attention is another revealing phenomenon, the
+susceptibility of conscious content to future revision in the light of
+further input. Dennett does a brilliant job of deconstructing the
 apparent oddity of these phenomena, showing how they arise as a
 consequence of narrative-building mechanisms in the brain.
 
 Dennett's empirical case is mainly based on the well-known
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon)
-experiment, first conducted in response to a question posed by Nelson
-Goodman ([1978](#goodman78)). Phi effects are the phenomena of apparent
-motion, familiar to us as the basis for film and television. A simple
-example of the phi effect is the apparent motion observed when a small
-spot of coloured light is flashed on a screen in one position, and then
-flashed again at a position slightly to one side, and so on in rapid
-succession. If the time interval is fairly small, then rather than
-seeing a number of successive flashes, you see the smooth movement of a
-single spot of light. Goodman's question, which prompted the colour phi
-variant, was: what happens if the light changes colour half-way through,
-say from green to blue?
+experiment. Phi effects are the phenomena of apparent motion, familiar
+to us as the basis for film and television. A simple example of the phi
+effect is the apparent motion observed when a small spot of coloured
+light is flashed on a screen in one position, and then flashed again at
+a position slightly to one side, and so on in rapid succession. If the
+time interval is fairly small, then rather than seeing a number of
+successive flashes, you see the smooth movement of a single spot of
+light.
+
+Colour phi is a variant of the phi effect first studied in response to a
+question posed by Nelson Goodman ([1978](#goodman78)). Goodman wondered
+what would happen if the colour of the spots of light were to change
+half-way through, say from green to blue?
 
 The interesting answer is that the spot seems to change colour
 mid-trajectory, at a spatial location roughly halfway between the last
