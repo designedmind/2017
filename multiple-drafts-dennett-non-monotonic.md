@@ -5,10 +5,11 @@ summary: "Colour phi and similar phenomena show how the brain often
 reinterprets the past in order to maximise local consistency of the
 self-narrative. Dennett concludes that there is no such thing as a
 finish line in the brain beyond which an event or percept is conscious.
-A better interpretation of the revision process is as an incremental
-update to a virtual finish line, a dynamically maintained interpretation
-of reality whose functional role is to determine subsequent behaviour
-about the content of our percepts."
+A better interpretation, more consistent with functionalism, is to see
+the narrative revision as a strategy for implementing a virtual finish
+line, a dynamically maintained interpretation of reality whose
+functional role is precisely to determine the content of our phenomenal
+world."
 
 ---
 
@@ -20,9 +21,9 @@ presents no particular problem for the (virtual) Cartesian Theatre. The
 next argument Dennett constructs against the Cartesian Theatre is based
 on another revealing phenomenon, the susceptibility of conscious content
 to _revision_ in the light of further input or processing. Dennett does
-a brilliant job of deconstructing the apparent oddity of this
-phenomenon, showing how they arise as a consequence of
-narrative-building mechanisms in the brain.
+a brilliant job of deconstructing the apparent oddity of these temporal
+tricks, showing how they arise as a consequence of narrative-building
+mechanisms in the brain.
 
 Dennett's empirical case is mainly based on the well-known
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon)
