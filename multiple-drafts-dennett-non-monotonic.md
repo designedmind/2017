@@ -10,51 +10,63 @@ summary: "TODO"
 So it would seem that
 [spatio-temporal smearing](multiple-drafts-dennett-spatio-temporal.html)
 presents no particular problem for the (virtual) Cartesian Theatre. The
-next locus of Dennett's attention is another revealing phenomenon, the
-susceptibility of conscious content to future revision in the light of
-further input. Dennett does a brilliant job of deconstructing the
-apparent oddity of these phenomena, showing how they arise as a
-consequence of narrative-building mechanisms in the brain.
+next argument Dennett constructs against the Cartesian Theatre is based
+on another revealing phenomenon, the susceptibility of conscious content
+to _revision_ in the light of further input or processing. Dennett does
+a brilliant job of deconstructing the apparent oddity of this
+phenomenon, showing how they arise as a consequence of
+narrative-building mechanisms in the brain.
 
 Dennett's empirical case is mainly based on the well-known
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon)
-experiment. Phi effects are the phenomena of apparent motion, familiar
-to us as the basis for film and television. A simple example of the phi
-effect is the apparent motion observed when a small spot of coloured
-light is flashed on a screen in one position, and then flashed again at
-a position slightly to one side, and so on in rapid succession. If the
-time interval is fairly small, then rather than seeing a number of
-successive flashes, you see the smooth movement of a single spot of
+experiment. The phi phenomenon the illusion of apparent motion, familiar
+to us as the basis for film and television, caused by viewing a series
+of still images in rapid succession. A simple example is the apparent
+motion observed when a small spot of coloured light is flashed on a
+screen in one position, and then flashed again at a position translated
+slightly to the right, and so on at frequent intervals. If the time
+interval is small enough, then rather than seeing a number of successive
+flashes, the observer perceives the smooth movement of a single spot of
 light.
 
 Colour phi is a variant of the phi effect first studied in response to a
 question posed by Nelson Goodman ([1978](#goodman78)). Goodman wondered
-what would happen if the colour of the spots of light were to change
-half-way through, say from green to blue?
+what would happen if the colour of the successive spots of light were to
+change half-way through, say from green to blue. Specifically, Goodman
+wondered how the observer would perceive the _temporal locus_ of the
+change, given the apparent continuity of the movement.
+
+Consider the figure on the left below, which shows the transition
+between the green spots and the blue spots. (The last green spot and the
+first blue spot are shown.) Given that the viewer sees a continuously
+moving spot, when does the colour change appear to occur?
+
+[Two diagrams to go here, similar to Wikipedia article]
 
 The interesting answer is that the spot seems to change colour
 mid-trajectory, at a spatial location roughly halfway between the last
-green spot and the first blue spot (Kolers and von Grünau, 1976). What
-is initially surprising here is of course the fact that the stimulus
-that causes you to perceive the switch to blue has not yet occurred at
-the point in time at which – according to your subsequent verbal reports
-– you experienced the switch to blue! Dennett does an excellent job of
-demystifying this apparent oddity (see for example Dennett, 1991a, 1992
-and 1995), by distinguishing the temporal content of a representation
-from the temporal properties of the representation itself. His
-explanation is that a judgement made by the brain can be antedated:
-given a earlier “postmark” which retroactively fits it into an unfolding
-account of what happened in such a way that the story being told is
-consistent with the total stimulus received thus far. Since, by
-Dennett's reckoning, this unfolding narrative is constitutive of the
-content of our consciousness, the effect observed through behavioural
-studies is that I appear to become conscious of the colour switch before
-the colour switch actually occurs. There is nothing paradoxical about
-this; “no sounds appear to issue from heads before lips move, nor do
-hands move before the brain events that purportedly cause them” (Dennett
-and Kinsbourne, 1992). Only in the subject's reported stream of
-consciousness do we find a putative anomaly, and Dennett's account of
-the narrative-building process explains these data quite comfortably.
+green spot and the first blue spot
+([Kolers and von Grünau, 1976](#kolers76)). What is initially surprising
+here is of course the fact that the stimulus that causes you to perceive
+the switch to blue has not yet occurred at the point in time at which –
+according to your subsequent verbal reports – you experienced the switch
+to blue! Dennett does an excellent job of demystifying this apparent
+oddity (see for example Dennett, 1991a, 1992 and 1995), by
+distinguishing the temporal content of a representation from the
+temporal properties of the representation itself. His explanation is
+that a judgement made by the brain can be antedated: given a earlier
+“postmark” which retroactively fits it into an unfolding account of what
+happened in such a way that the story being told is consistent with the
+total stimulus received thus far. Since, by Dennett's reckoning, this
+unfolding narrative is constitutive of the content of our consciousness,
+the effect observed through behavioural studies is that I appear to
+become conscious of the colour switch before the colour switch actually
+occurs. There is nothing paradoxical about this; “no sounds appear to
+issue from heads before lips move, nor do hands move before the brain
+events that purportedly cause them” (Dennett and Kinsbourne, 1992). Only
+in the subject's reported stream of consciousness do we find a putative
+anomaly, and Dennett's account of the narrative-building process
+explains these data quite comfortably.
 
 Let me introduce some short-hand (well, shorter-hand) for this
 susceptibility-to-future-revision property: non-monotonicity. (A
@@ -166,3 +178,7 @@ heterophenomenological case for the Virtual Cartesian Theatre.
 
 <a name="goodman78"></a>Goodman, N. (1978). [Ways of Worldmaking.]()
 Harvester. Hassocks, Sussex.
+
+<a name="kolers76"></a>Kolers, P. and von Grünau, M. (1976).
+[Shape and Colour in Apparent Motion.]() Vision Research 16, pp.
+329-335.
