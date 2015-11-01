@@ -23,23 +23,22 @@ Unfortunately, a widely-held materialist assumption -- that the
 Cartesian Theatre is wrong not just in a literal sense but in every
 sense -- is hindering progress towards a scientific understanding of
 consciousness. This is ultimately the problem with
-[_Consciousness Explained_](#dennett91a), because it forces Dennett to
-ignore the possibility that the Cartesian Theatre might be a functional
-component of human behaviour. Yet this reinterpretation of the Cartesian
-intuition is precisely the trick required to complete Dennett's
-otherwise compelling functionalist picture and produce a full account of
-the "core features" of phenomenal consciousness, such as qualia and
-introspection.
+[_Consciousness Explained_](#dennett91a), forcing Dennett to disregard
+any functional role for an inner presentation. Yet this reinterpretation
+of the Cartesian intuition is precisely the trick required to complete
+Dennett's otherwise compelling functionalist story and produce a full
+account of the "core features" of phenomenal consciousness, such as
+qualia and introspection.
 
 I tend to see the materialist's blanket rejection of the Cartesian
 Theatre as an (understandable) overreaction to substance dualism.
 Substance dualism -- the belief that the mental constitutes a realm
-separate from, but causally linked to, the physical -- is "obviously"
-incompatible with the modern scientific image (to most materialists),
-and so anything Cartesian in flavour tends to get lumped into the same
-bag of bad ideas. Certainly, Dennett is absolutely clear that his
-rejection of Cartesian thinking is broad enough to include even a
-functional notion of the Theater:
+separate from, but causally linked to, the physical -- is (to most
+materialists) "obviously" incompatible with the modern scientific image,
+and so anything Cartesian in flavour gets lumped into the same bag of
+bad ideas. Certainly, Dennett is absolutely clear that his rejection of
+Cartesian thinking is broad enough to include even a functional notion
+of the Theater:
 
 > You may well suspect that under the cover of antidualism...I have
 > spirited away (quite literally) something Descartes was actually right
@@ -49,12 +48,12 @@ functional notion of the Theater:
 
 But beyond the unsavoury echo of substance dualism, exactly why a
 functional version of the Theatre should be problematic is less clear.
-There is the familiar spectre of infinite regress. If explaining
-conscious agency requires positing an "inner" conscious agent, and so on
-_ad infinitum_, then clearly we have a problem. But as long as any
-posited inner agent is strictly simpler than the agent which contains
-it, infinite regress is avoided. Indeed Dennett's own theories, and
-related positions such as Lycan's "homuncular functionalism"
+The familiar spectre of infinite regress is perhaps one worry. If
+explaining conscious agency requires positing an "inner" conscious
+agent, and so on _ad infinitum_, then clearly we have a problem. But as
+long as any posited inner agent is strictly simpler than the agent which
+contains it, infinite regress is avoided. Indeed Dennett's own theories,
+and related positions such as Lycan's "homuncular functionalism"
 ([Lycan, 1987](#lycan87)), propose exactly such a decomposition of the
 self into strictly smaller proto-selves.
 
@@ -68,11 +67,11 @@ counterpart of this idea must also be rejected, lest the spectre of the
 inner presentation be reintroduced.
 
 For example Dennett claims that perceptual and similar judgements made
-by the brain need only influence behaviour in the right way, allowing us
-avoid predation, or recognise food, or avoid projectiles hurled towards
-us; if they additionally gave rise to some kind of inner presentation,
-that would somehow be _functionally redundant_. Any such presentation
-would be a mysterious "further fact" about consciousness, related to our
+by the brain have only a "non-imagistic" role to play, allowing us avoid
+predation, or recognise food, or avoid projectiles hurled towards us; if
+they additionally gave rise to some kind of inner presentation, that
+would somehow be _functionally redundant_. Any such presentation would
+be a mysterious "further fact" about consciousness, related to our
 behaviour, presumably, but independent of it at least in the sense that
 one could equally well exhibit the aforementioned behaviour without the
 inner presentation.
