@@ -52,7 +52,7 @@ moving spot, when does the colour change seem to occur?
 
 | Shown         | Reported      |
 |--------------:|--------------:|
-| ![Wibble](/images/color-phi-1.png) | ![Wibble](/images/color-phi-2.png) |
+| ![Wibble](/images/color-phi-1.png) | ![Wibble](/images/color-phi-2.jpg) |
 
 The diagram on the right above shows how the colour-change appears: the
 spot seems to change colour mid-trajectory, at a spatio-temporal
