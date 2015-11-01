@@ -17,8 +17,8 @@ According to [Pessoa et al](#pessoa98),
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
 Methodological consensus is important in science, providing a heuristic
-for distinguishing "extraordinary" from ordinary claims and requiring
-extraordinary claims to be supported by extraordinary evidence.
+for distinguishing "extraordinary" from ordinary claims and ensuring
+that extraordinary claims are supported by extraordinary evidence.
 Unfortunately, a widely-held materialist assumption -- that the
 Cartesian Theatre is wrong not just in a literal sense but in every
 sense -- is a significant stumbling block on the the path towards a
@@ -33,10 +33,10 @@ Theatre as an (understandable) overreaction to substance dualism.
 Substance dualism -- the belief that the mental constitutes a realm
 separate from, but causally linked to, the physical -- is "obviously"
 incompatible with the modern scientific image (to most materialists),
-and so anything Cartesian in flavour is rendered off-limits by
-association.
+and so anything Cartesian in flavour tends to get lumped into the same
+bag of bad ideas.
 
-For example, Dennett is absolutely clear that his rejection of Cartesian
+Certainly, Dennett is absolutely clear that his rejection of Cartesian
 thinking is broad enough to include even a functional notion of the
 Theater:
 
@@ -46,7 +46,8 @@ Theater:
 > phenomenology are...projected.
 > ([Dennett, 1991](#dennett91a), p. 127)
 
-Exactly what the problem with a functional notion of the Theatre is less
+Exactly what the problem with a functional notion of the Theatre might
+actually be, beyond the obvious echoes of substance dualism, is less
 clear. There is the familiar spectre of infinite regress. If explaining
 conscious agency requires positing an "inner" conscious agent, and so on
 _ad infinitum_, then clearly we have a problem. But as long as any
