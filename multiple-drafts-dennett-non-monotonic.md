@@ -1,14 +1,14 @@
 ---
-last_updated: October 30, 2015
+last_updated: November 1, 2015
 
-summary: "Colour phi shows how the brain can reinterpret the past in
-order to maximise local consistency of the self-narrative. Dennett
-concludes that there is no such thing as a finish line in the brain
-beyond which a percept is conscious. A better interpretation, more
-consistent with functionalism, is to see narrative revision as a
-strategy for implementing a virtual finish line, a dynamically
-maintained interpretation of reality whose functional role is to
-determine the content of our phenomenal world."
+summary: "Colour phi shows how the brain can reinterpret the past to
+maximise local consistency of the self-narrative. Dennett concludes that
+there is no such thing as a finish line in the brain beyond which a
+percept is conscious. A better interpretation, more consistent with
+functionalism, is to see narrative revision as a strategy for
+implementing a virtual finish line, a dynamically maintained
+interpretation of reality whose functional role is to determine the
+content of our phenomenal world."
 
 ---
 
@@ -16,41 +16,41 @@ determine the content of our phenomenal world."
 
 So it would seem that
 [spatio-temporal smearing](multiple-drafts-dennett-spatio-temporal.html)
-presents no particular problem for the (virtual) Cartesian Theatre.
-Dennett's next assault on the Cartesian Theatre is based on another
-revealing phenomenon, the susceptibility of conscious content to
-_revision_ in the light of further input or processing. Dennett does a
-brilliant job of deconstructing the apparent oddity of these temporal
-tricks, showing how they can be made sense of by understanding
-consciousness as an _ex post facto_ interpretation of reality, rather
-than a real-time "phenomenal correlate" of perceptual processing.
+presents no particular problem for the (functional) Cartesian Theatre.
+Dennett's next attempt to deconstruct the Cartesian Theatre is based on
+another revealing empirical phenomenon, the susceptibility of conscious
+content to _revision_ in the light of further input or processing.
+Dennett does a brilliant job of deconstructing the apparent oddity of
+these temporal tricks, showing how they can be made sense of by
+understanding consciousness as an _ex post facto_ interpretation of
+reality, rather than a real-time "phenomenal correlate" of perceptual
+processing.
 
 The empirical component of Dennett's argument draws mainly on the
 so-called
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon) effect.
 The phi phenomenon is the illusion of apparent motion, familiar as the
 basis for film and television, caused by viewing a series of still
-images in rapid succession. Consider what happens if a small spot of
-light is flashed on a screen, and then displayed again at a position
-translated slightly to the right, and so on at frequent intervals. If
-the time interval is small enough, then rather than seeing several
-successive flashes, the observer perceives the smooth movement of a
-single spot of light.
+images in rapid succession. Consider a small spot of light flashed on a
+screen, and then displayed again at a position translated slightly to
+the right, and so on at frequent intervals. If the time interval is
+small enough, then rather than seeing several distinct flashes, the
+observer perceives the smooth movement of a single spot of light.
 
 Colour phi is a variant of the phi effect, and was first studied in
 response to a question posed by Nelson Goodman ([1978](#goodman78)).
-Goodman asked what the impact on the phenomenonology of phi would be if
-the colour of the successive spots of light were to change half-way
-through, say from green to blue. Specifically, Goodman wondered about
-the perceived _spatio-temporal locus_ of the change, given the apparent
-continuity of the movement.
+Goodman asked how changing the colour of the successive spots of light
+half-way through, say from green to blue, would impact the visual
+phenomenonology. Specifically, Goodman wondered about the perceived
+_spatio-temporal locus_ of the change, given the apparent continuity of
+the movement.
 
 Consider the figure on the left below, which shows the transition
 between the green spots and the blue spots. (The last green spot and the
 first blue spot are shown.) Given that the viewer sees a continuously
 moving spot, when does the colour change seem to occur?
 
-[Two diagrams to go here, similar to Wikipedia article]
+![Wibble](/images/color-phi-1.png)
 
 The diagram on the right above shows how the colour-change appears: the
 spot seems to change colour mid-trajectory, at a spatio-temporal
