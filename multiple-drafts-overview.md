@@ -23,13 +23,12 @@ Unfortunately, a widely-held materialist assumption -- that the
 Cartesian Theatre is wrong not just in a literal sense but in every
 sense -- is hindering progress towards a scientific understanding of
 consciousness. This is ultimately the problem with
-[_Consciousness Explained_](#dennett91a), because it rules out the
-possibility of considering the Cartesian Theatre as a powerful
-functional abstraction. This reinterpretation of the Cartesian intuition
-is the key trick required to complete Dennett's otherwise compelling
+[_Consciousness Explained_](#dennett91a), because it commits Dennett's
+to a rejection of even a functional version of the Cartesian Theatre
+from the outset. Yet this reinterpretation of the Cartesian intuition is
+precisely the trick required to complete Dennett's otherwise compelling
 functionalist picture and produce a full account of the "core features"
-of phenomenal consciousness, such as qualia and introspection, but it is
-a move ruled out by Dennett on methodological grounds.
+of phenomenal consciousness, such as qualia and introspection.
 
 I tend to see the materialist's blanket rejection of the Cartesian
 Theatre as an (understandable) overreaction to substance dualism.
