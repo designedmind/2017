@@ -23,12 +23,13 @@ Unfortunately, a widely-held materialist assumption -- that the
 Cartesian Theatre is wrong not just in a literal sense but in every
 sense -- is hindering progress towards a scientific understanding of
 consciousness. This is ultimately the problem with
-[_Consciousness Explained_](#dennett91a), because it commits Dennett's
-to a rejection of even a functional version of the Cartesian Theatre
-from the outset. Yet this reinterpretation of the Cartesian intuition is
-precisely the trick required to complete Dennett's otherwise compelling
-functionalist picture and produce a full account of the "core features"
-of phenomenal consciousness, such as qualia and introspection.
+[_Consciousness Explained_](#dennett91a), because it forces Dennett to
+ignore the possibility that the Cartesian Theatre might be a functional
+component of human behaviour. Yet this reinterpretation of the Cartesian
+intuition is precisely the trick required to complete Dennett's
+otherwise compelling functionalist picture and produce a full account of
+the "core features" of phenomenal consciousness, such as qualia and
+introspection.
 
 I tend to see the materialist's blanket rejection of the Cartesian
 Theatre as an (understandable) overreaction to substance dualism.
@@ -57,8 +58,9 @@ related positions such as Lycan's "homuncular functionalism"
 ([Lycan, 1987](#lycan87)), propose exactly such a decomposition of the
 self into strictly smaller proto-selves.
 
-The real problem with a functional version of the Cartesian Theatre, at
-least for Dennett, seems to be simply that no suitable function exists.
+Having made the (_prima facia_ reasonable) commitment to reject the
+Cartesian image at the outset, Dennett is painted into a corner where
+any possible functional role for an inner presentation must be denied.
 The most naïve version of Cartesian materialism envisages a
 _consciousness gateway_, a special location in the brain through which a
 perception or other judgement must "pass" -- or perhaps a special status
@@ -76,8 +78,7 @@ behaviour, presumably, but independent of it at least in the sense that
 one could equally well exhibit the aforementioned behaviour without the
 inner presentation.
 
-With this (_prima facia_ reasonable) rejection of Cartesian thinking on
-the table from the outset, Dennett devotes much of _Consciousness
+Dennett devotes much of _Consciousness
 Explained_ to purging the vestiges of the Cartesian Theatre from our
 fledgling scientific picture of the mind. He enlists a number of
 important empirical findings from consciousness research in support of
