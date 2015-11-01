@@ -63,21 +63,23 @@ something odd about our subjective experience that needs to be explained
 here: our conscious experience appears to be able to _anticipate_ the
 change in colour before it occurs.
 
-Dennett does an excellent job of demystifying this apparent oddity. He
-makes use of a crucial, and typically Dennettian, distinction: that
-between the temporal _content_ of a representation, and the temporal
-properties of the representation itself. The key insight is that a
-judgement made by the brain can be _antedated_: its content given a
-earlier “postmark” which retroactively splices it into an unfolding
-account of what happened. If new data arrives which contradicts an
-earlier working hypothesis, such as "there is a green spot moving
-southeast", the story being told can be updated so that it is a new best
-fit for the stimulus received thus far. In this case, the most
-reasonable hypothesis, given that the brain is also making an inference
-about movement, is that the spot By the time I am asked to describe what
-I saw, the record of "what I saw" has already been patched with the new
-interpretation that I appear to become conscious of the colour switch
-before the colour switch actually occurs.
+Dennett does an excellent job of demystifying this apparent oddity. His
+explanation makes use of a crucial, and typically Dennettian,
+distinction: that between the temporal _content_ of a representation,
+and the temporal properties of the representation itself. The key
+insight is that a judgement made by the brain can be _antedated_: its
+content given a earlier “postmark” which retroactively splices it into
+an unfolding account of what happened. If new data arrives which
+contradicts an earlier working hypothesis, such as "there is a green
+spot moving southeast", the story being told can be updated so that it
+is a new best fit for the stimulus received thus far. In this case, the
+most reasonable hypothesis, given that the brain is also making an
+inference about movement, is that the spot changes .
+
+By the time I am asked to describe what I saw, the record of "what I
+saw" has already been patched with the new interpretation that I appear
+to become conscious of the colour switch before the colour switch
+actually occurs.
 
 Thus, a judgement made at time _t_ can be "about" how the world seemed
 at some _earlier_ time _t'_. Dennett's dangerous idea is that this
