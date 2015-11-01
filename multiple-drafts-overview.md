@@ -59,13 +59,14 @@ related positions such as Lycan's "homuncular functionalism"
 self into strictly smaller proto-selves.
 
 Having made the (_prima facia_ reasonable) commitment to reject the
-Cartesian image at the outset, Dennett is painted into a corner where
-any possible functional role for an inner presentation must be denied.
-The most naïve version of Cartesian materialism envisages a
-_consciousness gateway_, a special location in the brain through which a
-perception or other judgement must "pass" -- or perhaps a special status
-that it must achieve -- in order to become conscious. (It seems unlikely
-that anyone has seriously proposed such a naïve view, but...)
+Cartesian image at the outset, Dennett is painted into a corner. Any
+possible functional role for an inner presentation must be denied. The
+naïve version of Cartesian materialism envisages a _consciousness
+gateway_, a special location in the brain through which a perception or
+other judgement must "pass" -- or perhaps a special status that it must
+achieve -- in order to become conscious. Any functional counterpart of
+this idea must also be rejected, lest the spectre of the inner
+presentation be reintroduced.
 
 The worry seems to that it is not clear what such a consciousness
 gateway would actually be _for_. Perceptual and similar judgements made
@@ -78,11 +79,12 @@ behaviour, presumably, but independent of it at least in the sense that
 one could equally well exhibit the aforementioned behaviour without the
 inner presentation.
 
-Dennett devotes much of _Consciousness
-Explained_ to purging the vestiges of the Cartesian Theatre from our
-fledgling scientific picture of the mind. He enlists a number of
-important empirical findings from consciousness research in support of
-this project. I consider three of these in detail in the next section:
+Dennett's project now becomes negative, rather than positive. Much of
+_Consciousness Explained_ is devoted to purging the vestiges of the
+Cartesian Theatre from our fledgling scientific picture of the mind. He
+enlists a number of important empirical findings from consciousness
+research in support of this project. I consider three of these in detail
+in the next section:
 [spatio-temporal ambiguity](multiple-drafts-dennett-spatio-temporal.html);
 the
 [susceptibility to future revision](multiple-drafts-dennett-non-monotonic.html)
