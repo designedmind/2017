@@ -35,7 +35,7 @@ images in rapid succession. Consider a small spot of light flashed on a
 screen, and then displayed again at a position translated slightly to
 the right, and so on at frequent intervals. If the time interval is
 small enough, then rather than seeing several distinct flashes, the
-observer perceives the smooth movement of a single spot of light.
+subject perceives the smooth movement of a single spot of light.
 
 Colour phi is a variant of the phi effect, and was first studied in
 response to a question posed by Nelson Goodman ([1978](#goodman78)).
@@ -47,8 +47,8 @@ the movement.
 
 Consider the figure on the left below, which shows the transition
 between the green spots and the blue spots. (The last green spot and the
-first blue spot are shown.) Given that the viewer sees a continuously
-moving spot, when does the colour change seem to occur?
+first blue spot are shown.) Given that the subject reports seeing a
+continuously moving spot, when does the colour change seem to occur?
 
 | Shown         | Reported      |
 |--------------:|--------------:|
