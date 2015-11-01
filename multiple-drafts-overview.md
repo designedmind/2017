@@ -58,18 +58,16 @@ related positions such as Lycan's "homuncular functionalism"
 ([Lycan, 1987](#lycan87)), propose exactly such a decomposition of the
 self into strictly smaller proto-selves.
 
-Having made the (_prima facia_ reasonable) commitment to reject the
-Cartesian image at the outset, Dennett is painted into a corner. Any
-possible functional role for an inner presentation must be denied. The
-naïve version of Cartesian materialism envisages a _consciousness
-gateway_, a special location in the brain through which a perception or
-other judgement must "pass" -- or perhaps a special status that it must
-achieve -- in order to become conscious. Any functional counterpart of
-this idea must also be rejected, lest the spectre of the inner
-presentation be reintroduced.
+Once the Cartesian image is fully rejected, Dennett is painted into a
+corner. No possible functional role for an inner presentation can be
+accommodated. The naïve version of Cartesian materialism envisages a
+_consciousness gateway_, a special location in the brain through which a
+perception or other judgement must "pass" -- or perhaps a special status
+that it must achieve -- in order to become conscious. Any functional
+counterpart of this idea must also be rejected, lest the spectre of the
+inner presentation be reintroduced.
 
-The worry seems to that it is not clear what such a consciousness
-gateway would actually be _for_. Perceptual and similar judgements made
+For example Dennett claims that perceptual and similar judgements made
 by the brain need only influence behaviour in the right way, allowing us
 avoid predation, or recognise food, or avoid projectiles hurled towards
 us; if they additionally gave rise to some kind of inner presentation,
