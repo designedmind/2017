@@ -2,10 +2,11 @@
 last_updated: October 30, 2015
 
 summary: "Dennett's Multiple Drafts theory is primarily a negative
-account, focusing on what consciousness cannot possibly be. I revisit
-three of Dennett's key arguments, in each case arguing that the
-phenomenon in question is not evidence against a coming together, but a
-glimpse of the clever tricks used to implement a coming together."
+account, focusing on what consciousness could not possibly be. To
+understand consciousness properly, we need to recast Dennett's theory as
+a positive account. The empirical phenomena Dennett presents as evidence
+against a coming together are reinterpreted as a glimpse of the clever
+tricks used to implement a coming together."
 
 ---
 
@@ -19,7 +20,7 @@ Methodological consensus is important in science, providing a heuristic
 for distinguishing "extraordinary" from ordinary claims and requiring
 extraordinary claims to be supported by extraordinary evidence.
 Unfortunately, a widely-held materialist assumption -- that the
-Cartesian Theatre is not just wrong in a literal sense but in every
+Cartesian Theatre is wrong not just in a literal sense but in every
 sense -- is hindering progress towards a scientific understanding of
 consciousness. This methodological commitment is the central problem
 with [_Consciousness Explained_](#dennett91a), forcing Dennett to miss
