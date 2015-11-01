@@ -1,14 +1,13 @@
 ---
 last_updated: November 1, 2015
 
-summary: "Colour phi shows how the brain can reinterpret the past to
-maximise local consistency of the self-narrative. Dennett concludes that
-there is no such thing as a finish line in the brain beyond which a
-percept is conscious. A better interpretation, more consistent with
-functionalism, is to see narrative revision as a strategy for
-implementing a virtual finish line, a dynamically maintained
-interpretation of reality whose functional role is to determine the
-content of our phenomenal world."
+summary: "Colour phi shows how the brain revises the self-narrative to
+maximise local consistency. Dennett concludes that there is no such
+thing as a finish line in the brain beyond which a percept is conscious.
+An interpretation more consistent with functionalism is to see narrative
+revision as a strategy for implementing a virtual finish line, a
+dynamically maintained interpretation of reality whose functional role
+is to determine the content of our phenomenal world."
 
 ---
 
@@ -17,14 +16,13 @@ content of our phenomenal world."
 So it would seem that
 [spatio-temporal smearing](multiple-drafts-dennett-spatio-temporal.html)
 presents no particular problem for the (functional) Cartesian Theatre.
-Dennett's next attempt to deconstruct the Cartesian Theatre is based on
-another revealing empirical phenomenon, the susceptibility of conscious
-content to _revision_ in the light of further input or processing.
-Dennett does a brilliant job of deconstructing the apparent oddity of
-these temporal tricks, showing how they can be made sense of by
-understanding consciousness as an _ex post facto_ interpretation of
-reality, rather than a real-time "phenomenal correlate" of perceptual
-processing.
+Dennett's next attempt to eliminate the Theatre is based on another
+revealing empirical phenomenon, the susceptibility of conscious content
+to _revision_ in the light of further input or processing. Dennett does
+a brilliant job of deconstructing the apparent oddity of these temporal
+tricks, showing how they can be made sense of by understanding
+consciousness as an _ex post facto_ interpretation of reality, rather
+than a real-time "phenomenal correlate" of perceptual processing.
 
 The empirical component of Dennett's argument draws mainly on the
 so-called
@@ -34,8 +32,8 @@ basis for film and television, caused by viewing a series of still
 images in rapid succession. Consider a small spot of light flashed on a
 screen, and then displayed again at a position translated slightly to
 the right, and so on at frequent intervals. If the time interval is
-small enough, then rather than seeing several distinct flashes, the
-subject perceives the smooth movement of a single spot of light.
+small enough, the subject perceives the smooth movement of a single spot
+of light, rather than distinct flashes.
 
 Colour phi is a variant of the phi effect, and was first studied in
 response to a question posed by Nelson Goodman ([1978](#goodman78)).
