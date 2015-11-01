@@ -38,10 +38,10 @@ of light, rather than distinct flashes.
 Colour phi is a variant of the phi effect, and was first studied in
 response to a question posed by Nelson Goodman ([1978](#goodman78)).
 Goodman asked how changing the colour of the successive spots of light
-half-way through, say from green to blue, would impact the visual
-phenomenonology. Specifically, Goodman wondered about the perceived
-_spatio-temporal locus_ of the change, given the apparent continuity of
-the movement.
+in the middle of the animation would impact the associated visual
+phenomenonology. Specifically, Goodman wondered how the apparent
+continuity of the movement would affect the perceived _spatio-temporal
+locus_ of the change.
 
 Consider the figure on the left below, which shows the transition
 between the green spots and the blue spots. (The last green spot and the
