@@ -39,43 +39,47 @@ Colour phi is a variant of the phi effect, and was first studied in
 response to a question posed by Nelson Goodman ([1978](#goodman78)).
 Goodman asked how changing the colour of the successive spots of light
 in the middle of the animation would impact the associated visual
-phenomenonology. Specifically, Goodman wondered how the apparent
-continuity of the movement would affect the perceived _spatio-temporal
-locus_ of the change.
+phenomenonology. Specifically, Goodman wondered how the fact that
+subjects report seeing a continuously moving spot would affect the
+perceived spatio-temporal locus of the change.
 
-Consider the figure on the left below, which shows the transition
-between the green spots and the blue spots. (The last green spot and the
-first blue spot are shown.) Given that the subject reports seeing a
-continuously moving spot, when does the colour change seem to occur?
+The figure on the left below depicts the transition between the two
+colours as it actually happens, showing the last green spot and the
+first blue spot. The figure on the right shows the reported percept. The
+spot seems to change colour mid-trajectory, at a spatio-temporal
+location roughly halfway between the last green spot and the first blue
+spot ([Kolers and von Grünau, 1976](#kolers76)).
 
 | Shown         | Reported      |
 |--------------:|--------------:|
 | ![Wibble](/images/color-phi-1.jpg) | ![Wibble](/images/color-phi-2.jpg) |
 
-The diagram on the right above shows how the colour-change appears: the
-spot seems to change colour mid-trajectory, at a spatio-temporal
-location roughly halfway between the last green spot and the first blue
-spot ([Kolers and von Grünau, 1976](#kolers76)). In a sense this is
-unsurprising, since it is consistent with the apparently continuous
-motion of the spot; but at the same time it seems rather odd, since the
-switch to blue has _not yet occurred_ at the point in time at which –
-according to your subsequent verbal reports – you _experienced_ the
-switch to blue.
+The apparent locus of the change is consistent with the interpolative
+nature of the apparent motion, and so is in a sense unsurprising. On the
+other hand, the switch to blue has _not yet occurred_ at the point in
+time at which – according to the subject's subsequent verbal reports –
+they _experienced_ the switch to blue. So there does seem to be
+something odd about our subjective experience that needs to be explained
+here: our conscious experience appears to be able to _anticipate_ the
+change in colour before it occurs.
 
-Dennett does an excellent job of demystifying this apparent oddity. To
-do so, he deploys a crucial (and typically Dennettian) distinction: that
+Dennett does an excellent job of demystifying this apparent oddity. He
+makes use of a crucial, and typically Dennettian, distinction: that
 between the temporal _content_ of a representation, and the temporal
 properties of the representation itself. The key insight is that a
-judgement made by the brain can be antedated: its content given a
-earlier “postmark” which retroactively fits it into an unfolding account
-of what happened in such a way that the story being told is consistent
-with the total stimulus received thus far. More succinctly, a judgement
-made at time _t_ can be "about" how the world seemed at some _earlier_
-time _t'_. Since, by Dennett's reckoning, this unfolding narrative is
-constitutive of the content of our consciousness, the effect observed
-through behavioural studies is that I appear to become conscious of the
-colour switch before the colour switch actually occurs. There is nothing
-paradoxical about this:
+judgement made by the brain can be _antedated_: its content given a
+earlier “postmark” which retroactively splices it into an unfolding
+account of what happened. If new data arrives which contradicts an
+earlier working hypothesis, such as "there is a green spot moving
+southeast", the story being told can be updated so that it is consistent
+with the total stimulus received thus far.
+
+Thus, a judgement made at time _t_ can be "about" how the world seemed
+at some _earlier_ time _t'_. Since, by Dennett's reckoning, this
+unfolding narrative is constitutive of the content of our consciousness,
+the effect observed through behavioural studies is that I appear to
+become conscious of the colour switch before the colour switch actually
+occurs. There is nothing paradoxical about this:
 
 > “no sounds appear to issue from heads before lips move, nor do hands
 > move before the brain events that purportedly cause them”
