@@ -21,23 +21,20 @@ for distinguishing "extraordinary" from ordinary claims and requiring
 extraordinary claims to be supported by extraordinary evidence.
 Unfortunately, a widely-held materialist assumption -- that the
 Cartesian Theatre is wrong not just in a literal sense but in every
-sense -- is hindering progress towards a scientific understanding of
-consciousness. This methodological commitment is the central problem
-with [_Consciousness Explained_](#dennett91a), forcing Dennett to miss
-the key trick required to complete his otherwise compelling
+sense -- is a significant stumbling block on the the path towards a
+scientific understanding of consciousness. This is ultimately the
+problem with [_Consciousness Explained_](#dennett91a), forcing Dennett
+to miss the key trick required to complete his otherwise compelling
 functionalist picture and produce a full account of the "core features"
 of phenomenal consciousness, such as qualia and introspection.
 
-The materialist's blanket rejection of the Cartesian Theatre is
-understandable, but nevertheless a form of overcompensation. _Substance_
-dualism -- the belief that the mental constitutes a realm separate from,
-but causally linked to, the physical -- is incompatible with the modern
-scientific image. It is possible to intuit that there is something
-strange and mysterious about consciousness, and yet place more faith in
-science than in that intuition. Those materialists that do so are happy
-to have a rejection of substance dualism as a methodological assumption.
-And to some extent this renders anything Cartesian in flavour off-limits
-by association.
+I tend to see the materialist's blanket rejection of the Cartesian
+Theatre as an (understandable) overreaction to substance dualism.
+Substance dualism -- the belief that the mental constitutes a realm
+separate from, but causally linked to, the physical -- is "obviously"
+incompatible with the modern scientific image (to most materialists),
+and so anything Cartesian in flavour is rendered off-limits by
+association.
 
 For example, Dennett is absolutely clear that his rejection of Cartesian
 thinking is broad enough to include even a functional notion of the
@@ -49,7 +46,8 @@ Theater:
 > phenomenology are...projected.
 > ([Dennett, 1991](#dennett91a), p. 127)
 
-There is also the familiar threat of infinite regress. If explaining
+Exactly what the problem with a functional notion of the Theatre is less
+clear. There is the familiar spectre of infinite regress. If explaining
 conscious agency requires positing an "inner" conscious agent, and so on
 _ad infinitum_, then clearly we have a problem. But as long as any
 posited inner agent is strictly simpler than the agent which contains
