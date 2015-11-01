@@ -59,9 +59,9 @@ nature of the apparent motion, and so is in a sense unsurprising. On the
 other hand, the switch to blue has _not yet occurred_ at the point in
 time at which – according to the subject's subsequent verbal reports –
 they _experienced_ the switch to blue. So there does seem to be
-something odd about our subjective experience that needs to be explained
-here: our conscious experience appears to be able to _anticipate_ the
-change in colour before it occurs.
+something about our subjective experience that needs to be explained
+here: our consciousness appears to be able to _anticipate_ the change in
+colour before it occurs.
 
 Dennett does an excellent job of demystifying this apparent oddity. His
 explanation makes use of a crucial, and typically Dennettian,
@@ -70,11 +70,12 @@ and the temporal properties of the representation itself. The key
 insight is that a judgement made by the brain can be _antedated_: its
 content given a earlier “postmark” which retroactively splices it into
 an unfolding account of what happened. If new data arrives which
-contradicts an earlier working hypothesis, such as "there is a green
-spot moving southeast", the story being told can be updated so that it
-is a new best fit for the stimulus received thus far. In this case, the
-most reasonable hypothesis, given that the brain is also making an
-inference about movement, is that the spot changes .
+contradicts an earlier working hypothesis ("there is a green spot moving
+southeast"), the story being told can be updated so that it is a new
+best fit for the total stimulus received thus far. In this case, the
+most reasonable hypothesis, given that the new datum is still consistent
+with the inferred movement, is that the spot changes colour at its
+inferred location in "interpolation space".
 
 By the time I am asked to describe what I saw, the record of "what I
 saw" has already been patched with the new interpretation that I appear
