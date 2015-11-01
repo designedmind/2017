@@ -46,8 +46,8 @@ Theater:
 > phenomenology are...projected.
 > ([Dennett, 1991](#dennett91a), p. 127)
 
-Exactly what the problem with a functional notion of the Theatre might
-actually be, beyond the obvious echoes of substance dualism, is less
+But beyond the unsavoury echo of substance dualism, what the problem
+with a functional version of the Theatre might actually be is less
 clear. There is the familiar spectre of infinite regress. If explaining
 conscious agency requires positing an "inner" conscious agent, and so on
 _ad infinitum_, then clearly we have a problem. But as long as any
@@ -57,19 +57,25 @@ related positions such as Lycan's "homuncular functionalism"
 ([Lycan, 1987](#lycan87)), propose exactly such a decomposition of the
 self into strictly smaller proto-selves.
 
-The real problem with the Cartesian Theatre, at least for Dennett, seems
-to be with the idea of a _consciousness gateway_, a special location
-through which a perception or other judgement must "pass" -- or perhaps
-a special status that it must achieve -- in order for that perception or
-judgement to become conscious. The worry is that, in a fully
-materialistic theory, such a consciousness gateway would be
-_functionally redundant_. The various judgements made by the brain need
-only influence behaviour in the right way; they do not need
-(functionally speaking) to additionally give rise to some kind of inner
-presentation. Any such presentation would be a mysterious "further fact"
-about consciousness, related to our behaviour, clearly, but independent
-of it in at least one important sense, namely that one could equally
-well exhibit the relevant behaviour without the inner presentation.
+The real problem with a functional version of the Cartesian Theatre, at
+least for Dennett, seems to be simply that no such purported function
+exists. The most naïve version of Cartesian materialism envisages a
+_consciousness gateway_, a special location in the brain through which a
+perception or other judgement must "pass" -- or perhaps a special status
+that it must achieve -- in order for that perception or judgement to
+become conscious. (It seems unlikely that anyone has seriously proposed
+such a naïve view, but...)
+
+The worry seems to that it is not clear what such a consciousness
+gateway would actually be _for_. Perceptual and similar judgements made
+by the brain need only influence behaviour in the right way, allowing us
+avoid predation, or recognise food, or avoid projectiles hurled towards
+us; if they additionally gave rise to some kind of inner presentation,
+that would somehow be _functionally redundant_. Any such presentation
+would be a mysterious "further fact" about consciousness, related to our
+behaviour, presumably, but independent of it at least in the sense that
+one could equally well exhibit the aforementioned behaviour without the
+inner presentation.
 
 With this (_prima facia_ reasonable) rejection of Cartesian thinking on
 the table from the outset, Dennett devotes much of _Consciousness
