@@ -71,15 +71,22 @@ judgement made by the brain can be _antedated_: its content given a
 earlier “postmark” which retroactively splices it into an unfolding
 account of what happened. If new data arrives which contradicts an
 earlier working hypothesis, such as "there is a green spot moving
-southeast", the story being told can be updated so that it is consistent
-with the total stimulus received thus far.
+southeast", the story being told can be updated so that it is a new best
+fit for the stimulus received thus far. In this case, the most
+reasonable hypothesis, given that the brain is also making an inference
+about movement, is that the spot By the time I am asked to describe what
+I saw, the record of "what I saw" has already been patched with the new
+interpretation that I appear to become conscious of the colour switch
+before the colour switch actually occurs.
 
 Thus, a judgement made at time _t_ can be "about" how the world seemed
-at some _earlier_ time _t'_. Since, by Dennett's reckoning, this
-unfolding narrative is constitutive of the content of our consciousness,
-the effect observed through behavioural studies is that I appear to
-become conscious of the colour switch before the colour switch actually
-occurs. There is nothing paradoxical about this:
+at some _earlier_ time _t'_. Dennett's dangerous idea is that this
+unfolding narrative is _constitutive of_ the content of our
+consciousness, that there is nothing more to phenomenonal consciousness
+than more-or-less-retroactively constructed judgements about the way the
+world is.
+
+ There is nothing paradoxical about this:
 
 > “no sounds appear to issue from heads before lips move, nor do hands
 > move before the brain events that purportedly cause them”
