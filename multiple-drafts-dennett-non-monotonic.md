@@ -50,7 +50,9 @@ between the green spots and the blue spots. (The last green spot and the
 first blue spot are shown.) Given that the viewer sees a continuously
 moving spot, when does the colour change seem to occur?
 
-![Wibble](/images/color-phi-1.png)
+| Shown         | Reported      |
+|--------------:|--------------:|
+| ![Wibble](/images/color-phi-1.png) | ![Wibble](/images/color-phi-2.png) |
 
 The diagram on the right above shows how the colour-change appears: the
 spot seems to change colour mid-trajectory, at a spatio-temporal
