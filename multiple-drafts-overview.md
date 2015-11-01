@@ -17,16 +17,19 @@ According to [Pessoa et al](#pessoa98),
 > Everybody agrees that this idea [the Cartesian Theatre] is totally wrong.
 
 Methodological consensus is important in science, providing a heuristic
-for distinguishing "extraordinary" from ordinary claims and ensuring
+for distinguishing "extraordinary" from ordinary claims, and ensuring
 that extraordinary claims are supported by extraordinary evidence.
 Unfortunately, a widely-held materialist assumption -- that the
 Cartesian Theatre is wrong not just in a literal sense but in every
-sense -- is a significant stumbling block on the the path towards a
-scientific understanding of consciousness. This is ultimately the
-problem with [_Consciousness Explained_](#dennett91a), forcing Dennett
-to miss the key trick required to complete his otherwise compelling
+sense -- is hindering progress towards a scientific understanding of
+consciousness. This is ultimately the problem with
+[_Consciousness Explained_](#dennett91a), because it rules out the
+possibility of considering the Cartesian Theatre as a powerful
+functional abstraction. This reinterpretation of the Cartesian intuition
+is the key trick required to complete Dennett's otherwise compelling
 functionalist picture and produce a full account of the "core features"
-of phenomenal consciousness, such as qualia and introspection.
+of phenomenal consciousness, such as qualia and introspection, but it is
+a move ruled out by Dennett on methodological grounds.
 
 I tend to see the materialist's blanket rejection of the Cartesian
 Theatre as an (understandable) overreaction to substance dualism.
@@ -34,11 +37,9 @@ Substance dualism -- the belief that the mental constitutes a realm
 separate from, but causally linked to, the physical -- is "obviously"
 incompatible with the modern scientific image (to most materialists),
 and so anything Cartesian in flavour tends to get lumped into the same
-bag of bad ideas.
-
-Certainly, Dennett is absolutely clear that his rejection of Cartesian
-thinking is broad enough to include even a functional notion of the
-Theater:
+bag of bad ideas. Certainly, Dennett is absolutely clear that his
+rejection of Cartesian thinking is broad enough to include even a
+functional notion of the Theater:
 
 > You may well suspect that under the cover of antidualism...I have
 > spirited away (quite literally) something Descartes was actually right
@@ -46,9 +47,9 @@ Theater:
 > phenomenology are...projected.
 > ([Dennett, 1991](#dennett91a), p. 127)
 
-But beyond the unsavoury echo of substance dualism, what the problem
-with a functional version of the Theatre might actually be is less
-clear. There is the familiar spectre of infinite regress. If explaining
+But beyond the unsavoury echo of substance dualism, exactly why a
+functional version of the Theatre should be problematic is less clear.
+There is the familiar spectre of infinite regress. If explaining
 conscious agency requires positing an "inner" conscious agent, and so on
 _ad infinitum_, then clearly we have a problem. But as long as any
 posited inner agent is strictly simpler than the agent which contains
@@ -58,13 +59,12 @@ related positions such as Lycan's "homuncular functionalism"
 self into strictly smaller proto-selves.
 
 The real problem with a functional version of the Cartesian Theatre, at
-least for Dennett, seems to be simply that no such purported function
-exists. The most naïve version of Cartesian materialism envisages a
+least for Dennett, seems to be simply that no suitable function exists.
+The most naïve version of Cartesian materialism envisages a
 _consciousness gateway_, a special location in the brain through which a
 perception or other judgement must "pass" -- or perhaps a special status
-that it must achieve -- in order for that perception or judgement to
-become conscious. (It seems unlikely that anyone has seriously proposed
-such a naïve view, but...)
+that it must achieve -- in order to become conscious. (It seems unlikely
+that anyone has seriously proposed such a naïve view, but...)
 
 The worry seems to that it is not clear what such a consciousness
 gateway would actually be _for_. Perceptual and similar judgements made
