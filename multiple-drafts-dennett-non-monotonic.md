@@ -124,14 +124,14 @@ rather to explain how the finish line works.
 Dennett reveals the effort the brain goes to to antedate various
 judgements in the colour phi experiments. But why does the brain bother
 to patch its interpretation of past events? Presumably, _precisely_ so
-that there is, at any point in time, an official picture of “how it was
-to be me” at some earlier time, even if that narrative is a transient
-artefact that may be revised again in the future. These kinds of editing
-efforts by the brain should be interpreted as _constructors of a virtual
-finish line_, a functional, behavioural one, rather than a physical one,
-but a finish line nonetheless.
+that there is, at any point in time, an official story of “how it was to
+be me” at some earlier time, albeit a transient one that may be revised
+again in the future. These kinds of editing efforts by the brain should
+be interpreted as _constructors of a virtual finish line_, a functional,
+behavioural one, rather than a physical one, but a finish line
+nonetheless.
 
-So what does Dennett's deep insight about consciousess-as-narrative
+So what does Dennett's deep insight about consciousness-as-narrative
 _actually_ reveal, if it in fact supports, rather than refutes, a
 functional version of the Cartesian Theatre? One thing it shows is that
 the content of phenomenonal consciousness cannot be a direct _correlate_
