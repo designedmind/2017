@@ -144,35 +144,6 @@ systems is not necessarily a fixed fact but one which is subject to
 change should the subsequent evolution of the system suggest
 reinterpretation of an earlier model of its history.
 
-As we did with the spatiotemporal ambiguity case, let's follow Dennett's
-line of reasoning in a less contentious context, as a kind of intuition
-counter-pump. Consider speciation events in an ecological system. Now,
-the precise definition of species is an elusive one in biology but
-mainly for reasons which need not concern us here; what do concern us
-here are the epistemic limits that prevent us from observing a
-speciation event as it occurs. If two populations within a single
-species become reproductively isolated for some reason (say geographical
-separation), we cannot be certain that we have observed a new species in
-the making, not just because a species is composed of multiple
-individuals and therefore its creation is spatio-temporally distributed,
-but because a speciation event is only a speciation event because of
-some property of how the system subsequently evolves. If the two
-populations subsequently merge and continue interbreeding as before then
-we will not be inclined to say that we saw a speciation event take place
-followed immediately by an unspeciation event, but simply that no such
-event took place in the first place. On the other hand if we study the
-populations for some time and eventually they lose reproductive
-affinity, or they reproduce but produce sterile offspring, or some other
-criterion is met which is considered sufficient for the existence of a
-separate species, then we could quite reasonably go back and
-retrospectively identify the original reproductive isolation as the
-beginning of a temporally extended speciation event. If Dennett were to
-pursue his own line of reasoning here, he would be forced to conclude
-from the absence of irrevocable, perspective-independent facts about
-whether speciation events have occurred, to the absence of speciation
-events altogether. This is presumably a stronger conclusion than Dennett
-would want to draw here.
-
 One of our goals here was to understand what Dennett's arguments succeed
 at too. As with the
 [spatio-temporal ambiguity argument](multiple-drafts-dennett-spatio-temporal),
