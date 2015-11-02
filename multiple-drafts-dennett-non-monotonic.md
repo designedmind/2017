@@ -66,7 +66,7 @@ before it occurs!
 Dennett does an excellent job of demystifying this apparent oddity. His
 explanation makes use of an insightful, and typically Dennettian,
 distinction: the contrast between the temporal _content_ of a
-representation, and the temporal properties of the representation
+representation, and the temporal properties of the representation.
 itself. The key insight is that a judgement made by the brain can be
 _antedated_: its content given a earlier “postmark” which retroactively
 splices it into an unfolding account of what happened. If new data
@@ -117,27 +117,27 @@ seemed to happen. “There is no finish line”, as Dennett puts it
 
 This is too quick, and inconsistent with the functionalism to which
 Dennett is otherwise committed. Non-monotonicity certainly shows us that
-there is no immutable, canonical finish line which is the final word on
-the content of conscious experience. What we were conscious of is _a
-story told after the fact_ that best fits the available data, one which
-may be revised later. But this is not to say that there is no finish
-line, but rather to explain how the finish line works.
+there is no final word on the content of conscious experience, and that
+what we are conscious of is _a story told after the fact_ that best fits
+the available data, one which may be revised later. But this is not to
+say that there is no finish line, but rather to explain how the finish
+line works.
 
 Dennett reveals the effort the brain goes to to antedate various
 judgements in the colour phi experiments. But why does the brain bother
 to patch its interpretation of past events? Presumably, _precisely_ so
 that there is, at any point in time, an official story of “how it was to
 be me” at some earlier time, albeit a transient one that may be revised
-again in the future. These kinds of editing efforts by the brain should
-be interpreted as _constructors of a virtual finish line_, a functional,
+again in the future. These editing efforts by the brain should be
+interpreted as _constructors of a virtual finish line_, a functional,
 behavioural one, rather than a physical one, but a finish line
 nonetheless.
 
-So what does Dennett's deep insight about consciousness-as-narrative
-reveal, if it in fact supports, rather than refutes, the functional
-Cartesian Theatre? One thing it shows is that the content of
-phenomenonal consciousness cannot be a direct _correlate_ (in the sense
-of being in spatio-temporal lock-step with) the neural processing
+So Dennett's deep insight about consciousness-as-narrative turns out to
+support, rather than refute, the functional Cartesian Theatre. What does
+it tell us about consciousness? One thing it shows is that the content
+of phenomenonal consciousness cannot be a direct _correlate_ (in the
+sense of being in spatio-temporal lock-step with) the neural processing
 associated directly with perception (cf.
 [Teller and Pugh, 1983](#teller83)). The "neural correlate" intuition
 about consciousness often goes like this: for every perceptual
