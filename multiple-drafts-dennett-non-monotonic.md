@@ -35,13 +35,13 @@ the right, and so on at frequent intervals. If the time interval is
 small enough, the subject perceives the smooth movement of a single spot
 of light, rather than distinct flashes.
 
-Colour phi is a variant of the phi effect, and was first studied in
-response to a question posed by Nelson Goodman ([1978](#goodman78)).
-Goodman asked how changing the colour of the successive spots of light
-in the middle of the animation would impact the associated visual
-phenomenonology. Specifically, Goodman wondered how the fact that
-subjects report seeing a continuously moving spot would affect the
-perceived spatio-temporal locus of the change.
+Colour phi is a variant of the phi effect, first studied in response to
+a question posed by Nelson Goodman ([1978](#goodman78)). Goodman asked
+how changing the colour of the successive spots of light in the middle
+of the sequence would impact the associated visual phenomenonology.
+Specifically, Goodman wondered how the fact that subjects report seeing
+a continuously moving spot would affect the perceived spatio-temporal
+locus of the change.
 
 The figure on the left below depicts the transition between the two
 colours as it actually happens, showing the last green spot and the
@@ -57,30 +57,34 @@ spot ([Kolers and von Grünau, 1976](#kolers76)).
 The apparent locus of the change is consistent with the interpolative
 nature of the apparent motion, and so is in a sense unsurprising. On the
 other hand, the switch to blue has _not yet occurred_ at the point in
-time at which – according to the subject's subsequent verbal reports –
-they _experienced_ the switch to blue. So there does seem to be
+time at which – according to their subsequent verbal reports – the
+subject _experienced_ the switch to blue. So there does seem to be
 something about our subjective experience that needs to be explained
-here: our consciousness appears to be able to _anticipate_ the change in
-colour before it occurs.
+here: our consciousness appears to anticipate the change in colour
+before it occurs.
 
 Dennett does an excellent job of demystifying this apparent oddity. His
-explanation makes use of a crucial, and typically Dennettian,
-distinction: that between the temporal _content_ of a representation,
-and the temporal properties of the representation itself. The key
-insight is that a judgement made by the brain can be _antedated_: its
-content given a earlier “postmark” which retroactively splices it into
-an unfolding account of what happened. If new data arrives which
-contradicts an earlier working hypothesis ("there is a green spot moving
-southeast"), the story being told can be updated so that it is a new
-best fit for the total stimulus received thus far. In this case, the
-most reasonable hypothesis, given that the new datum is still consistent
-with the inferred movement, is that the spot changes colour at its
-inferred location in "interpolation space".
+explanation makes use of an insightful, and typically Dennettian,
+distinction: the contrast between the temporal _content_ of a
+representation, and the temporal properties of the representation
+itself. The key insight is that a judgement made by the brain can be
+_antedated_: its content given a earlier “postmark” which retroactively
+splices it into an unfolding account of what happened. If new data
+arrives which contradicts an earlier working hypothesis ("there is a
+green spot moving southeast"), the brain's interpretation of past events
+can be updated into a new best fit for the total stimulus received thus
+far. In this case, the most reasonable hypothesis, given that the new
+datum is still consistent with the inferred movement, is that the spot
+changes colour at its inferred location in "interpolation space".
 
 By the time I am asked to describe what I saw, the record of "what I
 saw" has already been patched with the new interpretation that I appear
 to become conscious of the colour switch before the colour switch
-actually occurs.
+actually occurs. There is no paradox:
+
+> “no sounds appear to issue from heads before lips move, nor do hands
+> move before the brain events that purportedly cause them”
+> ([Dennett and Kinsbourne, 1992](#dennett92)).
 
 Thus, a judgement made at time _t_ can be "about" how the world seemed
 at some _earlier_ time _t'_. Dennett's dangerous idea is that this
@@ -88,12 +92,6 @@ unfolding narrative is _constitutive of_ the content of our
 consciousness, that there is nothing more to phenomenonal consciousness
 than more-or-less-retroactively constructed judgements about the way the
 world is.
-
- There is nothing paradoxical about this:
-
-> “no sounds appear to issue from heads before lips move, nor do hands
-> move before the brain events that purportedly cause them”
-> ([Dennett and Kinsbourne, 1992](#dennett92)).
 
 Only when comparing the subject's reported stream of consciousness to
 the timing of external events do we find a putative anomaly, and
