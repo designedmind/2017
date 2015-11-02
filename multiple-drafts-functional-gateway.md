@@ -30,11 +30,10 @@ that get processed but for some reason never have any effect on
 behaviour, or discriminations which get made by some part of the brain
 but which are vetoed or revised by some other process, and so on. And
 certainly there are no absolute and permanent facts as to whether some
-micro-discrimination lies before or beyond the gate, since "what I was
-conscious of at t" is a dispositional property of the self-narrative
-that is itself time-indexed and subject to occasional revision in the
-light of additional input. Indeed, the (functional) location of the gate
-– what we were conscious of – is often only fixed on demand, when a
+micro-discrimination lies before or beyond the gate, since any given
+fragment of the narrative is subject to occasional revision in the light
+of additional input. Indeed, the (functional) location of the gate –
+what we were conscious of – is often only fixed on demand, when a
 behavioural probe of some kind is instigated.
 
 At an important level of description, then -- roughly speaking, the
@@ -69,7 +68,7 @@ many-faceted mechanism, no doubt strewn with evolutionary ad-hocery and
 optimisations, we cannot infer that the realised thing is not something
 approximating a single, integrated, coherent whole. Consciousness is a
 plenum! Neuroscientist and philosopher Kathleen Akins outlines Dennett's
-empirical bet on the nature of human vision (Akins, 2002):
+empirical bet on the nature of human vision ([Akins, 2002](#akins02)):
 
 > [Dennett imagines that] What the neurosciences will show is that our
 > army of visual specialists has not been co-opted into the production of
@@ -102,3 +101,8 @@ of what consciousness is _for_. If phenomenal consciousness is an overt
 feature of behaviour -- roughly the ability to behave about percepts --
 then presumably that capability is a solution to a particular ecological
 problem.
+
+- - -
+
+<a name="akins02"></a> Akins, Kathleen. (2002).
+[A Question of Content.]() In Brook, A. and Ross, D. eds. (2002).
