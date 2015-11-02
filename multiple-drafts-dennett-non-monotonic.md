@@ -114,12 +114,12 @@ what seemed to happen, there is simply no fact of the matter about what
 seemed to happen. “There is no finish line”, as Dennett puts it
 ([1995](#dennett95)).
 
-This is too quick. Non-monotonicity shows us that there is no immutable,
-canonical finish line which is the final word on the content of
-conscious experience. What we were conscious of is _a story told after
-the fact_ that best fits the available data, one which may be revised
-later. But this is not to show that there is no finish line, but rather
-to explain how the finish line works.
+This is too quick. Non-monotonicity certainly shows us that there is no
+immutable, canonical finish line which is the final word on the content
+of conscious experience. What we were conscious of is _a story told
+after the fact_ that best fits the available data, one which may be
+revised later. But this is not to say that there is no finish line, but
+rather to explain how the finish line works.
 
 Dennett reveals the effort the brain goes to to antedate various
 judgements in the colour phi experiments. But why does the brain bother
@@ -128,8 +128,8 @@ that there is, at any point in time, an official picture of “how it was
 to be me” at some earlier time, even if that narrative is a transient
 artefact that may be revised again in the future. These kinds of editing
 efforts by the brain should be interpreted as _constructors of a virtual
-finish line_, a functional, behavioural, temporary one, rather than a
-physical, permanent one, but a finish line nonetheless.
+finish line_, a functional, behavioural one, rather than a physical one,
+but a finish line nonetheless.
 
 One of our goals here was to understand what Dennett's arguments succeed
 at too. As with the
