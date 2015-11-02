@@ -131,19 +131,6 @@ efforts by the brain should be interpreted as _constructors of a virtual
 finish line_, a functional, behavioural, temporary one, rather than a
 physical, permanent one, but a finish line nonetheless.
 
-This susceptibility to revision is hardly unique to mental events, after
-all. In formal systems, monotonicity is a often a desirable
-characteristic, but in the real world – the world of practising
-scientists as well as the world of everyday folk-theorising –
-non-monotonicity is common. Systems which have some dynamical component,
-such as eco-systems, economies, materials under stress, and human brains
-are often interpreted non-monotonically because they often have a high
-degree of sensitivity to initial conditions which means it is hard to
-predict how the system will evolve. “What happened at time t” in such
-systems is not necessarily a fixed fact but one which is subject to
-change should the subsequent evolution of the system suggest
-reinterpretation of an earlier model of its history.
-
 One of our goals here was to understand what Dennett's arguments succeed
 at too. As with the
 [spatio-temporal ambiguity argument](multiple-drafts-dennett-spatio-temporal),
