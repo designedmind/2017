@@ -16,11 +16,11 @@ unfolding narrative, of which there are at any point various "drafts"
 some of which are woven into the official record, others of which are
 discarded. Contra Dennett, these narrative-building mechanisms very much
 provide a sense – a functional, behavioural, in many ways Dennettian
-sense – in which there is a gate, albeit a fuzzy one, though which
-things "pass" in order to "reach" consciousness. The gate is simply what
-separates content which is currently part of the official account of how
-it was to be me, from content which been discarded, or has not yet been
-folded into the narrative.
+sense – in which there is a gate, of sorts, though which things "pass"
+in order to "reach" consciousness. The gate is simply what separates
+content which is currently part of the official account of how it was to
+be me, from content which been discarded, or has not yet been folded
+into the narrative.
 
 It may be true that the gate kind of disappears – is
 [systematically elusive](https://books.google.co.uk/books?id=YXN4AgAAQBAJ&pg=PA175&lpg=PA175&dq=systematic+elusiveness+of+i&source=bl&ots=wn5t5rARGJ&sig=xupjnl751KcfK9UzrQnznwLs1qI&hl=en&sa=X&ved=0CDQQ6AEwA2oVChMIw5b6koWYxwIVA4_bCh2W7Ap8#v=onepage&q=systematic%20elusiveness%20of%20i&f=false),
