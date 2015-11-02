@@ -131,34 +131,20 @@ efforts by the brain should be interpreted as _constructors of a virtual
 finish line_, a functional, behavioural one, rather than a physical one,
 but a finish line nonetheless.
 
-One of our goals here was to understand what Dennett's arguments succeed
-at too. As with the
-[spatio-temporal ambiguity argument](multiple-drafts-dennett-spatio-temporal),
-non-monotonicity shows that conscious events simply cannot evolve in
-lock-step with brain events, since that would involve mental events
-being able to travel backwards in time or other such esoterica. This is
-perhaps the most important conclusion we should draw from the multiple
-drafts story: that there is no "irrefutable" narrative which is
-canonical – that represents the "actual" stream of consciousness of the
-subject. To put it another way, consciousness cannot at the level of
-micro-structure be the literal "leading edge of perceptual memory"
-([Lockwood, 1993](#lockwood93)) but must be a just-after-the-fact
-interpretation of what has happened thus far, an interpretation that is
-not immune to revision in the light of further evidence.
-
-So what does Dennett's deep insight about narrative revision _actually_
-reveal, if it in fact supports, rather than refutes, a functional
-version of the Cartesian Theatre? One thing it shows is that the content
-of phenomenonal consciousness cannot be a direct _correlate_ (in the
-sense of being in spatio-temporal lock-step with) the neural processing
-associated directly with perception (cf. Teller and Pugh, 1983). Such
-correspondence, if it exists, must be more topological or functional
-than topographical or spatial. This is an important lesson to come away
-with, given just how deep the “direct correspondence” intuition runs
-among scientists (see Chalmers, 1998, for a comprehensive list of some
-of “neural correlate” stories which have been told so far), but ipso
-facto has no relevance to the heterophenomenological case for the
-Virtual Cartesian Theatre.
+So what does Dennett's deep insight about consciousess-as-narrative
+_actually_ reveal, if it in fact supports, rather than refutes, a
+functional version of the Cartesian Theatre? One thing it shows is that
+the content of phenomenonal consciousness cannot be a direct _correlate_
+(in the sense of being in spatio-temporal lock-step with) the neural
+processing associated directly with perception (cf. Teller and Pugh,
+1983). Consciousness cannot be the literal "leading edge of perceptual
+memory" ([Lockwood, 1993](#lockwood93)). Such correspondence, if it
+exists, must be more topological or functional than topographical or
+spatial. This is an important lesson to come away with, given just how
+deep the “direct correspondence” intuition runs among scientists (see
+Chalmers, 1998, for a comprehensive list of some of “neural correlate”
+stories which have been told so far), but ipso facto has no relevance to
+the heterophenomenological case for the Virtual Cartesian Theatre.
 
 - - -
 
