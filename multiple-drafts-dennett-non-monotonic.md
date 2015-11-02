@@ -58,10 +58,10 @@ The apparent locus of the change is consistent with the interpolative
 nature of the apparent motion, and so is in a sense unsurprising. On the
 other hand, the switch to blue has _not yet occurred_ at the point in
 time at which – according to their subsequent verbal reports – the
-subject _experienced_ the switch to blue. So there does seem to be
+subject _experience_ the switch to blue. So there does seem to be
 something about our subjective experience that needs to be explained
 here: our consciousness appears to anticipate the change in colour
-before it occurs.
+before it occurs!
 
 Dennett does an excellent job of demystifying this apparent oddity. His
 explanation makes use of an insightful, and typically Dennettian,
@@ -70,13 +70,13 @@ representation, and the temporal properties of the representation
 itself. The key insight is that a judgement made by the brain can be
 _antedated_: its content given a earlier “postmark” which retroactively
 splices it into an unfolding account of what happened. If new data
-arrives which contradicts an earlier working hypothesis ("there is a
-green spot moving southeast"), the brain's interpretation of past events
-can be updated into a new best fit for the total stimulus received thus
-far. In this case, the problematic datum is the arrival of the first
-blue spot. Given that the new datum is consistent with inference to a
-moving spot, a reasonable hypothesis is that the spot changes colour at
-its inferred location in "interpolation space".
+arrive which contradict an earlier working hypothesis ("there is a green
+spot moving southeast"), the brain's interpretation of past events can
+be updated into a new best fit for the total stimulus received thus far.
+In this case, the problematic datum is the arrival of the first blue
+spot. Given that the new datum is consistent with inference to a moving
+spot, a reasonable hypothesis is that the spot changes colour at its
+inferred location in "interpolation space".
 
 By the time I am asked to describe what I saw, the record of "what I
 saw" has already been patched with the new interpretation, so that as
