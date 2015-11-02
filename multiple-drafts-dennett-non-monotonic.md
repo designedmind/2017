@@ -114,12 +114,13 @@ what seemed to happen, there is simply no fact of the matter about what
 seemed to happen. “There is no finish line”, as Dennett puts it
 ([1995](#dennett95)).
 
-This is too quick. Non-monotonicity certainly shows us that there is no
-immutable, canonical finish line which is the final word on the content
-of conscious experience. What we were conscious of is _a story told
-after the fact_ that best fits the available data, one which may be
-revised later. But this is not to say that there is no finish line, but
-rather to explain how the finish line works.
+This is too quick, and inconsistent with the functionalism to which
+Dennett is otherwise committed. Non-monotonicity certainly shows us that
+there is no immutable, canonical finish line which is the final word on
+the content of conscious experience. What we were conscious of is _a
+story told after the fact_ that best fits the available data, one which
+may be revised later. But this is not to say that there is no finish
+line, but rather to explain how the finish line works.
 
 Dennett reveals the effort the brain goes to to antedate various
 judgements in the colour phi experiments. But why does the brain bother
@@ -132,20 +133,25 @@ behavioural one, rather than a physical one, but a finish line
 nonetheless.
 
 So what does Dennett's deep insight about consciousness-as-narrative
-_actually_ reveal, if it in fact supports, rather than refutes, a
-functional version of the Cartesian Theatre? One thing it shows is that
-the content of phenomenonal consciousness cannot be a direct _correlate_
-(in the sense of being in spatio-temporal lock-step with) the neural
-processing associated directly with perception (cf. Teller and Pugh,
-1983). Consciousness cannot be the literal "leading edge of perceptual
-memory" ([Lockwood, 1993](#lockwood93)). A very common intuition about
+reveal, if it in fact supports, rather than refutes, a functional
+version of the Cartesian Theatre? One thing it shows is that the content
+of phenomenonal consciousness cannot be a direct _correlate_ (in the
+sense of being in spatio-temporal lock-step with) the neural processing
+associated directly with perception (cf.
+[Teller and Pugh, 1983](#teller83)). A very common intuition about
 consciousness is that for every perceptual judgement, there is
 (simultaneously, but mysteriously) a corresponding conscious
 "judgement", and that these two kinds of judgement are in a one-to-one,
-real-time correspondence. (See Chalmers, 1998, for a comprehensive list
-of some of “neural correlate” stories which have been told so far.)
+real-time correspondence. (See [Chalmers, 1998](chalmers98), for a
+comprehensive list of some of “neural correlate” stories which have been
+told so far.)
 
 - - -
+
+<a name="chalmers98"></a>Chalmers, D. (1998).
+[On the Search for the Neural Correlate of Consciousness.]() In
+Hameroff, S., Kaszniak, A. and Scott, A. (eds). _Towards a Science of
+Consciousness II: The Second Tuscon Discussions and Debates._ MIT Press.
 
 <a name="dennett91a"></a>Dennett, Daniel C. (1991).
 [Consciousness Explained](). Little, Brown.
@@ -160,9 +166,6 @@ Harvester. Hassocks, Sussex.
 <a name="kolers76"></a>Kolers, P. and von Grünau, M. (1976).
 [Shape and Colour in Apparent Motion.]() _Vision Research 16_, pp.
 329-335.
-
-<a name="lockwood93"></a>Lockwood, M. (1993). Dennett's Mind. _Inquiry
-36._
 
 <a name="teller83"></a>Teller, D. Y. and Pugh, E. N., Jr. (1983).
 [Linking Propositions in Colour Vision.]() In Mollon, J. D. and Sharpe,

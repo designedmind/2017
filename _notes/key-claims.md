@@ -44,10 +44,9 @@
 # Phenomenology
 
 * Consciousness as the leading edge of perceptual memory -- yes, but not
-  in the sense intended by whoever it was who said this. It's not that
-  phenomenal experience comes first and is then etched down into memory;
-  rather, phenomenal experience _is_ a kind of readily accessible
-  perceptual memory.
+  in the sense intended by Lockwood. It's not that phenomenal experience
+  comes first and is then etched down into memory; rather, phenomenal
+  experience _is_ a kind of readily accessible perceptual memory.
 
 * Need to be aware of Block's distinction between "access" and
   "phenomenal" consciousness.
