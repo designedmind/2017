@@ -133,18 +133,26 @@ behavioural one, rather than a physical one, but a finish line
 nonetheless.
 
 So what does Dennett's deep insight about consciousness-as-narrative
-reveal, if it in fact supports, rather than refutes, a functional
-version of the Cartesian Theatre? One thing it shows is that the content
-of phenomenonal consciousness cannot be a direct _correlate_ (in the
-sense of being in spatio-temporal lock-step with) the neural processing
+reveal, if it in fact supports, rather than refutes, the functional
+Cartesian Theatre? One thing it shows is that the content of
+phenomenonal consciousness cannot be a direct _correlate_ (in the sense
+of being in spatio-temporal lock-step with) the neural processing
 associated directly with perception (cf.
 [Teller and Pugh, 1983](#teller83)). The "neural correlate" intuition
 about consciousness often goes like this: for every perceptual
 judgement, there is (simultaneously, but mysteriously) a corresponding
 conscious "judgement", and moreover these two kinds of judgement are in
 a one-to-one, real-time correspondence. (See
-[Chalmers, 1998](chalmers98), for a comprehensive list of some of
-“neural correlate” stories which have been told so far.)
+[Chalmers, 1998](chalmers98), for a comprehensive list of some of of the
+neural correlate stories which have been told so far.) The neural
+correlate intuition (at least in this naive form) and the "further fact"
+intuition (a.k.a. the zombie hunch) go hand-in-hand: construed this way,
+phenomenonology has no functional role to play, since it is just
+"inwardly observed" perception.
+
+What Dennett shows us is that _phenomenology is functionality_; it is a
+particular way of organising perceptual judgements into a narrative that
+has a central role to play in the generation of behaviour.
 
 - - -
 
