@@ -86,58 +86,51 @@ actually occurs. There is no paradox:
 > move before the brain events that purportedly cause them”
 > ([Dennett and Kinsbourne, 1992](#dennett92)).
 
-Thus, a judgement made at time _t_ can be "about" how the world seemed
-at some _earlier_ time _t'_. Dennett's dangerous idea is that this
-unfolding narrative is _constitutive of_ the content of our
-consciousness, that there is nothing more to phenomenonal consciousness
-than more-or-less-retroactively constructed judgements about the way the
-world is.
-
-Only when comparing the subject's reported stream of consciousness to
-the timing of external events do we find a putative anomaly, and
-Dennett's account of the narrative-building process explains these data
-quite comfortably. (For further discussion, see
+Only when comparing "virtual time", in the subject's reported stream of
+consciousness, to "actual time", as determined by external events, do we
+find a putative anomaly, and Dennett's _ex post facto_ narrative-editing
+account explains these data elegantly. (For further discussion, see
 [Dennett, 1991a](#dennett91a) and [Dennett, 1995](#dennett95).)
 
-A useful short-hand for this susceptibility to future revision is
-_non-monotonicity_. A system of reasoning is _monotonic_ if additional
-data can never cause the retraction of any conclusions made thus far;
-consciousness is not monotonic, in that the acquisition of new
-information can force a change in inferences already made. Dennett's
-explanation of the colour phi in terms of non-monotonic narrative
-construction and revision is a genuine breakthrough in the understanding
-of consciousness. However, he sees his narrative-building story as an
-account of the phenomena that side-steps any notion of inner
-presentation, even one purely functional in nature.
+Thus, a perceptual judgement made at time _t_ can be "about" how the
+world seemed at some _earlier_ time _t'_, and overwrite an earlier
+judgement made about time _t'_. A technical term for this kind of
+susceptibility to future revision is _non-monotonicity_; a system of
+reasoning is _monotonic_ only if additional data can never cause the
+retraction of earlier conclusions. Perceptual inference is
+non-monotonic, in that the acquisition of new information can force a
+change in inferences already made.
 
-The line roughly runs: since the brain can change its mind about what
-seemed to happen, there is simply no fact of the matter about what
-seemed to happen. “There is no finish line”, as Dennett puts it
-([1995](#dennett95)). Unfortunately although non-monotonicity
-successfully dispenses with the notion of a canonical or objective
-finish line which is the ultimate authority on our conscious experience,
-it does not in any way preclude the possibility of something which
-behaviourally amounts to an “official” finish line, just one that is
-subject to occasional revision. Indeed, and perhaps ironically,
-Dennett's Multiple Drafts Model in general, and his account of colour
-phi in particular, amount to a theory of how just such a behavioural
-finish line might actually come about. It is all very well to talk of
-the efforts the brain goes to to pre-date various judgements in the
-colour phi experiments, but this immediately raises the question of why
-the brain even bothers to do this antedating. The natural explanation is
-that it does so in order to maximise the local integrity of the
-narrative precisely so that there is, at any point in time, a single
-official picture of “how it was to be me” at some earlier time. These
-kinds of editing efforts by the brain should therefore be interpreted as
-constructors of a virtual finish line, a functional, behavioural one,
-rather than a physical one. So where Dennett-the-anti-Cartesian wants to
-conclude, from non-monotonicity, that there is no fact of the matter as
-to how it was to be me (at t), Dennett-the-functionalist's reply would
-be to say that at any subsequent time t', there are indeed facts of the
-matter as to how it was to be me at t, and those facts are solely
-determined by the t-related content of the narrative at t'; it just so
-happens that at some other subsequent time t'', there may be a different
-facts of the matter about how it was to be me at t.
+Dennett's explanation of colour phi in terms of non-monotonic narrative
+construction and revision is a profound insight into visual
+phenomenonology. Dennett's even more radical idea is that this unfolding
+narrative is _constitutive of_ the content of our consciousness, that
+there is nothing more to phenomenonal consciousness than
+more-or-less-retroactively constructed judgements about the way the
+world is. The reason that Dennett's account hasn't been more widely
+accepted is, I think, due to his insistence that his narrative-building
+story is an _elimination of_, rather than _explanation of_, any notion
+of inner presentation. His argument roughly runs: since the brain can
+change its mind about what seemed to happen, there is simply no fact of
+the matter about what seemed to happen. “There is no finish line”, as
+Dennett puts it ([1995](#dennett95)).
+
+This is too quick. Non-monotonicity shows us that there is no immutable,
+canonical finish line which serves as the final word on the content of
+our conscious experience. What we were conscious of is _a story told
+after the fact_ that best fits the available data, one which may be
+revised later. But this is not to show that there is no finish line, but
+rather to explain how the finish line works.
+
+Dennett reveals the effort the brain goes to to antedate various
+judgements in the colour phi experiments. But why does the brain bother
+to patch its interpretation of past events? Presumably it goes to this
+effort _precisely_ so that there is, at any point in time, an official
+picture of “how it was to be me” at some earlier time, even if that
+narrative is a transient artefact that may be revised again in the
+future. These kinds of editing efforts by the brain should be
+interpreted as _constructors of a virtual finish line_, a functional,
+behavioural one, rather than a physical one.
 
 This susceptibility to revision is hardly unique to mental events, after
 all. In formal systems, monotonicity is a often a desirable
