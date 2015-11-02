@@ -138,13 +138,13 @@ version of the Cartesian Theatre? One thing it shows is that the content
 of phenomenonal consciousness cannot be a direct _correlate_ (in the
 sense of being in spatio-temporal lock-step with) the neural processing
 associated directly with perception (cf.
-[Teller and Pugh, 1983](#teller83)). A very common intuition about
-consciousness is that for every perceptual judgement, there is
-(simultaneously, but mysteriously) a corresponding conscious
-"judgement", and that these two kinds of judgement are in a one-to-one,
-real-time correspondence. (See [Chalmers, 1998](chalmers98), for a
-comprehensive list of some of “neural correlate” stories which have been
-told so far.)
+[Teller and Pugh, 1983](#teller83)). The "neural correlate" intuition
+about consciousness often goes like this: for every perceptual
+judgement, there is (simultaneously, but mysteriously) a corresponding
+conscious "judgement", and moreover these two kinds of judgement are in
+a one-to-one, real-time correspondence. (See
+[Chalmers, 1998](chalmers98), for a comprehensive list of some of
+“neural correlate” stories which have been told so far.)
 
 - - -
 
