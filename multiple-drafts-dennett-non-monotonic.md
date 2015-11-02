@@ -13,22 +13,21 @@ is to determine the content of our phenomenal world."
 
 {% include linkrefs.html %}
 
-So it would seem that
-[spatio-temporal smearing](multiple-drafts-dennett-spatio-temporal.html)
-presents no particular problem for the (functional) Cartesian Theatre.
 Dennett's next attempt to eliminate the Theatre is based on another
-revealing empirical phenomenon, the susceptibility of conscious content
+revealing empirical phenomenon: the susceptibility of conscious content
 to _revision_ in the light of further input or processing. Dennett does
-a brilliant job of deconstructing the apparent oddity of these temporal
-tricks, showing how they can be made sense of by understanding
-consciousness as an _ex post facto_ interpretation of reality, rather
-than a real-time "phenomenal correlate" of perceptual processing.
+a brilliant job of deconstructing these apparent temporal oddities,
+showing how they can be made sense of by understanding consciousness as
+an _ex post facto_ interpretation of reality, rather than a real-time
+"phenomenal correlate" of perceptual processing. Less convincingly, he
+tries to present this view of consciousness as evidence against anything
+resembling an inner presentation. On closer scrutiny a functional inner
+presentation is exactly what his theory explains.
 
-The empirical component of Dennett's argument draws mainly on the
-so-called
+The empirical phenomenon of interest is the so-called
 [colour phi](https://en.wikipedia.org/wiki/Color_phi_phenomenon) effect.
 The phi phenomenon is the illusion of apparent motion, familiar as the
-basis for film and television, caused by viewing a series of still
+basis of film and television, that arises when we view a series of still
 images in rapid succession. Consider a small spot of light flashed on a
 screen, and then displayed again at a position translated slightly to
 the right, and so on at frequent intervals. If the time interval is
@@ -45,10 +44,11 @@ locus of the change.
 
 The figure on the left below depicts the transition between the two
 colours as it actually happens, showing the last green spot and the
-first blue spot. The figure on the right shows the reported percept. The
-spot seems to change colour mid-trajectory, at a spatio-temporal
-location roughly halfway between the last green spot and the first blue
-spot ([Kolers and von Grünau, 1976](#kolers76)).
+first blue spot in the sequence. The figure on the right shows how the
+change is reported by the subject after the whole sequence has been
+displayed. The spot seems to change colour mid-trajectory, at a
+spatio-temporal location roughly halfway between the last green spot and
+the first blue spot ([Kolers and von Grünau, 1976](#kolers76)).
 
 | Shown         | Reported      |
 |--------------:|--------------:|
