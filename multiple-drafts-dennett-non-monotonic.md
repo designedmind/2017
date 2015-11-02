@@ -138,13 +138,12 @@ the content of phenomenonal consciousness cannot be a direct _correlate_
 (in the sense of being in spatio-temporal lock-step with) the neural
 processing associated directly with perception (cf. Teller and Pugh,
 1983). Consciousness cannot be the literal "leading edge of perceptual
-memory" ([Lockwood, 1993](#lockwood93)). Such correspondence, if it
-exists, must be more topological or functional than topographical or
-spatial. This is an important lesson to come away with, given just how
-deep the “direct correspondence” intuition runs among scientists (see
-Chalmers, 1998, for a comprehensive list of some of “neural correlate”
-stories which have been told so far), but ipso facto has no relevance to
-the heterophenomenological case for the Virtual Cartesian Theatre.
+memory" ([Lockwood, 1993](#lockwood93)). A very common intuition about
+consciousness is that for every perceptual judgement, there is
+(simultaneously, but mysteriously) a corresponding conscious
+"judgement", and that these two kinds of judgement are in a one-to-one,
+real-time correspondence. (See Chalmers, 1998, for a comprehensive list
+of some of “neural correlate” stories which have been told so far.)
 
 - - -
 
