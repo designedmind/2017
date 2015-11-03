@@ -74,9 +74,9 @@ arrive which contradict an earlier working hypothesis ("there is a green
 spot moving southeast"), the brain's interpretation of past events can
 be updated into a new best fit for the total stimulus received thus far.
 In this case, the problematic datum is the arrival of the first blue
-spot. Given that the new datum is consistent with inference to a moving
-spot, a reasonable hypothesis is that the spot changes colour at its
-inferred location in "interpolation space".
+spot. Given that the new datum is consistent with the inference that
+there is a moving spot, a reasonable hypothesis is that the spot changes
+colour at its inferred location in "interpolation space".
 
 By the time I am asked to describe what I saw, the record of "what I
 saw" has already been patched with the new interpretation, so that as
