@@ -23,7 +23,7 @@ be me, from content which been discarded, or has not yet been folded
 into the narrative.
 
 It may be true that the gate kind of disappears – is
-[systematically elusive](https://books.google.co.uk/books?id=YXN4AgAAQBAJ&pg=PA175&lpg=PA175&dq=systematic+elusiveness+of+i&source=bl&ots=wn5t5rARGJ&sig=xupjnl751KcfK9UzrQnznwLs1qI&hl=en&sa=X&ved=0CDQQ6AEwA2oVChMIw5b6koWYxwIVA4_bCh2W7Ap8#v=onepage&q=systematic%20elusiveness%20of%20i&f=false),
+[systematically elusive](https://en.wikipedia.org/wiki/The_Concept_of_Mind),
 one might say, to echo Ryle's evocative description of the self – as you
 get closer to the mechanisms that realise it. One will notice inputs
 that get processed but for some reason never have any effect on
