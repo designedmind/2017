@@ -1,11 +1,18 @@
 ---
-last_updated: August 24, 2015
+last_updated: May 9, 2016
 
 summary: "Phenomenal consciousness has a clear functional role: to allow
 an agent to make decisions, justify actions and communicate beliefs in
 which perceptual content serves as data."
 
 ---
+
+> There is a baffling problem about what consciousness is for. It is
+> equally baffling, moreover, that the function of consciousness should
+> remain so baffling. It seems extraordinary that despite the
+> pervasiveness and familiarity of consciousness in our lives, we are
+> uncertain in which way (if at all) it is actually indispensable to us.
+> ([H. G. Frankfurt, 1988](#frankfurt88))
 
 The lingering materialist suspicion is that the kinds of judgements we
 have been discussing – filling in judgements, inferences about temporal
@@ -57,3 +64,8 @@ respect to low-level or pre-cognitive perceptual content. There is
 nothing mystical, immaterial or redundant about this, nor does it run
 counter to evolutionary theory. There is a good case therefore for the
 idea that it is our materialist intuitions that are at fault.
+
+- - -
+
+<a name="frankfurt88"></a>Frankfurt, H. G. (1988).
+[The Importance of What We Care About](). Cambridge University Press.
