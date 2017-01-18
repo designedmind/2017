@@ -308,7 +308,10 @@ footer p {
 }
 input::selection {
   text-shadow: none;
-  background: #fcfcfc;
+  background: rgb(200, 200, 200);
+}
+input::-moz-selection {
+  text-shadow: none;
   background: rgb(200, 200, 200);
 }
 img::selection {
