@@ -1,11 +1,16 @@
-                          Designed Mind 2017
+                           DESIGNED MIND 2017
                    Symposium on the Function, Evolution
                     & Implementation of Consciousness
                            Edinburgh, Scotland
                             8-9 November 2017
                          http://designedmind.org
 
-Points to make:
+INVITED SPEAKERS
+
+Daniel C. Dennett, Tufts University
+Michael Graziano, Princeton University
+
+REPRESENTING OURSELVES
 
 * 
 
@@ -13,3 +18,11 @@ Points to make:
 
 Mention:
 Dennett, Graziano, Meztinger, Hohwy, Merker, Arbib, Cosmides & Tooby
+
+ORGANISING COMMITTEE
+PC Chair:            Roly Perera, University of Edinburgh
+Publication Chairs:  Takuya Nikawa, Chiba University
+                     Max Jones, University of Bristol
+Publicity Chair:     Aïda Raoult, Institut Jean Nicod
+
+PROGRAM COMMITTEE
