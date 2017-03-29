@@ -19,7 +19,7 @@ _identifying_ consciousness with some kind of general-purpose
 information-processing or informational complexity, with no real insight into
 why such an identification makes sense, or accept consciousness as an emergent
 epiphenomenon, something that comes along for the ride whenever information is
-processed in complex ways. This relegates consciousness to a rather passive
+processed in complex ways. These relegate consciousness to a rather passive
 role, serendipitous but otherwise useless, free of specifics that distinguish
 it from any other kind of information processing that occurs in the biological
 world.
@@ -59,21 +59,23 @@ treats consciousness as a specific set of behavioural capabilities, a
 repertoire that _includes_ my insistence that consciousness transcends mere
 behaviour.
 
-* **Explaining the &ldquo;further fact&rdquo; intuition.**
+* **Explaining the &ldquo;further fact&rdquo; intuition.** Ryle wrote that
+  &ldquo;To explode a myth is...not to deny the facts but to re-allocate
+  them.&rdquo;.
 
-* **Role of language.** An argument from homology is often used to make the
-  case for animal consciousness. Certain patterns of neuronal activation are
-  correlated with consciousness in people, and the brain structures involved
-  have homologues that are tens of millions of years old, so a reasonable
-  inference seems to be that consciousness is that old. The behavioural
-  perspective suggests caution here: unless an organism exhibits the specific
-  capabilities associated with consciousness, we should be cautious in
-  ascribing consciousness, regardless of homology. Michael Arbib for example
-  has argued that consciousness evolved in part to explicitly represent and
-  communicate précis of intended behaviour. These arguments get more subtle in
-  the cases of humans who were not exposed to language during the crucial
-  developmental window or who suffer from &ldquo;locked in&rdquo; syndrome,
-  conscious but unable to outwardly behave.
+* **Brain homologies and animal consciousness.** Brain structures implicated
+  in consciousness in humans evolved tens of millions of years ago, so a
+  reasonable inference seems to be that consciousness may be found in any
+  organism with homologous structures. The behavioural perspective suggests
+  caution here: unless an organism exhibits the specific capabilities
+  associated with consciousness, we should be wary of ascribing consciousness,
+  regardless of homology.
+
+* **Role of language.** Michael Arbib has argued that consciousness evolved in
+  part to explicitly represent and communicate précis of intended behaviour.
+  These arguments get more subtle in the cases of humans who were not exposed
+  to language during the crucial developmental window or who suffer from
+  &ldquo;locked in&rdquo; syndrome, conscious but unable to outwardly behave.
 
 * **Consciousness as meta-representation.** Metzinger, Merker and others have
   argued that it is enough to have a unified world representation to have
@@ -99,6 +101,7 @@ behaviour.
 
 SUBMISSIONS
 
+Papers should be no more than 8 pages in length. https://easychair.org/conferences/?conf=dm2017
  
 Mention: Dennett, Graziano, Hohwy, Seth, Lli\'as et al, 
 
