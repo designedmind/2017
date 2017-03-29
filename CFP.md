@@ -12,20 +12,19 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-A pervasive assumption, held by scientists and non-scientists alike, is that
-consciousness is so distinct and mysterious that understanding it
-scientifically will require a new _kind_ of scientific explanation: either we
-will need to admit consciousness as a new, all-pervasive primitive phenomenon
-in the world, or content ourselves with _identifying_ consciousness with some
-kind of general-purpose information-processing, with no real insight into why
-such an identification makes sense. This starting point relegates
-consciousness to a rather passive role, serendipitous but otherwise useless,
-is free of specifics that distinguish it from any other kind of information
-processing that occurs in the biological world.
+Consciousness is often held to be so distinct a phenomenon that a theory of it
+will require a new kind of science, perhaps one which posits consciousness as
+an all-pervasive primitive feature of the universe. At best, we will have to
+content ourselves with _identifying_ consciousness with some kind of
+general-purpose information-processing, with no real insight into why such an
+identification makes sense. This relegates consciousness to a rather passive
+role, serendipitous but otherwise useless, free of specifics that distinguish
+it from any other kind of information processing that occurs in the biological
+world.
 
-This is a compelling intuition, but conspicuously neglects the distinct role
-that consciousness plays in our overt behaviour. Human beings have a rich set
-of consciousness-related capabilities: they can describe the world _from a
+This is a compelling intuition, but neglects the distinct role that
+consciousness plays in our behaviour. Human beings have a rich set of
+consciousness-related capabilities: they can describe the world _from a
 vantage point_, report on how things _seem_ from that vantage point, summarise
 their goals and plans, explain the world around them in terms of possibilities
 for action, and justify the actions they take in terms of consciously held
@@ -42,15 +41,34 @@ and communicate précis of intended behaviour.
 The aim of this symposium is to gather researchers who agree that _these
 behaviours_ are the proper target, or explanandum, of a science of
 consciousness. What seems (from the inside) to be a "private realm" is a
-functional mechanism that exists in the public world: an internal behavioural
+functional mechanism that exists in the public world: a brain's behavioural
 interface to the world, designed by evolution to enable new levels of
 autonomy, self-monitoring and deliberative action. By representing not only
 the world and its affordances for action, but also _ourselves_ as embodied
-agents in the world. As Thomas Metzinger has noted, the world-model is
-"transparent" to us: we cannot easily appreciate it as a model. Indeed, "we"
-only exist in virtue of the model, as its central feature.
+agents in the world, and ultimately ourselves _as representers_, the evolving
+brain converged on the _self_ as the solution to a control problem. As Thomas
+Metzinger has noted we cannot easily appreciate the world-model as a model,
+because "we" only exist in virtue of the model, as its central feature.
+
+THEMES AND TOPICS
 
 Mention: Ryle, Dennett, Graziano, Ramanchandran, Hohwy, Merker, Cosmides
+
+SPEAKER BIOS
+
+Daniel C. Dennett, author of Consciousness Explained (Little, Brown and Co.,
+1991), Freedom Evolves (Viking Penguin, 2003) and Darwin's Dangerous Idea
+(Simon & Schuster, 1995), is University Professor and Austin B. Fletcher
+Professor of Philosophy, and Co-Director of the Center for Cognitive Studies
+at Tufts University.
+
+Michael Graziano, author of Consciousness and the Social Brain (Oxford
+University Press, 2013) is Professor of Psychology and Neuroscience at
+Princeton University.
+
+SUBMISSIONS
+
+
 
 AFFILIATED WORKSHOP 
 
