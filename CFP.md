@@ -15,56 +15,54 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-Consciousness is often presumed to require a new kind of science, perhaps one
-which posits consciousness as an all-pervasive feature of the universe. Two
-popular options seem to be to _identify_ consciousness with some kind of
-general-purpose information-processing or informational complexity, with no
-real insight into why such an identification makes sense, or to accept
-consciousness as an emergent epiphenomenon, something that comes along for the
-ride whenever information is processed in complex ways. These prospects
-relegate consciousness to a rather passive role, serendipitous but otherwise
-useless, bereft of specific features that distinguish it from information
-processing in general.
+Many feel that consciousness will require a new kind of science, perhaps one
+which posits consciousness as an all-pervasive attribute of the universe. One
+option is to _identify_ consciousness with some kind of general-purpose
+information-processing or informational complexity, with no real insight into
+why such an identification makes sense; another is to accept consciousness as
+an emergent epiphenomenon, something that comes along for the ride whenever
+information is processed in complex ways. These prospects relegate
+consciousness to a passive role, serendipitous but otherwise useless, bereft
+of specific features that distinguish it from information processing in
+general.
 
-This is a powerful intuition, but neglects the distinct role that
-consciousness plays in our behaviour. Human beings have a rich set of
-consciousness-related capabilities: they can describe the world _from a
-vantage point_, contrast how things _seem_ from that vantage point with how
-they believe the world to be, summarise their goals and plans, explain the
-world around them in terms of possibilities for action, and justify the
-actions they take in terms of consciously held beliefs, desires and feelings.
-While we intuit strongly that these things could somehow happen without "the
-light being on" inside, we remain curiously oblivious to the fact that this
-feature of our phenotype -- elaborate behaviour oriented around an ostensibly
-private mental life -- is being driven by psychological mechanisms taking
-place in the physical world.
+Moreover, these perspectives neglect the distinct role that consciousness
+plays in our behaviour. Human beings have a rich set of consciousness-related
+capabilities: they can describe the world _from a vantage point_, contrast how
+things _seem_ from that vantage point with how they believe the world to be,
+summarise their goals and plans, explain the world around them in terms of
+possibilities for action, and justify the actions they take in terms of
+consciously held beliefs, desires and feelings. While we intuit strongly that
+these things could somehow happen without &ldquo;the light being on&rdquo;
+inside, we remain curiously oblivious to the fact that this feature of our
+phenotype &mdash; elaborate behaviour oriented around an ostensibly private
+mental life &mdash; is driven by psychological mechanisms taking place in the
+physical world.
 
 _These behaviours_ are the proper target, or explanandum, of a science of
 consciousness. It is our _belief_ in the Hard Problem which needs to be taken
-seriously, not the Hard Problem itself. What we intuit as a "private realm" is
-a functional mechanism operating in the public world: a brain's behavioural
-interface to the environment, designed by evolution to enable new levels of
-autonomy, self-monitoring and deliberative action.
+seriously, not the Hard Problem itself. What we intuit as a &ldquo;private
+realm&rdquo; is a functional mechanism operating in the public world: a
+brain's behavioural interface to the environment, designed by evolution to
+enable new levels of autonomy, self-monitoring and deliberative action.
 
-This perspective on consciousness is unintuitive at first, but a growing body
+This perspective on consciousness seems radical at first, but a growing body
 of evidence shows it to be capable of reconciling the scientific image with
-our intuitions about ourselves. By representing not only the world and its
-affordances for action, but also _ourselves_ as embodied agents in the world,
-and ultimately ourselves _as representers_, the evolving brain converged on
-the _self_ as the solution to a control problem. We cannot easily appreciate
-the world-model as a model, because "we" only exist in virtue of the model, as
-its central feature.
-
-The workshop is a forum to elaborate, discuss and critique this emerging
-scientific picture of consciousness as functional mechanism. We invite
-perspectives from philosophy, psychology, neuroscience and informatics.
+our naive self-image. By representing not only the world and its affordances
+for action, but also _ourselves_ as embodied agents in the world, and
+ultimately ourselves _as representers_, the evolving brain converged on the
+_self_ as the solution to a control problem. We cannot easily appreciate the
+world-model as a model, because &ldquo;we&rdquo; only exist in virtue of the
+model, as its central feature.
 
 POSSIBLE THEMES AND TOPICS
 
-These are not meant to constrain, but merely to highlight areas where we feel
-there are opportunities to make progress, in particular areas where there is a
-tension between the emerging behavioural/functional picture, and our
-deeply-held intuitions.
+The symposium is a forum to elaborate, discuss and critique this emerging
+scientific picture of consciousness as functional mechanism. We invite
+perspectives from philosophy, psychology, neuroscience and informatics. The
+following list of topics is not meant to constrain, but merely to highlight
+areas where we feel there are important issues or opportunities to make
+progress:
 
 * **Confronting the &ldquo;further fact&rdquo; intuition.** The further-fact
   intuition is so compelling that many hold it be self-evident. It underlies
@@ -79,16 +77,16 @@ deeply-held intuitions.
   neuroscientists have argued that we will find (primitives forms of)
   consciousness wherever we find homologous structures. These claims seem to
   be in tension with accounts that associate consciousness with specific forms
-  of autonomy and behavioural flexibility. Are they too liberal?
+  of autonomy and behavioural flexibility. Do they risk being too liberal?
 
 * **Role of language.** If homology arguments can seem overly liberal,
   behavioural accounts risk being overly conservative, in linking
   consciousness to self-reports and inevitably to language. Nevertheless, in
-  the animal kingdom, the human behavioural phenotype is uniquely flexible and
-  it seems plausible that the evolution of consciousness and the evolution of
-  language are tied both with each other and with this enhanced flexibility.
-  Michael Arbib for example has argued that consciousness evolved in part to
-  explicitly represent and communicate précis of intended behaviour.
+  the animal kingdom, the human behavioural phenotype is uniquely flexible.
+  What evidence is there relating the evolution of consciousness to the
+  evolution of language and to this enhanced flexibility? Michael Arbib for
+  example has argued that consciousness evolved in part to explicitly
+  represent and communicate précis of intended behaviour.
 
 * **Consciousness and free will.** According to Daniel Dennett, consciousness
   is an evolutionary innovation that situates a virtual agent at the narrative
@@ -104,15 +102,16 @@ deeply-held intuitions.
   phenomenal consciousness, suggesting that (primitive) consciousness is
   evolutionarily ancient. Others claim that phenomenal consciousness
   necessarily involves _meta-representation_, reflective modelling of our own
-  perceptual representations. What would decide between these two
-  possibilities?
+  perceptual representations. Again, from the behavioural/functional
+  perspective, the former risks being overly liberal. What would decide
+  between these two possibilities?
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
-  &ldquo;Cartesian materialism&rdquo;, the idea that everything "comes
-  together" for consciousness as some kind of internal re-presentation. A key
-  question for functionalism is deciding which parts of the Cartesian image
-  are to to be discarded and which retained as valid components of a plausible
-  folk theory or mature neuroscience of consciousness.
+  &ldquo;Cartesian materialism&rdquo;, the idea that everything &ldquo;comes
+  together&rdquo; for consciousness in some kind of internal re-presentation.
+  A key question for functionalism is deciding which parts of the Cartesian
+  image are to to be discarded and which retained as valid components of a
+  plausible folk theory or mature neuroscience of consciousness.
 
 * **Programming conscious machines.** A mechanistic theory of consciousness
   is, by definition, something which can be implemented. This raises the
@@ -168,5 +167,4 @@ ORGANISING COMMITTEE
 
 PROGRAMME COMMITTEE
 
-Sam Wilkinson, University of Edinburgh
-[Others TBC]
+[TBC]
