@@ -44,11 +44,16 @@ are the proper target, or explanandum, of a science of consciousness. What we
 intuit as a "private realm" is a functional mechanism operating in the public
 world: a brain's behavioural interface to the environment, designed by
 evolution to enable new levels of autonomy, self-monitoring and deliberative
-action. By representing not only the world and its affordances for action, but
-also _ourselves_ as embodied agents in the world, and ultimately ourselves _as
-representers_, the evolving brain converged on the _self_ as the solution to a
-control problem. We cannot easily appreciate the world-model as a model,
-because "we" only exist in virtue of the model, as its central feature.
+action. It is our _belief_ in the Hard Problem which needs to be taken
+seriously, not the Hard Problem itself.
+
+This perspective on consciousness is unintuitive at first, but a growing body
+of evidence shows it to be . By representing not only the world and its
+affordances for action, but also _ourselves_ as embodied agents in the world,
+and ultimately ourselves _as representers_, the evolving brain converged on
+the _self_ as the solution to a control problem. We cannot easily appreciate
+the world-model as a model, because "we" only exist in virtue of the model, as
+its central feature.
 
 Of course, there is a distinct lack of consensus that this is indeed the
 explanandum. The workshop is therefore planned as forum to build more
@@ -57,44 +62,32 @@ and informatics.
 
 POSSIBLE THEMES AND TOPICS
 
-Phenomenology-first takes the Hard Problem seriously; behaviour-first takes
-our _belief_ in the Hard Problem seriously, but not the Hard Problem itself.
-
-A key goal of the symposium is to build more consensus around behaviour-first
-as the only sound basis for a science of consciousness. Suitable topics
-include, but are not in any way limited to:
+These are not meant to constrain, but merely to highlight areas where we feel
+there are opportunities to make progress.
 
 * **Confronting the &ldquo;further fact&rdquo; intuition.** The further-fact
   intuition is so compelling that many hold it be self-evident. It underlies
   not only David Chalmer's so-called Hard Problem, but also the plausibility
-  of philosophical zombies and inverted spectra, Frank Jackson's
-  &ldquo;Knowledge Argument&rdquo;, Rodolfo Llinás view of the role of
-  thalamocortical oscillations, and Giulio Tononi's Integrated Information
-  Theory. Yet according to the functionalist view, it is false. A challenge
-  for the functionalist story then is to explain _why_ it seems so obvious
-  that consciousness is something non-functional, if it is precisely the
-  opposite.
+  of philosophical zombies and inverted spectra. Yet according to the
+  functionalist view, it is false. A challenge for the functionalist story
+  then is to explain _why_ it seems so obvious that consciousness is something
+  non-functional, if it is precisely the opposite.
  
 * **Brain homologies and animal consciousness.** Brain structures implicated
   in consciousness in humans evolved tens of millions of years ago. Many
   neuroscientists have argued that we will find (primitives forms of)
-  consciousness wherever we find homologous structures. The behavioural
-  perspective suggests caution here: unless an organism exhibits the specific
-  capabilities associated with consciousness, we should be wary of ascribing
-  consciousness, even in the presence of obvious clohomologies.
+  consciousness wherever we find homologous structures. Are these suppositions
+  consistent with functional/behavioural perspectives, or are they too
+  liberal?
 
-* **Role of language.** If homology arguments can be overly liberal,
+* **Role of language.** If homology arguments can seem overly liberal,
   behavioural accounts risk being overly conservative, in linking
   consciousness to self-reports and inevitably to language. Nevertheless, in
   the animal kingdom, the human behavioural phenotype is uniquely flexible and
   it seems plausible that the evolution of consciousness and the evolution of
   language are tied both with each other and with this enhanced flexibility.
   Michael Arbib for example has argued that consciousness evolved in part to
-  explicitly represent and communicate précis of intended behaviour. Tying
-  consciousness to language is problematic in the cases of humans who were not
-  exposed to language during the crucial developmental window or who suffer
-  from &ldquo;locked in&rdquo; syndrome, conscious but unable to outwardly
-  behave.
+  explicitly represent and communicate précis of intended behaviour.
 
 * **Consciousness and free will.** According to Daniel Dennett, consciousness
   is an evolutionary innovation that situates a virtual agent at the narrative
