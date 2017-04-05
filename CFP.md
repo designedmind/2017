@@ -15,17 +15,16 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-Consciousness is often held to be so mysterious that a theory of it will
-require a new kind of science, perhaps one which posits consciousness as an
-all-pervasive feature of the universe. We may have to content ourselves with
-_identifying_ consciousness with some kind of general-purpose
-information-processing or informational complexity, with no real insight into
-why such an identification makes sense, or accept consciousness as an emergent
-epiphenomenon, something that comes along for the ride whenever information is
-processed in complex ways. This prospect relegates consciousness to a rather
-passive role, serendipitous but otherwise useless, bereft of specific
-characteristics that distinguish it from any other kind of information
-processing that occurs in the biological world.
+Consciousness is often presumed to require a new kind of science, perhaps one
+which posits consciousness as an all-pervasive feature of the universe. Two
+popular options seem to be _identifying_ consciousness with some kind of
+general-purpose information-processing or informational complexity, with no
+real insight into why such an identification makes sense, or accepting
+consciousness as an emergent epiphenomenon, something that comes along for the
+ride whenever information is processed in complex ways. These prospects
+relegate consciousness to a rather passive role, serendipitous but otherwise
+useless, bereft of specific features that distinguish it from information
+processing in general.
 
 This is a powerful intuition, but neglects the distinct role that
 consciousness plays in our behaviour. Human beings have a rich set of
@@ -34,36 +33,37 @@ vantage point_, contrast how things _seem_ from that vantage point with how
 they believe the world to be, summarise their goals and plans, explain the
 world around them in terms of possibilities for action, and justify the
 actions they take in terms of consciously held beliefs, desires and feelings.
-Rather than arising as a mysterious side-effect of information processing,
-such &ldquo;consciousness-talk&rdquo; - elaborate behaviour oriented around an
-ostensibly private mental life - is a collection of specific psychological
-mechanisms.
+While we intuit strongly that these things could somehow happen without "the
+light being on" inside, we remain curiously oblivious to the fact that these
+features of our phenotype -- elaborate behaviour oriented around an ostensibly
+private mental life -- are being driven by psychological mechanisms taking
+place in the physical world.
 
-A working assumption of the symposium is that it is _these behaviours_ that
-are the proper target, or explanandum, of a science of consciousness. What we
-intuit as a "private realm" is a functional mechanism operating in the public
-world: a brain's behavioural interface to the environment, designed by
-evolution to enable new levels of autonomy, self-monitoring and deliberative
-action. It is our _belief_ in the Hard Problem which needs to be taken
-seriously, not the Hard Problem itself.
+_These behaviours_ are the proper target, or explanandum, of a science of
+consciousness. What we intuit as a "private realm" is a functional mechanism
+operating in the public world: a brain's behavioural interface to the
+environment, designed by evolution to enable new levels of autonomy,
+self-monitoring and deliberative action. It is our _belief_ in the Hard
+Problem which needs to be taken seriously, not the Hard Problem itself.
 
 This perspective on consciousness is unintuitive at first, but a growing body
-of evidence shows it to be . By representing not only the world and its
-affordances for action, but also _ourselves_ as embodied agents in the world,
-and ultimately ourselves _as representers_, the evolving brain converged on
-the _self_ as the solution to a control problem. We cannot easily appreciate
-the world-model as a model, because "we" only exist in virtue of the model, as
-its central feature.
+of evidence shows consciousness to be an evolved control mechanism. By
+representing not only the world and its affordances for action, but also
+_ourselves_ as embodied agents in the world, and ultimately ourselves _as
+representers_, the evolving brain converged on the _self_ as the solution to a
+control problem. We cannot easily appreciate the world-model as a model,
+because "we" only exist in virtue of the model, as its central feature.
 
-Of course, there is a distinct lack of consensus that this is indeed the
-explanandum. The workshop is therefore planned as forum to build more
-consensus, . We invite perspectives from philosophy, psychology, neuroscience
-and informatics.
+The workshop is a forum to elaborate, discuss and critique this emerging
+scientific picture of consciousness as functional mechanism. We invite
+perspectives from philosophy, psychology, neuroscience and informatics.
 
 POSSIBLE THEMES AND TOPICS
 
 These are not meant to constrain, but merely to highlight areas where we feel
-there are opportunities to make progress.
+there are opportunities to make progress, especially where there is a tension
+between the emerging behavioural/functional picture, and our deeply-held
+intuitions.
 
 * **Confronting the &ldquo;further fact&rdquo; intuition.** The further-fact
   intuition is so compelling that many hold it be self-evident. It underlies
@@ -76,9 +76,9 @@ there are opportunities to make progress.
 * **Brain homologies and animal consciousness.** Brain structures implicated
   in consciousness in humans evolved tens of millions of years ago. Many
   neuroscientists have argued that we will find (primitives forms of)
-  consciousness wherever we find homologous structures. Are these suppositions
-  consistent with functional/behavioural perspectives, or are they too
-  liberal?
+  consciousness wherever we find homologous structures. These claims seem in
+  tension with accounts that associate consciousness with specific forms of
+  autonomy and behavioural flexibility. Are they too liberal?
 
 * **Role of language.** If homology arguments can seem overly liberal,
   behavioural accounts risk being overly conservative, in linking
