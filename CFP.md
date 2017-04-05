@@ -50,15 +50,13 @@ representers_, the evolving brain converged on the _self_ as the solution to a
 control problem. We cannot easily appreciate the world-model as a model,
 because "we" only exist in virtue of the model, as its central feature.
 
+Of course, there is a distinct lack of consensus that this is indeed the
+explanandum. The workshop is therefore planned as forum to build more
+consensus, . We invite perspectives from philosophy, psychology, neuroscience
+and informatics.
+
 POSSIBLE THEMES AND TOPICS
 
-Above, we contrasted two methodological starting points. _Phenomenology-first_
-takes the &ldquo;further fact&rdquo; intuition at face value, treating
-consciousness as an _additional thing_ that accompanies &ldquo;mere&rdquo;
-behaviour. _Behaviour-first_ &mdash; what Daniel Dennett has called
-&ldquo;heterophenomenology&rdquo; &mdash; treats consciousness as a specific
-set of behavioural capabilities, a repertoire that _includes_ my tendency to
-insist that my consciousness amounts to more than mere behaviour.
 Phenomenology-first takes the Hard Problem seriously; behaviour-first takes
 our _belief_ in the Hard Problem seriously, but not the Hard Problem itself.
 
