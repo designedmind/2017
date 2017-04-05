@@ -136,7 +136,7 @@ IMPORTANT DATES
 - Registration opens: 30 May, 2017
 - Submission deadline: 30 July, 2017
 - Notification of acceptance: 9 September, 2017
-- Early-bird registration deadline: 15 September, 2017
+- Early registration deadline: 15 September, 2017
 - Designed Mind symposium: 8-9 November, 2017
 - Expecting Ourselves workshop: 10 November, 2017 
 
