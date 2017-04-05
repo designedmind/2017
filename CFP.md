@@ -17,9 +17,9 @@ REPRESENTING OURSELVES
 
 Consciousness is often presumed to require a new kind of science, perhaps one
 which posits consciousness as an all-pervasive feature of the universe. Two
-popular options seem to be _identifying_ consciousness with some kind of
+popular options seem to be to _identify_ consciousness with some kind of
 general-purpose information-processing or informational complexity, with no
-real insight into why such an identification makes sense, or accepting
+real insight into why such an identification makes sense, or to accept
 consciousness as an emergent epiphenomenon, something that comes along for the
 ride whenever information is processed in complex ways. These prospects
 relegate consciousness to a rather passive role, serendipitous but otherwise
@@ -34,25 +34,26 @@ they believe the world to be, summarise their goals and plans, explain the
 world around them in terms of possibilities for action, and justify the
 actions they take in terms of consciously held beliefs, desires and feelings.
 While we intuit strongly that these things could somehow happen without "the
-light being on" inside, we remain curiously oblivious to the fact that these
-features of our phenotype -- elaborate behaviour oriented around an ostensibly
-private mental life -- are being driven by psychological mechanisms taking
+light being on" inside, we remain curiously oblivious to the fact that this
+feature of our phenotype -- elaborate behaviour oriented around an ostensibly
+private mental life -- is being driven by psychological mechanisms taking
 place in the physical world.
 
 _These behaviours_ are the proper target, or explanandum, of a science of
-consciousness. What we intuit as a "private realm" is a functional mechanism
-operating in the public world: a brain's behavioural interface to the
-environment, designed by evolution to enable new levels of autonomy,
-self-monitoring and deliberative action. It is our _belief_ in the Hard
-Problem which needs to be taken seriously, not the Hard Problem itself.
+consciousness. It is our _belief_ in the Hard Problem which needs to be taken
+seriously, not the Hard Problem itself. What we intuit as a "private realm" is
+a functional mechanism operating in the public world: a brain's behavioural
+interface to the environment, designed by evolution to enable new levels of
+autonomy, self-monitoring and deliberative action.
 
 This perspective on consciousness is unintuitive at first, but a growing body
-of evidence shows consciousness to be an evolved control mechanism. By
-representing not only the world and its affordances for action, but also
-_ourselves_ as embodied agents in the world, and ultimately ourselves _as
-representers_, the evolving brain converged on the _self_ as the solution to a
-control problem. We cannot easily appreciate the world-model as a model,
-because "we" only exist in virtue of the model, as its central feature.
+of evidence shows it to be capable of reconciling the scientific image with
+our intuitions about ourselves. By representing not only the world and its
+affordances for action, but also _ourselves_ as embodied agents in the world,
+and ultimately ourselves _as representers_, the evolving brain converged on
+the _self_ as the solution to a control problem. We cannot easily appreciate
+the world-model as a model, because "we" only exist in virtue of the model, as
+its central feature.
 
 The workshop is a forum to elaborate, discuss and critique this emerging
 scientific picture of consciousness as functional mechanism. We invite
@@ -61,9 +62,9 @@ perspectives from philosophy, psychology, neuroscience and informatics.
 POSSIBLE THEMES AND TOPICS
 
 These are not meant to constrain, but merely to highlight areas where we feel
-there are opportunities to make progress, especially where there is a tension
-between the emerging behavioural/functional picture, and our deeply-held
-intuitions.
+there are opportunities to make progress, in particular areas where there is a
+tension between the emerging behavioural/functional picture, and our
+deeply-held intuitions.
 
 * **Confronting the &ldquo;further fact&rdquo; intuition.** The further-fact
   intuition is so compelling that many hold it be self-evident. It underlies
@@ -76,9 +77,9 @@ intuitions.
 * **Brain homologies and animal consciousness.** Brain structures implicated
   in consciousness in humans evolved tens of millions of years ago. Many
   neuroscientists have argued that we will find (primitives forms of)
-  consciousness wherever we find homologous structures. These claims seem in
-  tension with accounts that associate consciousness with specific forms of
-  autonomy and behavioural flexibility. Are they too liberal?
+  consciousness wherever we find homologous structures. These claims seem to
+  be in tension with accounts that associate consciousness with specific forms
+  of autonomy and behavioural flexibility. Are they too liberal?
 
 * **Role of language.** If homology arguments can seem overly liberal,
   behavioural accounts risk being overly conservative, in linking
@@ -101,9 +102,10 @@ intuitions.
 * **Consciousness as meta-representation.** Björn Merker and others have
   argued that it is enough to have a unified world representation to have
   phenomenal consciousness, suggesting that (primitive) consciousness is
-  evolutionarily ancient. Others, including V.S. Ramachandran, suggest that
-  phenomenal consciousness necessarily involves _meta-representation_,
-  reflective modelling of our own perceptual representations.
+  evolutionarily ancient. Others claim that phenomenal consciousness
+  necessarily involves _meta-representation_, reflective modelling of our own
+  perceptual representations. What would decide between these two
+  possibilities?
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
   &ldquo;Cartesian materialism&rdquo;, the idea that everything "comes
@@ -115,6 +117,8 @@ intuitions.
 * **Programming conscious machines.** A mechanistic theory of consciousness
   is, by definition, something which can be implemented. This raises the
   prospect of testing theories of consciousness through implementation.
+  Conversely, what can theories of consciousness tell us about how to
+  implement conscious machines?
 
 SUBMISSION GUIDELINES
 
