@@ -22,10 +22,10 @@ _identifying_ consciousness with some kind of general-purpose
 information-processing or informational complexity, with no real insight into
 why such an identification makes sense, or accept consciousness as an emergent
 epiphenomenon, something that comes along for the ride whenever information is
-processed in complex ways. These relegate consciousness to a rather passive
-role, serendipitous but otherwise useless, bereft of any specific character
-that distinguishes it from any other kind of information processing that
-occurs in the biological world.
+processed in complex ways. This prospect relegates consciousness to a rather
+passive role, serendipitous but otherwise useless, bereft of specific
+characteristics that distinguish it from any other kind of information
+processing that occurs in the biological world.
 
 This is a powerful intuition, but neglects the distinct role that
 consciousness plays in our behaviour. Human beings have a rich set of
@@ -39,19 +39,18 @@ such &ldquo;consciousness-talk&rdquo; - elaborate behaviour oriented around an
 ostensibly private mental life - is a collection of specific psychological
 mechanisms.
 
-The aim of this symposium is to gather researchers who agree that it is _these
-behaviours_ that are the proper target, or explanandum, of a science of
-consciousness. What we intuit as a "private realm" is a functional mechanism
-operating in the public world: a brain's behavioural interface to the
-environment, designed by evolution to enable new levels of autonomy,
-self-monitoring and deliberative action. By representing not only the world
-and its affordances for action, but also _ourselves_ as embodied agents in the
-world, and ultimately ourselves _as representers_, the evolving brain
-converged on the _self_ as the solution to a control problem. We cannot easily
-appreciate the world-model as a model, because "we" only exist in virtue of
-the model, as its central feature.
+A working assumption of the symposium is that it is _these behaviours_ that
+are the proper target, or explanandum, of a science of consciousness. What we
+intuit as a "private realm" is a functional mechanism operating in the public
+world: a brain's behavioural interface to the environment, designed by
+evolution to enable new levels of autonomy, self-monitoring and deliberative
+action. By representing not only the world and its affordances for action, but
+also _ourselves_ as embodied agents in the world, and ultimately ourselves _as
+representers_, the evolving brain converged on the _self_ as the solution to a
+control problem. We cannot easily appreciate the world-model as a model,
+because "we" only exist in virtue of the model, as its central feature.
 
-THEMES AND TOPICS
+POSSIBLE THEMES AND TOPICS
 
 Above, we contrasted two methodological starting points. _Phenomenology-first_
 takes the &ldquo;further fact&rdquo; intuition at face value, treating
