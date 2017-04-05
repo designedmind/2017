@@ -23,9 +23,9 @@ information-processing or informational complexity, with no real insight into
 why such an identification makes sense, or accept consciousness as an emergent
 epiphenomenon, something that comes along for the ride whenever information is
 processed in complex ways. These relegate consciousness to a rather passive
-role, serendipitous but otherwise useless, free of specifics that distinguish
-it from any other kind of information processing that occurs in the biological
-world.
+role, serendipitous but otherwise useless, bereft of any specific character
+that distinguishes it from any other kind of information processing that
+occurs in the biological world.
 
 This is a powerful intuition, but neglects the distinct role that
 consciousness plays in our behaviour. Human beings have a rich set of
@@ -37,10 +37,7 @@ actions they take in terms of consciously held beliefs, desires and feelings.
 Rather than arising as a mysterious side-effect of information processing,
 such &ldquo;consciousness-talk&rdquo; - elaborate behaviour oriented around an
 ostensibly private mental life - is a collection of specific psychological
-mechanisms. These mechanisms seem to be related to our ability to exploit
-contingent, often social, information in improvised behavior tailored to local
-conditions, an adaptive mode that evolutionary psychologists John Tooby and
-Irven DeVore labelled the "cognitive niche".
+mechanisms.
 
 The aim of this symposium is to gather researchers who agree that it is _these
 behaviours_ that are the proper target, or explanandum, of a science of
@@ -102,22 +99,21 @@ include, but are not in any way limited to:
   from &ldquo;locked in&rdquo; syndrome, conscious but unable to outwardly
   behave.
 
-* **Consciousness and free will.** Thomas Metzinger describes consciousness as
-  as a &ldquo;behavioural space&rdquo;, an idea reminiscent of Gilbert Ryle's
-  dispositional view of mental states. According to Daniel Dennett,
-  consciousness is an evolutionary innovation that situates a virtual agent at
-  the narrative centre of a world of possibilities which can be assessed and
-  compared with explicitly considered goals. This suggests a deep connection
-  to free will: by allowing an agent to act _deliberatively_, consciousness
-  enables _deliberate_ action, action that is imagined and evaluated before it
-  takes place and assessed and re-evaluated after it has taken place.
+* **Consciousness and free will.** According to Daniel Dennett, consciousness
+  is an evolutionary innovation that situates a virtual agent at the narrative
+  centre of a world of possibilities which can be assessed and compared with
+  explicitly considered goals. This suggests a deep connection to free will:
+  by allowing an agent to act _deliberatively_, consciousness enables
+  _deliberate_ action, action that is imagined and evaluated before it takes
+  place and assessed and re-evaluated after it has taken place. Is it possible
+  to be conscious and not free in this sense?
 
 * **Consciousness as meta-representation.** Björn Merker and others have
   argued that it is enough to have a unified world representation to have
   phenomenal consciousness, suggesting that (primitive) consciousness is
-  evolutionarily ancient. Others suggest that phenomenal consciousness
-  necessarily involves _meta-representation_, reflective modelling of our own
-  perceptual representations.
+  evolutionarily ancient. Others, including V.S. Ramachandran, suggest that
+  phenomenal consciousness necessarily involves _meta-representation_,
+  reflective modelling of our own perceptual representations.
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
   &ldquo;Cartesian materialism&rdquo;, the idea that everything "comes
