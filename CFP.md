@@ -115,23 +115,16 @@ include, but are not in any way limited to:
 * **Consciousness as meta-representation.** Björn Merker and others have
   argued that it is enough to have a unified world representation to have
   phenomenal consciousness, suggesting that (primitive) consciousness is
-  evolutionarily ancient. Again, the behavioural perspective invites caution:
-  whether consciousness is plausible should depend on what an organism can
-  _do_ with its world-model. V.S. Ramachandran suggests that phenomenal
-  consciousness is a form of _meta-representation_, reflective modelling of
-  our own perceptual representations.
+  evolutionarily ancient. Others suggest that phenomenal consciousness
+  necessarily involves _meta-representation_, reflective modelling of our own
+  perceptual representations.
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
-  &ldquo;Cartesian materialism&rdquo;, the idea that there is a specific place
-  in the brain where everything comes together for consciousness. Others,
-  notably Bernard Baars, have argued explicitly for a &ldquo;theatre
-  model&rdquo;. Even Dennett concedes that &ldquo;vivid fossil traces&rdquo;
-  of the Cartesian world view remain in modern neuroscientific theories, and
-  Metzinger has called his phenomenal self-model
-  &ldquo;quasi-Cartesian&rdquo;. A key question for functionalism is deciding
-  which parts of the Cartesian image are to to be discarded and which retained
-  as valid components of a plausible folk theory or mature neuroscience of
-  consciousness.
+  &ldquo;Cartesian materialism&rdquo;, the idea that everything "comes
+  together" for consciousness as some kind of internal re-presentation. A key
+  question for functionalism is deciding which parts of the Cartesian image
+  are to to be discarded and which retained as valid components of a plausible
+  folk theory or mature neuroscience of consciousness.
 
 * **Programming conscious machines.** A mechanistic theory of consciousness
   is, by definition, something which can be implemented. This raises the
