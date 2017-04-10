@@ -98,12 +98,13 @@ progress:
   place and assessed and re-evaluated after it has taken place. Is it possible
   to be conscious and not free in this sense?
 
-* **Consciousness as meta-representation.** Some argue that a unified world
-  representation is sufficient for phenomenal consciousness, suggesting that
-  (primitive) consciousness is evolutionarily ancient. For others
-  consciousness necessarily involves _meta-representation_, reflective
-  modelling of our own capabilities. Michael Graziano has proposed that as
-  well as attending, the brain represents its own attention. Again, from the
+* **Consciousness as meta-representation.** For some consciousness is a form
+  of _meta-representation_, reflective modelling of our own capabilities.
+  Michael Graziano has proposed that as well as attending, the brain
+  represents its own attention. Others suggest that qualia are perceptual
+  meta-representations.
+
+  Again, from the
   behavioural/functional perspective, the former risks being overly liberal.
   What would decide between these two possibilities?
 
