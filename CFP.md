@@ -15,15 +15,15 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-Many feel that consciousness will require a new kind of science, perhaps one
-which posits consciousness as an all-pervasive attribute of the universe. One
-option is to _identify_ consciousness with general-purpose
-information-processing of a certain complexity, with no real insight into why
-such an identification makes sense. Another, related intuition construes
-consciousness as an emergent epiphenomenon, something that accompanies complex
-information-processing. These prospects relegate consciousness to a passive
-role, serendipitous perhaps, but bereft of specific features that distinguish
-it from information processing in general.
+Many feel that consciousness will require a new kind of science. One popular
+move is to _identify_ consciousness with general-purpose
+information-processing of a certain complexity. No insight is offered into why
+such an identification makes sense, and consciousness is relegated to a
+passive role, bereft of specific features that distinguish it from information
+processing in general. Another, related intuition construes consciousness as
+an emergent epiphenomenon, something that accompanies certain kinds of complex
+behaviours. Again, this leaves consciousness in a passive role, with little to
+do except come along for the ride.
 
 The basic problem with these perspectives is that they neglect the distinct
 functional role that consciousness plays in our behaviour. Human beings have a
@@ -32,19 +32,20 @@ _from a vantage point_, contrast how things _seem_ from that vantage point
 with how they believe the world to be, summarise their goals and plans,
 explain the world around them in terms of possibilities for action, and
 justify the actions they take in terms of consciously held beliefs, desires
-and feelings. While we intuit strongly that these things could somehow happen
-without &ldquo;real&rdquo; consciousness inside, we remain curiously oblivious
-to the fact that such behaviours are driven by psychological mechanisms taking
-place in the physical world.
+and feelings. We intuit strongly that these things could somehow happen
+without &ldquo;real&rdquo; consciousness inside, yet remain curiously
+oblivious to the fact that if we are able to talk about consciousness at all,
+then it must be a psychological mechanism taking place in the physical world.
 
-This feature of our phenotype &mdash; elaborate behaviour oriented around an
-ostensibly private mental life &mdash; is the proper target, or explanandum,
-of a science of consciousness. It is our _belief_ in the Hard Problem which
-needs to be taken seriously, not the Hard Problem itself. What we intuit as a
-&ldquo;private realm&rdquo; is a functional mechanism operating in the public
-world: a brain's behavioural interface to the environment, designed by
-evolution to enable new levels of autonomy, self-monitoring and deliberative
-action.
+It is this feature of our phenotype &mdash; elaborate behaviour oriented
+around an ostensibly private mental life &mdash; that is the proper target, or
+explanandum, of a science of consciousness. Our _belief_ in the so-called Hard
+Problem needs to be taken seriously, but not the Hard Problem itself. Modern
+theories along these lines, developed by Daniel Dennett and others, propose
+consciousness as a control mechanism. What we intuit as a &ldquo;private
+realm&rdquo; is functionality operating in the public world: a brain's
+behavioural interface to the environment, designed by evolution to enable new
+levels of autonomy, self-monitoring and deliberative action.
 
 This perspective on consciousness seems radical at first, but a growing body
 of evidence shows it to be capable of reconciling the scientific image with
@@ -55,20 +56,21 @@ _self_ as the solution to a control problem. We cannot easily appreciate the
 world-model as a model, because &ldquo;we&rdquo; only exist in virtue of the
 model, as its central feature.
 
+The symposium is a forum to elaborate, discuss and critique this emerging
+scientific picture of consciousness as functionality. We invite perspectives
+from philosophy, psychology, neuroscience and informatics.
+
 POSSIBLE THEMES AND TOPICS
 
-The symposium is a forum to elaborate, discuss and critique this emerging
-scientific picture of consciousness as functional mechanism. We invite
-perspectives from philosophy, psychology, neuroscience and informatics. The
-following list of topics is not meant to constrain, but merely to highlight
-areas where we feel there are important issues or opportunities to make
-progress:
+The following list of topics is not meant to constrain, but merely to
+highlight areas where we feel there are important issues or opportunities to
+make progress:
 
 * **Confronting the &ldquo;further fact&rdquo; intuition.** The further-fact
   intuition is so compelling that it is often held to be self-evident. It
-  underlies not only David Chalmer's so-called Hard Problem, but also the
-  plausibility of philosophical zombies and inverted spectra. Yet according to
-  the functionalist view, it is false. A challenge for the functionalist story
+  underlies not only David Chalmer's Hard Problem, but also the plausibility
+  of philosophical zombies and inverted spectra. Yet according to the
+  functionalist view, it is false. A challenge for the functionalist story
   then is to explain _why_ it seems so obvious that consciousness is something
   non-functional, if it is precisely the opposite.
  
@@ -90,22 +92,21 @@ progress:
   represent and communicate précis of intended behaviour.
 
 * **Consciousness and free will.** According to Daniel Dennett, consciousness
-  is an evolutionary innovation that situates a virtual agent at the narrative
-  centre of a world of behavioural possibilities which can be assessed and
-  compared with explicitly considered goals. This suggests a deep connection
-  to free will: by allowing an agent to act _deliberatively_, consciousness
-  enables _deliberate_ action, action that is imagined and evaluated before it
-  takes place and assessed and re-evaluated after it has taken place. Is it
-  possible to be conscious and not free in this sense? If not, what are the
-  implications for animal consciousness?
+  situates a virtual agent at the centre of a world of behavioural
+  possibilities which can be assessed and compared with explicitly considered
+  goals. This suggests a deep connection to free will: by allowing an agent to
+  act _deliberatively_, consciousness enables _deliberate_ action, action that
+  is imagined and evaluated before it takes place and assessed and
+  re-evaluated after it has taken place. Is it possible to be conscious and
+  not free in this sense? What are the implications for animal consciousness?
 
 * **Consciousness as meta-representation.** A recurring theme in the emerging
   scientific picture is that consciousness is a form of reflective modelling
   of our own capabilities. For example Michael Graziano proposes that as well
-  as attending, the brain represents its own attention, others that qualia are
-  perceptual meta-representations. Again, are there implications for animal
-  consciousness? What evidence is there that animals represent their own
-  attention, or their own percepts?
+  as attending, the brain represents its own attention. Other propose that
+  qualia are perceptual meta-representations. Again, are there implications
+  for animal consciousness? What evidence is there that some animals can
+  represent their own attention, or their own percepts?
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
   &ldquo;Cartesian materialism&rdquo;, the idea that everything &ldquo;comes
@@ -114,11 +115,11 @@ progress:
   image are to to be discarded and which retained as valid components of a
   plausible folk theory or mature neuroscience of consciousness.
 
-* **Programming conscious machines.** A mechanistic theory of consciousness
-  is, by definition, something which can be implemented. This raises the
-  prospect of testing theories of consciousness through implementation.
-  Conversely, what can theories of consciousness tell us about how to
-  implement conscious machines?
+* **Conscious machines.** A mechanistic theory of consciousness is, by
+  definition, something which can be implemented. This raises the prospect of
+  testing theories of consciousness through implementation. Conversely, what
+  can theories of consciousness tell us about how to implement conscious
+  machines?
 
 SUBMISSION GUIDELINES
 
@@ -128,8 +129,8 @@ length. Please prepare your submission for blind review and submit via
 EasyChair at https://easychair.org/conferences/?conf=dm2017. Authors of
 accepted papers will have their registration fees waived.
 
-After the symposium, there will be an open call for full-length papers for
-publication as a collected volume or journal special issue (details
+After the symposium, there will be an open call for full-length (8,000 word)
+papers for publication as a collected volume or journal special issue (details
 forthcoming).
 
 IMPORTANT DATES
