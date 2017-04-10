@@ -17,34 +17,34 @@ REPRESENTING OURSELVES
 
 Many feel that consciousness will require a new kind of science, perhaps one
 which posits consciousness as an all-pervasive attribute of the universe. One
-option is to _identify_ consciousness with some kind of general-purpose
-information-processing or informational complexity, with no real insight into
-why such an identification makes sense; another is to accept consciousness as
-an emergent epiphenomenon, something that comes along for the ride whenever
-information is processed in complex ways. These prospects relegate
-consciousness to a passive role, serendipitous but otherwise useless, bereft
-of specific features that distinguish it from information processing in
-general.
+option is to _identify_ consciousness with general-purpose
+information-processing of a certain complexity, with no real insight into why
+such an identification makes sense. Another, related intuition construes
+consciousness as an emergent epiphenomenon, something that accompanies complex
+information-processing. These prospects relegate consciousness to a passive
+role, serendipitous perhaps, but bereft of specific features that distinguish
+it from information processing in general.
 
-Moreover, these perspectives neglect the distinct role that consciousness
-plays in our behaviour. Human beings have a rich set of consciousness-related
-capabilities: they can describe the world _from a vantage point_, contrast how
-things _seem_ from that vantage point with how they believe the world to be,
-summarise their goals and plans, explain the world around them in terms of
-possibilities for action, and justify the actions they take in terms of
-consciously held beliefs, desires and feelings. While we intuit strongly that
-these things could somehow happen without &ldquo;the light being on&rdquo;
-inside, we remain curiously oblivious to the fact that this feature of our
-phenotype &mdash; elaborate behaviour oriented around an ostensibly private
-mental life &mdash; is driven by psychological mechanisms taking place in the
-physical world.
+The basic problem with these perspectives is that they neglect the distinct
+functional role that consciousness plays in our behaviour. Human beings have a
+rich set of consciousness-related capabilities: they can describe the world
+_from a vantage point_, contrast how things _seem_ from that vantage point
+with how they believe the world to be, summarise their goals and plans,
+explain the world around them in terms of possibilities for action, and
+justify the actions they take in terms of consciously held beliefs, desires
+and feelings. While we intuit strongly that these things could somehow happen
+without &ldquo;real&rdquo; consciousness inside, we remain curiously oblivious
+to the fact that such behaviours are driven by psychological mechanisms taking
+place in the physical world.
 
-_These behaviours_ are the proper target, or explanandum, of a science of
-consciousness. It is our _belief_ in the Hard Problem which needs to be taken
-seriously, not the Hard Problem itself. What we intuit as a &ldquo;private
-realm&rdquo; is a functional mechanism operating in the public world: a
-brain's behavioural interface to the environment, designed by evolution to
-enable new levels of autonomy, self-monitoring and deliberative action.
+This feature of our phenotype &mdash; elaborate behaviour oriented around an
+ostensibly private mental life &mdash; is the proper target, or explanandum,
+of a science of consciousness. It is our _belief_ in the Hard Problem which
+needs to be taken seriously, not the Hard Problem itself. What we intuit as a
+&ldquo;private realm&rdquo; is a functional mechanism operating in the public
+world: a brain's behavioural interface to the environment, designed by
+evolution to enable new levels of autonomy, self-monitoring and deliberative
+action.
 
 This perspective on consciousness seems radical at first, but a growing body
 of evidence shows it to be capable of reconciling the scientific image with
@@ -65,10 +65,10 @@ areas where we feel there are important issues or opportunities to make
 progress:
 
 * **Confronting the &ldquo;further fact&rdquo; intuition.** The further-fact
-  intuition is so compelling that many hold it be self-evident. It underlies
-  not only David Chalmer's so-called Hard Problem, but also the plausibility
-  of philosophical zombies and inverted spectra. Yet according to the
-  functionalist view, it is false. A challenge for the functionalist story
+  intuition is so compelling that it is often held to be self-evident. It
+  underlies not only David Chalmer's so-called Hard Problem, but also the
+  plausibility of philosophical zombies and inverted spectra. Yet according to
+  the functionalist view, it is false. A challenge for the functionalist story
   then is to explain _why_ it seems so obvious that consciousness is something
   non-functional, if it is precisely the opposite.
  
@@ -77,7 +77,8 @@ progress:
   neuroscientists have argued that we will find (primitives forms of)
   consciousness wherever we find homologous structures. These claims seem to
   be in tension with accounts that associate consciousness with specific forms
-  of autonomy and behavioural flexibility. Do they risk being too liberal?
+  of autonomy and behavioural flexibility. Are these homology arguments too
+  quick to ascribe consciousness?
 
 * **Role of language.** If homology arguments can seem overly liberal,
   behavioural accounts risk being overly conservative, in linking
@@ -97,14 +98,14 @@ progress:
   place and assessed and re-evaluated after it has taken place. Is it possible
   to be conscious and not free in this sense?
 
-* **Consciousness as meta-representation.** Björn Merker and others have
-  argued that it is enough to have a unified world representation to have
-  phenomenal consciousness, suggesting that (primitive) consciousness is
-  evolutionarily ancient. Others claim that phenomenal consciousness
-  necessarily involves _meta-representation_, reflective modelling of our own
-  perceptual representations. Again, from the behavioural/functional
-  perspective, the former risks being overly liberal. What would decide
-  between these two possibilities?
+* **Consciousness as meta-representation.** Some argue that a unified world
+  representation is sufficient for phenomenal consciousness, suggesting that
+  (primitive) consciousness is evolutionarily ancient. For others
+  consciousness necessarily involves _meta-representation_, reflective
+  modelling of our own capabilities. Michael Graziano has proposed that as
+  well as attending, the brain represents its own attention. Again, from the
+  behavioural/functional perspective, the former risks being overly liberal.
+  What would decide between these two possibilities?
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
   &ldquo;Cartesian materialism&rdquo;, the idea that everything &ldquo;comes
