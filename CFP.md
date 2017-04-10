@@ -91,22 +91,21 @@ progress:
 
 * **Consciousness and free will.** According to Daniel Dennett, consciousness
   is an evolutionary innovation that situates a virtual agent at the narrative
-  centre of a world of possibilities which can be assessed and compared with
-  explicitly considered goals. This suggests a deep connection to free will:
-  by allowing an agent to act _deliberatively_, consciousness enables
-  _deliberate_ action, action that is imagined and evaluated before it takes
-  place and assessed and re-evaluated after it has taken place. Is it possible
-  to be conscious and not free in this sense?
+  centre of a world of behavioural possibilities which can be assessed and
+  compared with explicitly considered goals. This suggests a deep connection
+  to free will: by allowing an agent to act _deliberatively_, consciousness
+  enables _deliberate_ action, action that is imagined and evaluated before it
+  takes place and assessed and re-evaluated after it has taken place. Is it
+  possible to be conscious and not free in this sense? If not, what are the
+  implications for animal consciousness?
 
-* **Consciousness as meta-representation.** For some consciousness is a form
-  of _meta-representation_, reflective modelling of our own capabilities.
-  Michael Graziano has proposed that as well as attending, the brain
-  represents its own attention. Others suggest that qualia are perceptual
-  meta-representations.
-
-  Again, from the
-  behavioural/functional perspective, the former risks being overly liberal.
-  What would decide between these two possibilities?
+* **Consciousness as meta-representation.** A recurring theme in the emerging
+  scientific picture is that consciousness is a form of reflective modelling
+  of our own capabilities. For example Michael Graziano proposes that as well
+  as attending, the brain represents its own attention, others that qualia are
+  perceptual meta-representations. Again, are there implications for animal
+  consciousness? What evidence is there that animals represent their own
+  attention, or their own percepts?
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
   &ldquo;Cartesian materialism&rdquo;, the idea that everything &ldquo;comes
