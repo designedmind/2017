@@ -15,8 +15,8 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-Many feel that consciousness will require a new kind of science. One popular
-move is to _identify_ consciousness with general-purpose
+Many feel that understanding consciousness will require a new kind of science.
+One popular move is to _identify_ consciousness with general-purpose
 information-processing of a certain complexity. No insight is offered into why
 such an identification makes sense, and consciousness is relegated to a
 passive role, bereft of specific features that distinguish it from information
