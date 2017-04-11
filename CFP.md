@@ -33,7 +33,7 @@ with how they believe the world to be, summarise their goals and plans,
 explain the world around them in terms of possibilities for action, and
 justify the actions they take in terms of consciously held beliefs, desires
 and feelings. We intuit strongly that these things could somehow happen
-without &ldquo;real&rdquo; consciousness inside, yet remain curiously
+without &ldquo;real&rdquo; consciousness inside, whilst remaining curiously
 oblivious to the fact that if we are able to talk about consciousness at all,
 then it must be a psychological mechanism taking place in the physical world.
 
