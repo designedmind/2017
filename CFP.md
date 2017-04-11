@@ -42,7 +42,7 @@ around an ostensibly private mental life &mdash; that is the proper target, or
 explanandum, of a science of consciousness. Our _belief_ in the so-called Hard
 Problem needs to be taken seriously, but not the Hard Problem itself. Modern
 theories along these lines, developed by Daniel Dennett and others, propose
-consciousness as a control mechanism. What we intuit as a &ldquo;private
+that consciousness is a control mechanism. What we intuit as a &ldquo;private
 realm&rdquo; is functionality operating in the public world: a brain's
 behavioural interface to the environment, designed by evolution to enable new
 levels of autonomy, self-monitoring and deliberative action.
