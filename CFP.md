@@ -24,9 +24,9 @@ perhaps one which posits consciousness as an all-pervasive feature of the
 universe. We may have to identify consciousness with some kind of information
 processing or informational complexity, with no real insight into why such an
 identification makes sense, or accept consciousness as an epiphenomenon,
-present whenever certain kinds of processes are present. These offer little in
-the way of explanation, and relegate consciousness to a passive role, with not
-much to do except come along for the ride.
+present whenever certain kinds of processes are present. These offer little
+explanation, and relegate consciousness to a passive role, with not much to do
+except come along for the ride.
 
 These intuitions also neglect a crucial fact about our behaviour, namely that
 consciousness is much of the _subject matter_ of what we say and do. We
@@ -46,7 +46,7 @@ of a science of consciousness. Modern theories along these lines, developed by
 Daniel Dennett and others, propose that we understand our conscious lives as
 the _content_ of an internal self-model. What we intuit as a &ldquo;private
 realm&rdquo; is a control mechanism operating in the public world: a brain's
-way of representing the organism as an embodied agent, a reflective
+way of representing the organism as a situated agent, a reflective
 self-representation designed by evolution to enable new levels of autonomy,
 self-monitoring and deliberative action. By representing not only the world
 and its affordances for action, but also ourselves as embodied agents in the
