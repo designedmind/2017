@@ -34,11 +34,11 @@ describe the world _from a vantage point_, contrast how things _seem_ from
 that vantage point with how we believe the world to be, summarise our goals
 and plans, explain the world around us in terms of possibilities for action,
 and justify the actions we take in terms of consciously held beliefs, desires
-and feelings. While we intuit strongly that these behaviours &mdash; elaborate
-behaviour oriented around an ostensibly private mental life &mdash; could
-somehow happen without &ldquo;real&rdquo; consciousness inside, we remain
-curiously oblivious to the fact that if our &ldquo;consciousness talk&rdquo;
-is ever to be about &ldquo;actual consciousness&rdquo; then it can only be
+and feelings. While we intuit strongly that such &ldquo;consciousness
+talk&rdquo; &mdash; elaborate behaviour oriented around an ostensibly private
+mental life &mdash; could somehow happen without &ldquo;real&rdquo;
+consciousness inside, we remain curiously oblivious to the fact that if _our_
+consciousness talk is ever to be about _our_ consciousness then it can only be
 that the latter is a functional mechanism taking place in the physical world.
 
 It is therefore these behaviours that are the proper target, or explanandum,
