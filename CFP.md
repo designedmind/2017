@@ -21,13 +21,12 @@ functional facts. I can imagine a machine with the same outward behaviour, yet
 lacking an inner life. These intuitions are compelling, and lead many to
 suspect that a theory of consciousness will require a new kind of science,
 perhaps one which posits consciousness as an all-pervasive feature of the
-universe. We may have to content ourselves with identifying consciousness with
-some kind of general-purpose information processing or informational
-complexity, with no real insight into why such an identification makes sense,
-or accept consciousness as an epiphenomenon, present whenever certain kinds of
-processes are present. These offer little in the way of explanation, and
-relegate consciousness to a passive role, with not much to do except come
-along for the ride.
+universe. We may have to identify consciousness with some kind of information
+processing or informational complexity, with no real insight into why such an
+identification makes sense, or accept consciousness as an epiphenomenon,
+present whenever certain kinds of processes are present. These offer little in
+the way of explanation, and relegate consciousness to a passive role, with not
+much to do except come along for the ride.
 
 These intuitions also neglect a crucial fact about our behaviour, namely that
 consciousness is much of the _subject matter_ of what we say and do. We
