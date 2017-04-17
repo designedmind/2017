@@ -22,30 +22,31 @@ such an identification makes sense, and consciousness is relegated to a
 passive role, bereft of specific features that distinguish it from information
 processing in general. Another, related intuition construes consciousness as
 an emergent epiphenomenon, something that accompanies certain kinds of complex
-behaviours. Again, this leaves consciousness in a passive role, with little to
-do except come along for the ride.
+behaviours.
 
-The basic problem with these perspectives is that they neglect the distinct
-functional role that consciousness plays in our behaviour. Human beings have a
-rich set of consciousness-related capabilities: they can describe the world
-_from a vantage point_, contrast how things _seem_ from that vantage point
-with how they believe the world to be, summarise their goals and plans,
-explain the world around them in terms of possibilities for action, and
-justify the actions they take in terms of consciously held beliefs, desires
-and feelings. We intuit strongly that these things could somehow happen
-without &ldquo;real&rdquo; consciousness inside, whilst remaining curiously
+The basic problem with these perspectives is that they leave consciousness in
+a passive role, with little to do except come along for the ride. This
+neglects the extents the distinct functional role that consciousness plays in
+our behaviour. Consciousness much of the subject matter of what we say and do:
+we can describe the world _from a vantage point_, contrast how things _seem_
+from that vantage point with how they believe the world to be, summarise our
+goals and plans, explain the world around our in terms of possibilities for
+action, and justify the actions we take in terms of consciously held beliefs,
+desires and feelings. While we intuit strongly that these things could somehow
+happen without &ldquo;real&rdquo; consciousness inside, we remain curiously
 oblivious to the fact that if we are able to talk about consciousness at all,
-then it must be a psychological mechanism taking place in the physical world.
+then can only be a psychological mechanism taking place in the physical world.
 
 It is this feature of our phenotype &mdash; elaborate behaviour oriented
 around an ostensibly private mental life &mdash; that is the proper target, or
 explanandum, of a science of consciousness. Our _belief_ in the so-called Hard
 Problem needs to be taken seriously, but not the Hard Problem itself. Modern
 theories along these lines, developed by Daniel Dennett and others, propose
-that we understand consciousness as a control mechanism. What we intuit as a
-&ldquo;private realm&rdquo; is functionality operating in the public world: a
-brain's behavioural interface to the environment, designed by evolution to
-enable new levels of autonomy, self-monitoring and deliberative action.
+that we understand consciousness as the _content_ of an internal self-model.
+What we intuit as a &ldquo;private realm&rdquo; is functionality operating in
+the public world: a brain's behavioural interface to the environment, designed
+by evolution to enable new levels of autonomy, self-monitoring and
+deliberative action.
 
 This perspective on consciousness seems radical at first, but a growing body
 of evidence shows it to be capable of reconciling the scientific image with
@@ -53,12 +54,12 @@ our naive self-image. By representing not only the world and its affordances
 for action, but also _ourselves_ as embodied agents in the world, and
 ultimately ourselves _as representers_, the evolving brain converged on the
 _self_ as the solution to a control problem. We cannot easily appreciate the
-world-model as a model, because &ldquo;we&rdquo; only exist in virtue of the
-model, as its central feature.
+self-model-within-a-world-model _as_ a model, because &ldquo;we&rdquo; only
+exist in virtue of the model, as its central feature.
 
 The symposium is a forum to elaborate, discuss and critique this emerging
-scientific picture of consciousness as functionality. We invite perspectives
-from philosophy, psychology, neuroscience and informatics.
+scientific picture of consciousness as a form of reflective behaviour. We
+invite perspectives from philosophy, psychology, neuroscience and informatics.
 
 SUBMISSION GUIDELINES
 
