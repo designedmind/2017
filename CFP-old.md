@@ -25,8 +25,9 @@ universe. We may have to content ourselves with identifying consciousness with
 some kind of general-purpose information processing or informational
 complexity, with no real insight into why such an identification makes sense,
 or accept consciousness as an epiphenomenon, present whenever certain kinds of
-processes are present. These relegate consciousness to a passive role, with
-little to do except come along for the ride.
+processes are present. These offer little in the way of explanation, and
+relegate consciousness to a passive role, with little to do except come along
+for the ride.
 
 These intuitions neglects a crucial fact about our behaviour, namely that
 consciousness is much of the _subject matter_ of what we say and do. We
