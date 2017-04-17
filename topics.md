@@ -42,9 +42,9 @@ make progress:
   scientific picture is that consciousness is a form of reflective modelling
   of our own capabilities. For example Michael Graziano proposes that as well
   as attending, the brain represents its own attention. Other propose that
-  qualia are perceptual meta-representations. Again, are there implications
-  for animal consciousness? What evidence is there that some animals can
-  represent their own attention, or their own percepts?
+  qualia are to be understood as perceptual meta-representations. Again, are
+  there implications for animal consciousness? What evidence is there that
+  some animals can represent their own attention, or their own percepts?
 
 * **Cartesian functionalism.** Dennett has been an outspoken critic of
   &ldquo;Cartesian materialism&rdquo;, the idea that everything &ldquo;comes

@@ -16,49 +16,51 @@ KEYNOTE SPEAKERS
 REPRESENTING OURSELVES
 
 When we consider our own minds, we seem privy to our own consciousness in a
-way that no-one else can be. Consciousness seems to be a fact about me in
-addition to all the functional facts about me. It seems quite plausible that a
+special way. My own consciousness seems to be a &ldquo;further fact&rdquo;
+about me, surplus to all the functional facts; it seems quite plausible that a
 machine with identical functionality could nevertheless have no &ldquo;light
-on&rdquo; inside. These (compelling) intuitions lead many to the conclusion
-that understanding consciousness will require a new kind of science. Some
-propose identifying consciousness with general-purpose information-processing
-of a certain complexity, but offer no insight into why such an identification
+on&rdquo; inside. These intuitions are compelling, and lead many to the
+conclusion that understanding consciousness will require a new kind of
+science. Some propose identifying consciousness with information-processing of
+a certain complexity, but offer no insight into why such an identification
 makes sense. Others construe consciousness as an emergent epiphenomenon, but
-again offer no reason for thinking such a thing should emerge, beyond the fact
-that it accords with the further-fact intuition.
+again offer no reason for thinking such a thing should emerge. These ideas
+speak to our intuitions, but offer little in the way of explanation.
  
-The basic problem with these perspectives is that they relegate consciousness
-to a passive role, with little to do except come along for the ride. This
-neglects the extent to which consciousness the subject matter of much of what
-we say and do: we can describe the world _from a vantage point_, contrast how
-things _seem_ from that vantage point with how we believe the world to be,
-summarise our goals and plans, explain the world around us in terms of
-possibilities for action, and justify the actions we take in terms of
+The basic problem with the way we intuit our own consciousness is that we tend
+to see it in a passive role, with little to do except come along for the ride.
+This neglects the extent to which consciousness is the _subject matter_ of
+much of what we say and do: we can describe the world _from a vantage point_,
+contrast how things _seem_ from that vantage point with how we believe the
+world to be, summarise our goals and plans, explain the world around us in
+terms of possibilities for action, and justify the actions we take in terms of
 consciously held beliefs, desires and feelings. While we intuit strongly that
 these things could somehow happen without &ldquo;real&rdquo; consciousness
 inside, we remain curiously oblivious to the fact that if we are able to talk
 about consciousness at all, then can only be a psychological mechanism taking
 place in the physical world.
 
-It is this feature of our phenotype &mdash; elaborate behaviour oriented
-around an ostensibly private mental life &mdash; that is the proper target, or
-explanandum, of a science of consciousness. Our _belief_ in the so-called Hard
-Problem needs to be taken seriously, but not the Hard Problem itself. Modern
-theories along these lines, developed by Daniel Dennett and others, propose
-that we understand consciousness as the _content_ of an internal self-model.
-What we intuit as a &ldquo;private realm&rdquo; is functionality operating in
-the public world: a brain's behavioural interface to the environment, designed
-by evolution to enable new levels of autonomy, self-monitoring and
-deliberative action.
+It is therefore this feature of our phenotype &mdash; elaborate behaviour
+oriented around an ostensibly private mental life &mdash; that is the proper
+target, or explanandum, of a science of consciousness. It is our _belief_ in
+the so-called Hard Problem which needs to be taken seriously, rather than the
+Hard Problem itself. Modern theories along these lines, developed by Daniel
+Dennett and others, propose that we understand our conscious lives as the
+_content_ of an internal self-model. What we intuit as a &ldquo;private
+realm&rdquo; is a special kind of functionality operating in the public world:
+a brain's way of representing the organism as an embodied agent, a reflective
+mechanism designed by evolution to enable new levels of autonomy,
+self-monitoring and deliberative action.
 
 This perspective on consciousness seems radical at first, but a growing body
-of evidence shows it to be capable of reconciling the scientific image with
-our naive self-image. By representing not only the world and its affordances
-for action, but also _ourselves_ as embodied agents in the world, and
-ultimately ourselves _as representers_, the evolving brain converged on the
-_self_ as the solution to a control problem. We cannot easily appreciate the
-self-model-within-a-world-model _as_ a model, because &ldquo;we&rdquo; only
-exist in virtue of the model, as its central feature.
+of evidence shows it to be capable of explaining our intuitions about
+ourselves, without necessarily taking them all at face value. By representing
+not only the world and its affordances for action, but also _ourselves_ as
+embodied agents in the world, and ultimately ourselves _as representers_, the
+evolving brain converged on the _self_ as the solution to a control problem.
+We cannot easily appreciate the self-model-within-a-world-model _as_ a model,
+because &ldquo;we&rdquo; only exist in virtue of the model, as its central
+feature.
 
 The symposium is a forum to elaborate, discuss and critique this emerging
 scientific picture of consciousness as a form of reflective behaviour. We
