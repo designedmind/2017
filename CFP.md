@@ -15,30 +15,32 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-When I consider my own mind, the fact that I am consciousness is quite
-mysterious. It seems to be a &ldquo;further fact&rdquo; about me, surplus to
-all the conceivable functional facts, that I have subjective experience. At
-least in principle, it seems possible that a machine could have the same
-outward behaviour yet lack an inner life. These intuitions are compelling, and
-lead many to the conclusion that understanding consciousness will require a
-new kind of science. Some propose identifying consciousness with
-information-processing of a certain complexity; others construe it as an
-emergent epiphenomenon. These ideas accommodate our intuitions, but offer
-little insight into why such an identification makes sense, or why such a
-thing as consciousness should emerge.
+When I consider my own mind, the fact that I have subjective experience is
+quite mysterious. It seems to be a &ldquo;further fact&rdquo; about me,
+surplus to all the conceivable functional facts. I can imagine a machine with
+the same outward behaviour, yet lacking an inner life. These intuitions are
+compelling, and lead many to conclude that understanding consciousness will
+require a new kind of science. Some propose identifying consciousness with
+information-processing of a certain complexity. Others propose that
+consciousness is an epiphenomenon, present whenever certain kinds of processes
+are present. These ideas accommodate our intuitions, but offer little insight
+into why such an identification makes sense, or why some processes are
+accompanied by such a thing as consciousness.
  
 A striking feature of the &ldquo;further fact&rdquo; intuition is that it
 leaves consciousness in a passive role, with little to do except come along
-for the ride. This neglects the fact that consciousness is much of the
-_subject matter_ of what we say and do: we can describe the world _from a
-vantage point_, contrast how things _seem_ from that vantage point with how we
-believe the world to be, summarise our goals and plans, explain the world
-around us in terms of possibilities for action, and justify the actions we
-take in terms of consciously held beliefs, desires and feelings. While we
-intuit strongly that these things could somehow happen without
-&ldquo;real&rdquo; consciousness inside, we remain curiously oblivious to the
-fact that if we are able to talk about consciousness at all, then it can only
-be a psychological mechanism taking place in the physical world.
+for the ride. This neglects a crucial fact about our behaviour, namely that
+consciousness is much of the _subject matter_ of what we say and do. We can
+describe the world _from a vantage point_, contrast how things _seem_ from
+that vantage point with how we believe the world to be, summarise our goals
+and plans, explain the world around us in terms of possibilities for action,
+and justify the actions we take in terms of consciously held beliefs, desires
+and feelings. While we intuit strongly that these things could somehow happen
+without &ldquo;real&rdquo; consciousness inside, we remain curiously oblivious
+to the fact that if we are able to talk about consciousness at all &mdash; if
+&ldquo;consciousness talk&rdquo; is ever to be about &ldquo;actualc
+onsciousness&rdquo; &mdash; then the latter must be a psychological mechanism
+taking place in the physical world.
 
 It is therefore this feature of our phenotype &mdash; elaborate behaviour
 oriented around an ostensibly private mental life &mdash; that is the proper
