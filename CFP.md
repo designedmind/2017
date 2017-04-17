@@ -38,8 +38,8 @@ and justify the actions we take in terms of consciously held beliefs, desires
 and feelings. While we intuit strongly that these things could somehow happen
 without &ldquo;real&rdquo; consciousness inside, we remain curiously oblivious
 to the fact that if we are able to talk about consciousness at all &mdash; if
-&ldquo;consciousness talk&rdquo; is ever to be about &ldquo;actualc
-onsciousness&rdquo; &mdash; then the latter must be a psychological mechanism
+&ldquo;consciousness talk&rdquo; is ever to be about &ldquo;actual
+consciousness&rdquo; &mdash; then the latter must be a psychological mechanism
 taking place in the physical world.
 
 It is therefore this feature of our phenotype &mdash; elaborate behaviour
