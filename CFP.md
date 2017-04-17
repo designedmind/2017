@@ -15,27 +15,30 @@ KEYNOTE SPEAKERS
 
 REPRESENTING OURSELVES
 
-Many feel that understanding consciousness will require a new kind of science.
-One popular move is to identify consciousness with general-purpose
-information-processing of a certain complexity. No insight is offered into why
-such an identification makes sense, and consciousness is relegated to a
-passive role, bereft of specific features that distinguish it from information
-processing in general. Another, related intuition construes consciousness as
-an emergent epiphenomenon, something that accompanies certain kinds of complex
-behaviours.
-
-The basic problem with these perspectives is that they leave consciousness in
-a passive role, with little to do except come along for the ride. This
-neglects the extents the distinct functional role that consciousness plays in
-our behaviour. Consciousness much of the subject matter of what we say and do:
-we can describe the world _from a vantage point_, contrast how things _seem_
-from that vantage point with how they believe the world to be, summarise our
-goals and plans, explain the world around our in terms of possibilities for
-action, and justify the actions we take in terms of consciously held beliefs,
-desires and feelings. While we intuit strongly that these things could somehow
-happen without &ldquo;real&rdquo; consciousness inside, we remain curiously
-oblivious to the fact that if we are able to talk about consciousness at all,
-then can only be a psychological mechanism taking place in the physical world.
+When we consider our own minds, we seem privy to our own consciousness in a
+way that no-one else can be. Consciousness seems to be a fact about me in
+addition to all the functional facts about me. It seems quite plausible that a
+machine with identical functionality could nevertheless have no &ldquo;light
+on&rdquo; inside. These (compelling) intuitions lead many to the conclusion
+that understanding consciousness will require a new kind of science. Some
+propose identifying consciousness with general-purpose information-processing
+of a certain complexity, but offer no insight into why such an identification
+makes sense. Others construe consciousness as an emergent epiphenomenon, but
+again offer no reason for thinking such a thing should emerge, beyond the fact
+that it accords with the further-fact intuition.
+ 
+The basic problem with these perspectives is that they relegate consciousness
+to a passive role, with little to do except come along for the ride. This
+neglects the extent to which consciousness the subject matter of much of what
+we say and do: we can describe the world _from a vantage point_, contrast how
+things _seem_ from that vantage point with how we believe the world to be,
+summarise our goals and plans, explain the world around us in terms of
+possibilities for action, and justify the actions we take in terms of
+consciously held beliefs, desires and feelings. While we intuit strongly that
+these things could somehow happen without &ldquo;real&rdquo; consciousness
+inside, we remain curiously oblivious to the fact that if we are able to talk
+about consciousness at all, then can only be a psychological mechanism taking
+place in the physical world.
 
 It is this feature of our phenotype &mdash; elaborate behaviour oriented
 around an ostensibly private mental life &mdash; that is the proper target, or
