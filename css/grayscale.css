@@ -345,3 +345,7 @@ body {
 .row {
    font-size: 16px;
 }
+
+.top-buffer {
+   margin-top:10px; 
+}
