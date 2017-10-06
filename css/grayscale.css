@@ -357,3 +357,12 @@ body {
 .row-shading {
    background-color:rgba(255, 255, 255, 0.2);
 }
+
+/* https://css-tricks.com/hash-tag-links-padding */
+.anchor:before {
+  display: block;
+  content: " ";
+  margin-top: -50px;
+  height: 50px;
+  visibility: hidden;
+}
