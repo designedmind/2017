@@ -1,1 +1,1 @@
-GitHub Pages website for the Designed Mind 2017 conference.
+Website for the Designed Mind 2017 conference.
