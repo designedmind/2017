@@ -30,6 +30,8 @@ What was the cognitive/social niche that drove the evolution of subjectivity and
 
 #### Animal consciousness
 
+#### Control theory and cybernetics
+
 ### Notes
 
 - Don’t even bother engaging with the non-functional/Hard Problem POV. There‘s a lot to say already and this will just get in the way. Similarly, I’ve avoided the term "consciousness" as much as possible and talked instead of "subjectivity" (and "deliberative action" over "free will").
