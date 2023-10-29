@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test-and-deploy:
+  deploy:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@v4
