@@ -2,9 +2,9 @@
 
 ### Draft
 
-How does subjective experience evolve and what is it for? Modern accounts, as developed by Daniel Dennett, Thomas Metzinger and others, propose that our subjective world is the content of an internal self-simulation: a brain's way of representing the organism as a _situated agent_ with all kinds of action, both overt and covert, as its disposal. By enabling new levels of autonomy, self-monitoring and deliberation, subjectivity evolves as the functional basis of intelligent, purposive behaviour.
+How does subjective experience evolve and what is it for? Modern accounts, as developed by Daniel Dennett, Thomas Metzinger and others, propose that we understand our subjective life as the content of an internal self-simulation. By representing the organism as a _situated agent_ with opportunities for action, both overt and covert, as its disposal, this self-simulation or self-model permits new levels of autonomy, self-monitoring and deliberation. On this view subjectivity evolves hand-in-hand with the kind of intelligent, purposive behaviour typical of humans.
 
-This emerging understanding of subjectivity as key to the biological engineering of intelligence is now on a collision course with AI. In the search for artificial systems able to engage in human-style reasoning, AI researchers are turning to Global Neuronal Workspace, Attention Schema theory and other theories of consciousness and coopting them as design proposals for new kinds of intelligent system. Perhaps for the first time, the prospect of building a machine that attributes to itself a rich inner mental life, as humans do, is becoming a plausible reality. While the ethical and societal implications of doing so are vast, its scientific and philosophical significance is also not to be underestimated.
+This emerging understanding of the biological function of consciousness is now seeing practical application in the engineering of artificial systems able to engage in human-style reasoning. Theories of consciousness such as Global Neuronal Workspace and Attention Schema theory are being developed into new architectures for AI. Perhaps for the first time, the prospect of building a machine that attributes to itself a rich inner mental life, as humans do, is becoming a plausible reality. While the ethical and societal implications of doing so are vast, its scientific and philosophical significance is also not to be underestimated.
 
 This two-day symposium will bring together cognitive scientists, philosophers, computer scientists, roboticists, neuroscientists and biologists interested in the science, evolution and engineering of subjectivity and deliberative action.
 
@@ -12,15 +12,15 @@ This two-day symposium will bring together cognitive scientists, philosophers, c
 
 We invite contributions from a wide variety of fields (cognitive science, philosophy, neuroscience, AI, robotics and evolutionary biology) with a close fit to the themes of the symposium.
 
-#### Active inference, free will and subjectivity
+#### Active inference
 
-#### Metacognition and subjective experience
+#### Metacognition
 
 #### Covert action and mental affordances
 
 How much of our subjective lives can be understood in terms of covert action? Can pain and other first-person "feelings" be understood in terms of affordances for self-attribution? What are the consequences of these actions, if they are covert – perhaps the ability to influence downstream overt action? Is covertness key to understanding our intuition that consciousness is profoundly "private"? Will intelligent machines try to convince us of a Hard Problem?
 
-#### Subjectivity, free will and behavioural flexibility
+#### Behavioural flexibility and free will
 
 What kinds of behaviours require subjectivity? To what extent can "free will" – understood as a form of deliberative, considered action with the potential for regret – be separated from subjective experience?
 
@@ -32,7 +32,7 @@ What was the cognitive/social niche that drove the evolution of subjectivity and
 
 #### Control theory and cybernetics
 
-### Notes
+### Notes/Questions
 
 - Don’t even bother engaging with the non-functional/Hard Problem POV. There‘s a lot to say already and this will just get in the way. Similarly, I’ve avoided the term "consciousness" as much as possible and talked instead of "subjectivity" (and "deliberative action" over "free will").
 
