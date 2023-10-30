@@ -2,9 +2,9 @@
 
 ### Draft
 
-How does subjective experience evolve and what is it for? Modern accounts, as developed by Daniel Dennett, Thomas Metzinger and others, propose that our subjective world is the content of an internal self-simulation: a brain's way of representing the organism as a _situated agent_ with all kinds of action, both overt and covert, as its disposal. By enabling new levels of autonomy, self-monitoring and deliberation, subjectivity evolves as the functional basis of intelligent, purposive behaviour.
+How does subjective experience evolve and what is it for? Modern accounts, as developed by Daniel Dennett, Thomas Metzinger and others, propose that we understand our subjective life as the content of an internal self-simulation. By representing the organism as a _situated agent_ with opportunities for action, both overt and covert, as its disposal, this self-simulation or self-model enables new levels of autonomy, self-monitoring and deliberation. On this view subjectivity evolves as the functional basis of the kind of intelligent, purposive behaviour typical of humans.
 
-This emerging understanding of subjectivity as key to the biological engineering of intelligence is now on a collision course with AI. In the search for artificial systems able to engage in human-style reasoning, AI researchers are turning to Global Neuronal Workspace, Attention Schema theory and other theories of consciousness and coopting them as design proposals for new kinds of intelligent system. Perhaps for the first time, the prospect of building a machine that attributes to itself a rich inner mental life, as humans do, is becoming a plausible reality. While the ethical and societal implications of doing so are vast, its scientific and philosophical significance is also not to be underestimated.
+This emerging understanding of subjectivity is now seeing practical application in artificial intelligence. In the search for artificial systems able to engage in human-style reasoning, some AI researchers have turned to Global Neuronal Workspace, Attention Schema theory and other theories of consciousness, and have coopted them as proposals for the design of new kinds of intelligent system. Perhaps for the first time, the prospect of building a machine that attributes to itself a rich inner mental life, as humans do, is becoming a plausible reality. While the ethical and societal implications of doing so are vast, its scientific and philosophical significance is also not to be underestimated.
 
 This two-day symposium will bring together cognitive scientists, philosophers, computer scientists, roboticists, neuroscientists and biologists interested in the science, evolution and engineering of subjectivity and deliberative action.
 
@@ -32,7 +32,7 @@ What was the cognitive/social niche that drove the evolution of subjectivity and
 
 #### Control theory and cybernetics
 
-### Notes
+### Notes/Questions
 
 - Don’t even bother engaging with the non-functional/Hard Problem POV. There‘s a lot to say already and this will just get in the way. Similarly, I’ve avoided the term "consciousness" as much as possible and talked instead of "subjectivity" (and "deliberative action" over "free will").
 
