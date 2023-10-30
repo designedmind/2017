@@ -12,15 +12,15 @@ This two-day symposium will bring together cognitive scientists, philosophers, c
 
 We invite contributions from a wide variety of fields (cognitive science, philosophy, neuroscience, AI, robotics and evolutionary biology) with a close fit to the themes of the symposium.
 
-#### Active inference, free will and subjectivity
+#### Active inference
 
-#### Metacognition and subjective experience
+#### Metacognition
 
 #### Covert action and mental affordances
 
 How much of our subjective lives can be understood in terms of covert action? Can pain and other first-person "feelings" be understood in terms of affordances for self-attribution? What are the consequences of these actions, if they are covert – perhaps the ability to influence downstream overt action? Is covertness key to understanding our intuition that consciousness is profoundly "private"? Will intelligent machines try to convince us of a Hard Problem?
 
-#### Subjectivity, free will and behavioural flexibility
+#### Behavioural flexibility and free will
 
 What kinds of behaviours require subjectivity? To what extent can "free will" – understood as a form of deliberative, considered action with the potential for regret – be separated from subjective experience?
 
